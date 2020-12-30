@@ -126,7 +126,7 @@ O liberalismo triunfou e conseguiu inculcar em nossas mentes e instituições a 
 * Winner and losers. O predomínio da mentalidade dos vencedores
 
 ## Confiança e cooperação
-Uma guinada em direção a uma sociedade diferente deve enfrentar frontalmente o desafio de superar a desconfiança e de desfazer o longevo feitiço que uma tradição liberal e protoliberal conjurou sobre nosso olhar sobre relações dos seres humanos. De Hobbes a Hayek. 
+Uma guinada em direção a uma sociedade diferente deve enfrentar frontalmente o desafio de superar a desconfiança e de desfazer o longevo feitiço que uma tradição liberal e protoliberal conjurou sobre nosso olhar sobre relações entre seres humanos. De Hobbes a Hayek. 
 * Desigualdade, violência, medo e desconfiança. As chaves do Leviatã. Respeito nas sociedades competitivas e desiguais
     * Desconfiança. *It comes at night*, *There will be blood*
     * Pobreza, injustiça e desigualdade cognitiva
@@ -150,6 +150,8 @@ O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito 
     * Como uma sociedade acelerada pode lidar com a mudança sem abandonar instituições?
 
 ### Com quem aprendemos?
-* Complexididade: desvalorização dos modelos de sociedade tradicionais
-* O tempo dos animais (Cassirer e os macacos)
-* Brainets: implicações epistêmicas e terapêuticas da coletivização da consciência
+* Complexididade: desvalorização dos modelos de sociedade tradicionais. Como é possível aprender com o que não se respeita.
+    * Fontes de aprendizado: androides e extraterrestres
+* O tempo dos animais (Cassirer e os macacos). O ritmo como um problema central do capitalismo
+* [Brainets: implicações epistêmicas e terapêuticas da coletivização da consciência](https://www1.folha.uol.com.br/ciencia/2020/08/cerebro-humano-e-capaz-de-criar-realidade-diz-neurocientista.shtml). A espontânea coincidência entre cientistas, filósofos e a New Age
+    * [Panpsychism](https://iai.tv/video/the-consciousness-puzzle-panpsychism&_auid=2020)
