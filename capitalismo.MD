@@ -15,13 +15,13 @@ Há inegavelmente uma infinidade de críticas ao capitalismo, nas mais variadas 
 
 ## Sumário
 
-1. Ecologia
+1. [Ecologia](#ecologia) 
     1. Economia Ecológica e Descrecimento
         1. O limite da natureza
         1. Recursos naturais e energéticos 
     1. A rede da vida
     1. Torneiras e rios
-1. Subjetividade
+1. [Subjetividade](#subjetividade)
     1. Publicidade e a formação do desejo
     1. Conforto e Mimo
 1. Intersubjetividade
@@ -31,7 +31,7 @@ Há inegavelmente uma infinidade de críticas ao capitalismo, nas mais variadas 
         1. Visões sobre o futuro
         1. Com quem aprendemos?
 
-# Ecologia
+# Ecologia <a name="ecologia"></a>
 A relação entre os seres humanos, a `natureza` e o meio ambiente.
 
 ## Economia Ecológica e Descrecimento
@@ -90,7 +90,7 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
 * [Jeff Bezos](https://piaui.folha.uol.com.br/materia/o-grande-plano/) e [Elon Musk](https://tribunemag.co.uk/2020/12/billionaire-space-colonialism-is-a-dead-end-for-humanity) e as tecnologias para nos mandar pra fora da Terra. Colonialismo espacial e o paroxismo da civilização antiecológica
 * [Bruno Latour sobre a vontade de fugir](https://www1.folha.uol.com.br/ambiente/2020/09/se-o-brasil-achar-solucao-para-si-vai-salvar-o-resto-do-mundo-diz-bruno-latour.shtml), o não pertencimento (antiecologia) e a o medo relatado por [Douglas Rushkoff e os preparativos dos mais ricos do colapso e insurreições provocados pela colapso](https://onezero.medium.com/survival-of-the-richest-9ef6cddd0cc1)
 
-# Subjetividade
+# Subjetividade <a name="subjetividade"></a>
 A formação da mentalidade dos `indivíduos` no contexto de uma sociedade capitalista.
 
 ## Publicidade e a formação do desejo
@@ -144,7 +144,7 @@ O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito 
 ### Visões sobre o futuro
 * [Maynard e a jornada de trabalho do futuro](https://www.newyorker.com/magazine/2020/02/10/can-we-have-prosperity-without-growth): expectativa e realidade. Sobre a jornada de 8h de trabalho
 * O lugar do lúdico, Marcuse. Trabalho versus Jogo
-* A estreiteza da nossa visão sobre a história (3800 até Abraão, não é nada)
+* A estreiteza da nossa visão sobre a história (3800 anos de hoje até Abraão, não é nada)
 * A impossibilidade dos *puzzle solvers* darem uma resposta a algo que não é meramente um problema técnico (isto é, parte do esquema problema/solução com que eles tendem a ver todas as coisas)
 * Tecnologias da estabilidade: construindo um modo de lidar com a mudança
     * Como uma sociedade acelerada pode lidar com a mudança sem abandonar instituições?
