@@ -10,8 +10,7 @@ Por que financiar pesquisas sobre uma possível alternativa ao capitalismo? Ser�
 
 Há inegavelmente uma infinidade de críticas ao capitalismo, nas mais variadas disciplinas acadêmicas, mas elas não são mais que que expressões da pluralidade acadêmica e não indicativos de que a sociedade científica está mobilizada e considera o capitalismo um problema urgente. Enquanto oferece um rico panorama dos nossos problemas, a ciência espera respostas das instituições competentes, mas ela jamais julgará o capitalismo como responsável ou causa primordial desses problemas. A ciência hoje está formada por especialistas, e estas pessoas que julgar responsabilidade éticas e políticas faz parte do seu âmbito de competência técnica. A ciência não cortará seu próprio galho, nem que a razão, a lógica e qualquer outra Deusa do olimpo intelectual lhe peça de joelhos.
 
->A arbitrariedade das três seções. Elas são abrangentes mas não pretendem ser universais nem abragentes a ponto de não deixar nada do lado de fora. São apenas ilustrativas, como **perspectivas** para olhar o fenômeno do capitalismo. Esse texto tem propósito estritamente ilustrativo, não argumentativo, já que a matéria sobre que trata é fundamental e, portanto, esteja protegido de forças coersivas. 
- - - - - 
+>As três seções são abrangentes mas não pretendem ser universais nem esgotar o tema, há muitos aspectos do lado de fora. Elas são apenas ilustrativas e *arbitrárias*, como **perspectivas** para abordar o fenômeno do capitalismo. O esquema tem propósito estritamente ilustrativo, isto é, ele não pretende conter nenhuma dimensão argumentativa já que o tema questão é *fundamental* e, portanto, esta protegido contra forças coersivas. 
 
 ## Sumário
 
@@ -31,6 +30,7 @@ Há inegavelmente uma infinidade de críticas ao capitalismo, nas mais variadas 
     1. [O tempo e o futuro](#tempo)
         1. [Visões sobre o futuro](#futuro)
         1. [Com quem aprendemos?](#quem)
+ - - - - 
 
 # Ecologia <a name="ecologia"></a>
 A relação entre os seres humanos, a `natureza` e o meio ambiente.
