@@ -6,9 +6,9 @@ Leonardo Silva Bernardes
 https://brausen.com.br    
  -->
 `A ciência nunca alvejará o capitalismo!` 
-Por que financiar pesquisas sobre a substituição do capitalismo? Será que existem pesquisas importantes envolvendo esse tema? Onde elas estão? Digo, em que centros de pesquisa, em que universidades? Em que departamentos? Será que estão em Oxford, em Harvard? *— Devem estar, pois essas são as melhores, não é mesmo?* **Não há pesquisa envolvendo a substituição do capitalismo, simples assim**. Será que então é seguro dizer que o capitalismo é o maior *dogma* das sociedades humanas (como o dogma da democracia de que fala Ortega y Gasset)?
+Por que financiar pesquisas sobre uma possível alternativa ao capitalismo? Será que existem pesquisas importantes envolvendo esse tema? Onde elas estão? Digo, em que centros de pesquisa, em que universidades? Em que departamentos? Será que estão em Oxford, em Harvard? *— Devem estar, pois essas são as melhores, não é mesmo?* **Não há pesquisa envolvendo alternativas ao capitalismo, simples assim**. Então é seguro dizer que o capitalismo é o maior *dogma* das sociedades humanas (como o dogma da democracia de que fala Ortega y Gasset)?
 
-Não me parece compreensível que não existam pesquisas acadêmicas investigando a substituição do capitalismo. As pesquisas isoladas em departamentos de Sociologia, Economia, História e outros não podem ser consideradas mais que expressões da pluralidade acadêmica e não indicativos de que a sociedade científica considera o capitalismo um problema técnico urgente que exige uma pronta solução. A ciência não cortará seu próprio galho, nem que a razão, a lógica e qualquer outra deusa lhe peça de joelhos.
+Há inegavelmente uma infinidade de críticas ao capitalismo, nas mais variadas disciplinas acadêmicas, mas elas não são mais que que expressões da pluralidade acadêmica e não indicativos de que a sociedade científica está mobilizada e considera o capitalismo um problema urgente. Enquanto oferece um rico panorama dos nossos problemas, a ciência espera respostas das instituições competentes, mas ela jamais julgará o capitalismo como responsável ou causa primordial desses problemas. A ciência hoje está formada por especialistas, e estas pessoas que julgar responsabilidade éticas e políticas faz parte do seu âmbito de competência técnica. A ciência não cortará seu próprio galho, nem que a razão, a lógica e qualquer outra Deusa do olimpo intelectual lhe peça de joelhos.
 
 >A arbitrariedade das três seções. Elas são abrangentes mas não pretendem ser universais nem abragentes a ponto de não deixar nada do lado de fora. São apenas ilustrativas, como **perspectivas** para olhar o fenômeno do capitalismo. Esse texto tem propósito estritamente ilustrativo, não argumentativo, já que a matéria sobre que trata é fundamental e, portanto, esteja protegido de forças coersivas. 
  - - - - 
@@ -47,6 +47,7 @@ Os incontornáveis obstáculos teóricos ao crescimento econômico e à forma de
 ![Elon Musk e a Bolívia](https://brausen.com.br/wp-content/uploads/2020/12/evo_morales_bolivia_elon_musk.jpeg)
 * A água como um elemento insubstituível. O delírio das soluções alternativas à preservação dos rios e aquíferos.
     * São Paulo, Califórnia, França e Espanha na últlima década: experiências de desabastecimento e seca.
+* Conflitos em torno da questão da água (como os conflitos do oriente médio, em torno do rio Jordão)
 * Insumos após o colapso climático (desestabilização da cadeia produtiva de uma economia globalizada). Os litorais após efeitos do aquecimento global. *Sentindo apenas o imediato (cozinhando o sapo)*
 
 ![Previsão do impacto no Rio de Janeiro](https://brausen.com.br/wp-content/uploads/2020/12/screenshot_153530_202012362.png)
@@ -64,23 +65,30 @@ O efeito da presença humana. O que significa a ecologia? A influência mútua, 
 
 ![Poorlydrawnlines](https://brausen.com.br/wp-content/uploads/2020/12/poorlydrawnlines_9d4b0759843ed.jpg) 
 ## Torneiras e rios
-Sujeitos urbanos já não são capazes de compreender a natureza como recurso, apenas como serviço, como algo pelo que eles pagam. Nós nascemos tendo contato com a água por meio de torneiras, isso dificulta que sejamos capazes de entender que a água é sempre recurso, por mais acessível que seja?
+Sujeitos urbanos já não são capazes de compreender a natureza como recurso, apenas como serviço, como algo pelo que eles pagam. Nós nascemos tendo contato com a água por meio de torneiras, isso dificulta o entendimento de que, por mais acessível que seja, a água é sempre recurso. 
 
 ![Pantano de San Juan](https://brausen.com.br/wp-content/uploads/2020/12/IMG_20190814_150643_247_DOIS.jpg)
 > *Os níveis de água no Pântano de San Juan em 2019*
 ### Natureza e cultura
-* A instituição da relação com a natureza. A arrogância humana, Levi Strauss sobre os animais e homens
+* A institucionalização da relação com a natureza. A arrogância humana, Levi Strauss sobre a animalidade dos homens.
 > Começou-se por cortar o homem da natureza e constituí-lo como um reino supremo. Supunha-se apagar desse modo seu caráter mais irrecusável, qual seja, ele é primeiro um ser vivo. E permanecendo cegos a essa propriedade comum, deixou-se o campo livre para todos os abusos. Nunca antes do termo destes últimos quatro séculos de sua história, o homem ocidental percebeu tão bem que, ao arrogar-se o direito de separar radicalmente a humanidade da animalidade, concedendo a uma tudo o que tirava da outra, abria um ciclo maldito. E que a mesma fronteira, constantemente empurrada, serviria para separar homens de outros homens, e reivindicar em prol de minorias cada vez mais restritas o privilégio de um humanismo, corrompido de nascença por ter feito do amor-próprio seu princípio e noção. — Levi-Strauss. *Antropologia Estrututral*
-* Tendência a confirmação. O papel da estabilidade na ciência (ciência normal e revolução)
-* *Animal in Epistemology*. Antropologia e Primatologia. A disputa em torno da evolução. Kroptkin, Darwkins e Hayek sobre competição e cooperação [Chomski, cooperar ou extinguir] **&#8595; MAIS SOBRE o tema na seção Intersubjetividade**
+* Tendência a confirmação. O papel da estabilidade (~~resistência~~) da ciência (ciência normal e revolução) e o impacto na atitude indolente dos cientistas a respeito do capitalismo
+    * **Ciência e mercado**. O efeito da pesquisa no desenvolvimento científico. Ainda que os estados nacionais (interesse público) sejam os maiores financiadores do desenvolvimento científico, a influência e a necessidade de que a pesquisa induza produtividade e inovação tecnológica (mais produtividade) viciam a liberdade da ciência. A mão invisível do mercado (interesse privada) coage, o dinheiro manda. Pesquisa e Financiamento: a liberdade condicionada da ciência.
+* *Animal in Epistemology*. Antropologia e Primatologia. A disputa narrativa em torno da evolução humana (pós-Darwin): Kropotkin, Darwkins e Hayek sobre competição e cooperação [Chomski, *Cooperar ou extinguir*] **&#8595; MAIS SOBRE o tema na seção Intersubjetividade**
+    * Transhumanismo e húbris tecnológica
 ### Os rios voadores, os Andes e o Serrano. 
-* A complexidade da relação entre Rios Voadores e o Serrado
-* Inteligência e natureza. A vaidade da inteligência humana
-### Sistemas complexos (visões não deterministas)
-* *Emerging engineering*, visões não deterministas sobre a natureza, não apenas não mecanicista mas não realista.
+* A complexidade da relação entre Rios Voadores e o Cerrado como exemplo do caráter insubstituível das relações naturais. 
+    * [Altair Barbosa sobre a complexidade do Bioma Cerrado](https://www.jornalopcao.com.br/entrevistas/o-cerrado-esta-extinto-e-isso-leva-ao-fim-dos-rios-e-dos-reservatorios-de-agua-16970/): raízes e sementes. 
+    * [Antonio Nobre sobre, entre outras coisas, os rios voadores](https://www.youtube.com/watch?v=_9-fia-bdlo)
+    * O sonho de criar um ambiente artificial, a cidade e o meio ambiente. Smart Cities como sintoma de uma compreensão antiecológica da vida humana
+* Inteligência e natureza. A vaidade da inteligência humana: *Comparative cognition*
+### Sistemas complexos
+*  [Visões não deterministas: a esperança dentro da ciência](https://aeon.co/essays/complex-systems-science-allows-us-to-see-new-paths-forward). Outras paradigmas de força: rejeitar o controle (materialismo) e amar o destino. O lugar do inexato, do impreciso. Sistemas complexos como um dos poucos marcos científicos (transdisciplinar) que dá algum alento. 
+    * *Emerging engineering*, lidando com a natureza sem propósitos reducionistas.
+* É possível substituir os paradigmas deterministas da ciência sem mudar nossa forma de vida?
 ### Buscando outro planeta 
-* Jeff Bezos e Elon Musk e as tecnologias para nos mandar pra fora da Terra
-* Bruno Latour sobre a vontade de fugir, o não pertencimento (antiecologia) e a o medo relatado por Douglas Rushkoff
+* [Jeff Bezos](https://piaui.folha.uol.com.br/materia/o-grande-plano/) e [Elon Musk](https://tribunemag.co.uk/2020/12/billionaire-space-colonialism-is-a-dead-end-for-humanity) e as tecnologias para nos mandar pra fora da Terra. Colonialismo espacial e o paroxismo da civilização antiecológica
+* [Bruno Latour sobre a vontade de fugir](https://www1.folha.uol.com.br/ambiente/2020/09/se-o-brasil-achar-solucao-para-si-vai-salvar-o-resto-do-mundo-diz-bruno-latour.shtml), o não pertencimento (antiecologia) e a o medo relatado por [Douglas Rushkoff e os preparativos dos mais ricos do colapso e insurreições provocados pela colapso](https://onezero.medium.com/survival-of-the-richest-9ef6cddd0cc1)
 
 # Subjetividade
 A formação da mentalidade dos `indivíduos` no contexto de uma sociedade capitalista.
@@ -88,43 +96,60 @@ A formação da mentalidade dos `indivíduos` no contexto de uma sociedade capit
 ## Publicidade e a formação do desejo
 O que nós queremos? Como o capitalismo forma não apenas o nosso desejo, mas quem somos (identidade), o que almejamos.
 
-* *Adestramento e reflexão*. Como é possível escapar do efeito do adestramento numa sociedade que confunde pensamento e técnica? Preciso mais que pluralidade, precisamos de um *mindset* que nos torne capazes de aceitar o anormal.
+* *Adestramento e reflexão*. Como é possível escapar do efeito do adestramento numa sociedade que confunde pensamento e técnica? É preciso mais que pluralidade, precisamos de um *mindset* que nos torne capazes de aceitar o anormal.
 * Algoritmos e técnicas de manipulação de consciência. [Jaron Lanier](https://www.youtube.com/watch?v=kc_Jq42Og7Q
 ) e [Martin Hilbert](https://www.bbc.com/portuguese/salasocial-54678733
 ) sobre *Dopamine farms* e técnicas de manipulação inerentes à economia da atenção
     * Cambridge Analytica, [caso paradigmático](https://www.showmetech.com.br/big-data-trump/).
 * *Century of Self*, documentário da BBC sobre como o indíviduo passou ao primeiro plano ao longo do século XX, em prejuízo das lutas coletivas.
+
 [![BBC: Century of Self ](http://img.youtube.com/vi/DnPmg0R1M04/0.jpg)](http://www.youtube.com/watch?v=DnPmg0R1M04 "BBC: Century of Self ")
 ## Conforto e Mimo
-O verdadeiro fiador do capitalismo são os confortos e mimos criados dentro dessa forma de vida, a sensação de fulfilment produzida pela saceamento de necessidades produzidas dentro do próprio sistema (a ausência de um padrão autônomo de satisfação e suficiência)
+Os verdadeiros fiadores do capitalismo são os confortos e mimos criados dentro dessa forma de vida, a sensação de realização (*fulfilment*) produzida pela saceamento de necessidades produzidas dentro do próprio sistema (a ausência de um padrão autônomo de satisfação e suficiência)
 
-* Urbano e o mundo natural. Restaurantes e todos os confortos
-* Estatísticas de qualidade de vida: construindo uma justificativa
-* Parques e os simulacros da natureza
-* Necessidades: satisfação e suficiência na sociedade da abundância
+* Urbano e o mundo natural.
+    * Restaurantes, serviços e todos os confortos
+    * *Netflix and chill*
+    * As tecnologias do conforto: tecidos, texturas e experiências
+    * Parques urbanos e os simulacros da natureza. Criando a ilusão da integração
+* Estatísticas de qualidade de vida: construindo uma justificativa (justificando o injustificável)
+* Necessidades: satisfação e suficiência na sociedade da abundância. A heteronomia do desejo, a heteronomia na lógica de produção capitalista. Páreas e malditos (Bush People)
 
 # Intersubjetividade
 A `relação` entre humanos e outros animais.
 
 ## Ego, vaidade e competição
+O liberalismo triunfou e conseguiu inculcar em nossas mentes e instituições a ideia de que a competição é a motor da vida humana. As consequências deletérias dessa mentalidade alimentam a desconfiança que tendemos a confirmar em funções do predomínio de experiências desfavoráveis com outros humanos.
 
 * Raiva e sadismo (inconscientes)
-* Tirania (There will be blood)
+* Tirania (*There will be blood*) e o ódio (o avesso do amor)
+* Winner and losers. O predomínio da mentalidade dos vencedores
 
 ## Confiança e cooperação
-* Desconfiança. *It comes at night*
-* Aprender com o primitivo: descomplexificar. O lugar do simples
-* Conhecimento livre
+Uma guinada em direção a uma sociedade diferente deve enfrentar frontalmente o desafio de superar a desconfiança e de desfazer o longevo feitiço que uma tradição liberal e protoliberal conjurou sobre nosso olhar sobre relações dos seres humanos. De Hobbes a Hayek. 
+* Desigualdade, violência, medo e desconfiança. As chaves do Leviatã. Respeito nas sociedades competitivas e desiguais
+    * Desconfiança. *It comes at night*, *There will be blood*
+    * Pobreza, injustiça e desigualdade cognitiva
+* Aprender com o primitivo: descomplexificar. O lugar do simples.
+* Conhecimento livre: como experiências tecnológicas tem sedimentado uma visão sobre a colaboração que contorna os frágeis argumentos favoráveis à competição, a ponto de que o software livre tenha se tornado o marco de desenvolvimento de software.
+    * Azure: a experiência da Microsoft e do Linux
+    * Pirataria e a pesquisa nos países pobres
+* Amizade: não é por acaso que a ascenção da extrema direita acompanha um discurso que realça o papel da família, é na família que mentalidade puritana crê que deve depositar sua confiança e em nenhum outro lugar.
+    * Goethe como arma, a restauração do papel da amizade.
+    * [Mandela sobre a hospitalidade](https://brausen.com.br/2020/03/a-gente-tambem-se-fortalece/)
 
 ## O tempo e o futuro
+O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito da nossa capacidade de ver o mundo de uma perspectiva assustadoramente ampla. É indispensável que nos acostumemos a ver o mundo de uma perspectiva mais ampla que nosso curta e insignificante expectativa de vida.
 
 ### Visões sobre o futuro
-* Maynard e a jornada de trabalho
-* O lugar do lúdico, Marcuse
-* A estreiteza sobre o nosso tempo
-* A impossibilidade dos puzzle solvers darem uma resposta a algo que não meramente um problema (isto é, parte do esquema problema/solução com que eles tendem a ver todas as coisas)
+* [Maynard e a jornada de trabalho do futuro](https://www.newyorker.com/magazine/2020/02/10/can-we-have-prosperity-without-growth): expectativa e realidade. Sobre a jornada de 8h de trabalho
+* O lugar do lúdico, Marcuse. Trabalho versus Jogo
+* A estreiteza da nossa visão sobre a história (3800 até Abraão, não é nada)
+* A impossibilidade dos *puzzle solvers* darem uma resposta a algo que não é meramente um problema técnico (isto é, parte do esquema problema/solução com que eles tendem a ver todas as coisas)
 * Tecnologias da estabilidade: construindo um modo de lidar com a mudança
+    * Como uma sociedade acelerada pode lidar com a mudança sem abandonar instituições?
 
 ### Com quem aprendemos?
 * Complexididade: desvalorização dos modelos de sociedade tradicionais
-* O tempo dos animais
+* O tempo dos animais (Cassirer e os macacos)
+* Brainets: implicações epistêmicas e terapêuticas da coletivização da consciência
