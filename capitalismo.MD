@@ -16,31 +16,32 @@ Há inegavelmente uma infinidade de críticas ao capitalismo, nas mais variadas 
 ## Sumário
 
 1. [Ecologia](#ecologia) 
-    1. Economia Ecológica e Descrecimento
-        1. O limite da natureza
-        1. Recursos naturais e energéticos 
-    1. A rede da vida
-    1. Torneiras e rios
+    1. [Economia Ecológica e Descrecimento](#economia)
+        1. [O limite da natureza](#limite)
+        1. [Recursos naturais e energéticos](#recursos) 
+    1. [A rede da vida](#red)
+        1. [Pegada ecológica e Antropoceno](#pegada) 
+    1. [Torneiras e rios](#torneira)
 1. [Subjetividade](#subjetividade)
-    1. Publicidade e a formação do desejo
-    1. Conforto e Mimo
-1. Intersubjetividade
-    1. Ego, vaidade e competição
-    1. Confiança e cooperação
-    1. O tempo e o futuro
-        1. Visões sobre o futuro
-        1. Com quem aprendemos?
+    1. [Publicidade e a formação do desejo](#publicidade)
+    1. [Conforto e Mimo](#mimo)
+1. [Intersubjetividade](#intersubjetividade)
+    1. [Ego, vaidade e competição](#ego)
+    1. [Confiança e cooperação](#confianca)
+    1. [O tempo e o futuro](#tempo)
+        1. [Visões sobre o futuro](#futuro)
+        1. [Com quem aprendemos?](#quem)
 
 # Ecologia <a name="ecologia"></a>
 A relação entre os seres humanos, a `natureza` e o meio ambiente.
 
-## Economia Ecológica e Descrecimento
-Os incontornáveis obstáculos teóricos ao crescimento econômico e à forma de vida capitalista.
+## Economia Ecológica e Descrecimento <a name="economia"></a>
+Os incontornáveis obstáculos teóricos e práticos ao crescimento econômico e à forma de vida capitalista.
 
-### O limite da natureza
+### O limite da natureza <a name="limite"></a>
 * A [barreira termodinâmica ao crescimento econômico](https://www.academia.edu/4196307/A_natureza_como_limite_da_economia_a_contribui%C3%A7%C3%A3o_de_Nicholas_Georgescu_Roegen), o único modelo econômico de todos os estados nacionais do planeta.
 * Decrescer e descomplexificar: [vivendo como um animal num planeta finito](https://www.youtube.com/watch?v=uGAbh-E_c5s)
-### Recursos naturais e energéticos 
+### Recursos naturais e energéticos <a name="recursos"></a>
 * Combustíveis fosséis, energia solar, aeólica, motor a plasma de hidrogênio, etc. A necessária e cega crença no desenvolvimento de fontes alternativas de energias que paralisam a crítica ao sistema e que induzem a pesquisa (produtividade), como se tratasse de um problema técnico 
     * A impossibilidade de substituir os combustíveis fosséis [Pedro Prieto](https://www.youtube.com/watch?v=g3MLj8E-GyY)
 * O litio das baterias Tesla e a política da América do Sul. Elon Musk e os interesses das empresas que fabricam carros elétricos. Recursos esgotáveis de soluções messiánicas
@@ -53,10 +54,10 @@ Os incontornáveis obstáculos teóricos ao crescimento econômico e à forma de
 ![Previsão do impacto no Rio de Janeiro](https://brausen.com.br/wp-content/uploads/2020/12/screenshot_153530_202012362.png)
 > [The three-degree world: the cities that will be drowned by global warming](https://www.theguardian.com/cities/ng-interactive/2017/nov/03/three-degree-world-cities-drowned-global-warming)
 
-## A rede da vida
+## A rede da vida <a name="rede"></a>
 O efeito da presença humana. O que significa a ecologia? A influência mútua, o efeito caótico, o efeito borboleta dos sistemas complexos (sistema não estacionários)
 
-### Pegada ecológica e Antropoceno 
+### Pegada ecológica e Antropoceno <a name="pegada"></a>
 * Mais de 250 tipos de [novos minerais derivados da ação e influência humana](https://www.theguardian.com/science/2017/mar/01/rock-of-ages-impact-of-manmade-crystals-defining-new-geological-epoch-study) na natureza.
 * [Sexta grande extinção em massa](https://www.nytimes.com/2019/05/06/climate/biodiversity-extinction-united-nations.html). A imprevisibilidade do impacto de extinções massivas num sistema não determístico
     * [Apocalipse dos insetos](https://www.nytimes.com/2018/11/27/magazine/insect-apocalypse.html), das abelhas
@@ -93,7 +94,7 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
 # Subjetividade <a name="subjetividade"></a>
 A formação da mentalidade dos `indivíduos` no contexto de uma sociedade capitalista.
 
-## Publicidade e a formação do desejo
+## Publicidade e a formação do desejo <a name="publicidade"></a>
 O que nós queremos? Como o capitalismo forma não apenas o nosso desejo, mas quem somos (identidade), o que almejamos.
 
 * *Adestramento e reflexão*. Como é possível escapar do efeito do adestramento numa sociedade que confunde pensamento e técnica? É preciso mais que pluralidade, precisamos de um *mindset* que nos torne capazes de aceitar o anormal.
@@ -104,7 +105,7 @@ O que nós queremos? Como o capitalismo forma não apenas o nosso desejo, mas qu
 * *Century of Self*, documentário da BBC sobre como o indíviduo passou ao primeiro plano ao longo do século XX, em prejuízo das lutas coletivas.
 
 [![BBC: Century of Self ](http://img.youtube.com/vi/DnPmg0R1M04/0.jpg)](http://www.youtube.com/watch?v=DnPmg0R1M04 "BBC: Century of Self ")
-## Conforto e Mimo
+## Conforto e Mimo <a name="mimo"></a>
 Os verdadeiros fiadores do capitalismo são os confortos e mimos criados dentro dessa forma de vida, a sensação de realização (*fulfilment*) produzida pela saceamento de necessidades produzidas dentro do próprio sistema (a ausência de um padrão autônomo de satisfação e suficiência)
 
 * Urbano e o mundo natural.
@@ -115,17 +116,17 @@ Os verdadeiros fiadores do capitalismo são os confortos e mimos criados dentro 
 * Estatísticas de qualidade de vida: construindo uma justificativa (justificando o injustificável)
 * Necessidades: satisfação e suficiência na sociedade da abundância. A heteronomia do desejo, a heteronomia na lógica de produção capitalista. Páreas e malditos (Bush People)
 
-# Intersubjetividade
+# Intersubjetividade <a name="intersubjetividade"></a>
 A `relação` entre humanos e outros animais.
 
-## Ego, vaidade e competição
+## Ego, vaidade e competição <a name="ego"></a>
 O liberalismo triunfou e conseguiu inculcar em nossas mentes e instituições a ideia de que a competição é a motor da vida humana. As consequências deletérias dessa mentalidade alimentam a desconfiança que tendemos a confirmar em funções do predomínio de experiências desfavoráveis com outros humanos.
 
 * Raiva e sadismo (inconscientes)
 * Tirania (*There will be blood*) e o ódio (o avesso do amor)
 * Winner and losers. O predomínio da mentalidade dos vencedores
 
-## Confiança e cooperação
+## Confiança e cooperação <a name="confianca"></a>
 Uma guinada em direção a uma sociedade diferente deve enfrentar frontalmente o desafio de superar a desconfiança e de desfazer o longevo feitiço que uma tradição liberal e protoliberal conjurou sobre nosso olhar sobre relações entre seres humanos. De Hobbes a Hayek. 
 * Desigualdade, violência, medo e desconfiança. As chaves do Leviatã. Respeito nas sociedades competitivas e desiguais
     * Desconfiança. *It comes at night*, *There will be blood*
@@ -138,10 +139,10 @@ Uma guinada em direção a uma sociedade diferente deve enfrentar frontalmente o
     * Goethe como arma, a restauração do papel da amizade.
     * [Mandela sobre a hospitalidade](https://brausen.com.br/2020/03/a-gente-tambem-se-fortalece/)
 
-## O tempo e o futuro
+## O tempo e o futuro <a name="tempo"></a>
 O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito da nossa capacidade de ver o mundo de uma perspectiva assustadoramente ampla. É indispensável que nos acostumemos a ver o mundo de uma perspectiva mais ampla que nosso curta e insignificante expectativa de vida.
 
-### Visões sobre o futuro
+### Visões sobre o futuro <a name="futuro"></a>
 * [Maynard e a jornada de trabalho do futuro](https://www.newyorker.com/magazine/2020/02/10/can-we-have-prosperity-without-growth): expectativa e realidade. Sobre a jornada de 8h de trabalho
 * O lugar do lúdico, Marcuse. Trabalho versus Jogo
 * A estreiteza da nossa visão sobre a história (3800 anos de hoje até Abraão, não é nada)
@@ -149,7 +150,7 @@ O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito 
 * Tecnologias da estabilidade: construindo um modo de lidar com a mudança
     * Como uma sociedade acelerada pode lidar com a mudança sem abandonar instituições?
 
-### Com quem aprendemos?
+### Com quem aprendemos? <a name="quem"></a>
 * Complexididade: desvalorização dos modelos de sociedade tradicionais. Como é possível aprender com o que não se respeita.
     * Fontes de aprendizado: androides e extraterrestres
 * O tempo dos animais (Cassirer e os macacos). O ritmo como um problema central do capitalismo
