@@ -6,11 +6,11 @@ Leonardo Silva Bernardes
 https://brausen.com.br    
  -->
 `A ciência nunca alvejará o capitalismo!` 
-Por que financiar pesquisas sobre uma possível alternativa ao capitalismo? Será que existem pesquisas importantes envolvendo esse tema? Onde elas estão? Digo, em que centros de pesquisa, em que universidades? Em que departamentos? Será que estão em Oxford, em Harvard? *— Devem estar, pois essas são as melhores, não é mesmo?* **Não há pesquisa envolvendo alternativas ao capitalismo, simples assim**. Então é seguro dizer que o capitalismo é o maior *dogma* das sociedades humanas (como o dogma da democracia de que fala Ortega y Gasset)?
+Por que financiar pesquisas sobre uma possível alternativa ao capitalismo? Existem pesquisas importantes envolvendo esse tema? Onde elas estão? Digo, em que centros de pesquisa, em que universidades? Em que departamentos? **Não há pesquisas envolvendo alternativas ao capitalismo, simples assim**. Será então é seguro dizer que o capitalismo é o maior *dogma* das sociedades humanas (como o dogma da democracia de que fala Ortega y Gasset)?
 
-Há inegavelmente uma infinidade de críticas ao capitalismo, nas mais variadas disciplinas acadêmicas, mas elas não são mais que que expressões da pluralidade acadêmica e não indicativos de que a sociedade científica está mobilizada e considera o capitalismo um problema urgente. Enquanto oferece um rico panorama dos nossos problemas, a ciência espera respostas das instituições competentes, mas ela jamais julgará o capitalismo como responsável ou causa primordial desses problemas. A ciência hoje está formada por especialistas, e estas pessoas que julgar responsabilidade éticas e políticas faz parte do seu âmbito de competência técnica. A ciência não cortará seu próprio galho, nem que a razão, a lógica e qualquer outra Deusa do olimpo intelectual lhe peça de joelhos.
+Há inegavelmente uma infinidade de críticas ao capitalismo, mas elas não são mais que que expressões da pluralidade acadêmica e não indicativos de que a sociedade científica está mobilizada e considera o capitalismo uma questão urgente. Enquanto oferece um rico panorama dos nossos problemas, a ciência espera respostas das instituições competentes, mas ela jamais julgará o capitalismo como responsável ou causa primordial desses problemas. A ciência hoje está formada por especialistas e para estas pessoas julgar responsabilidades éticas e políticas faz parte do seu âmbito de competência (técnica). A ciência não cortará seu próprio galho, nem que a razão, a lógica e qualquer outra Deusa do olimpo intelectual lhe peça de joelhos.
 
->As três seções são abrangentes mas não pretendem ser universais nem esgotar o tema, há muitos aspectos do lado de fora. Elas são apenas ilustrativas e *arbitrárias*, como **perspectivas** para abordar o fenômeno do capitalismo. O esquema tem propósito estritamente ilustrativo, isto é, ele não pretende conter nenhuma dimensão argumentativa já que o tema questão é *fundamental* e, portanto, esta protegido contra forças coersivas. 
+>As três seções são abrangentes mas não pretendem ser universais nem esgotar o tema, assim, há muitos aspectos do lado de fora. Nesse sentido, elas são *arbitrárias*, como **perspectivas** para abordar o fenômeno do capitalismo. O esquema tem propósito estritamente ilustrativo, isto é, ele não pretende conter nenhuma dimensão argumentativa já que o tema questão é *fundamental* e, portanto, está protegido contra forças coersivas. Seu sentido consiste apenas em reunir ideias e fatos para aqueles que *alguma vez pensaram sobre este tema*. 
 
 ## Sumário
 
@@ -81,8 +81,9 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
 * A complexidade da relação entre Rios Voadores e o Cerrado como exemplo do caráter insubstituível das relações naturais. 
     * [Altair Barbosa sobre a complexidade do Bioma Cerrado](https://www.jornalopcao.com.br/entrevistas/o-cerrado-esta-extinto-e-isso-leva-ao-fim-dos-rios-e-dos-reservatorios-de-agua-16970/): raízes e sementes. 
     * [Antonio Nobre sobre, entre outras coisas, os rios voadores](https://www.youtube.com/watch?v=_9-fia-bdlo)
-    * O sonho de criar um ambiente artificial, a cidade e o meio ambiente. Smart Cities como sintoma de uma compreensão antiecológica da vida humana
-* Inteligência e natureza. A vaidade da inteligência humana: *Comparative cognition*
+    * O sonho de criar um ambiente artificial, a cidade e o meio ambiente. *Smart Cities* como sintoma de uma compreensão antiecológica da vida humana
+* Inteligência e natureza. A vaidade da inteligência humana e a subestimação da inteligência animal.
+    * *Comparative cognition*: [pássaros](https://science.sciencemag.org/content/369/6511/1626.editor-summary), [aranhas](https://piaui.folha.uol.com.br/materia/teco-logo-existo/), etc
 ### Sistemas complexos
 *  [Visões não deterministas: a esperança dentro da ciência](https://aeon.co/essays/complex-systems-science-allows-us-to-see-new-paths-forward). Outras paradigmas de força: rejeitar o controle (materialismo) e amar o destino. O lugar do inexato, do impreciso. Sistemas complexos como um dos poucos marcos científicos (transdisciplinar) que dá algum alento. 
     * *Emerging engineering*, lidando com a natureza sem propósitos reducionistas.
@@ -108,7 +109,8 @@ O que nós queremos? Como o capitalismo forma não apenas o nosso desejo, mas qu
 ## Conforto e Mimo <a name="mimo"></a>
 Os verdadeiros fiadores do capitalismo são os confortos e mimos criados dentro dessa forma de vida, a sensação de realização (*fulfilment*) produzida pela saceamento de necessidades produzidas dentro do próprio sistema (a ausência de um padrão autônomo de satisfação e suficiência)
 
-* Urbano e o mundo natural.
+* Urbano e o mundo natural. A relação humana com o mundo construída a partir do ambiente urbano
+    * O esvaziamento das zonas urbanas
     * Restaurantes, serviços e todos os confortos
     * *Netflix and chill*
     * As tecnologias do conforto: tecidos, texturas e experiências
@@ -156,3 +158,10 @@ O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito 
 * O tempo dos animais (Cassirer e os macacos). O ritmo como um problema central do capitalismo
 * [Brainets: implicações epistêmicas e terapêuticas da coletivização da consciência](https://www1.folha.uol.com.br/ciencia/2020/08/cerebro-humano-e-capaz-de-criar-realidade-diz-neurocientista.shtml). A espontânea coincidência entre cientistas, filósofos e a New Age
     * [Panpsychism](https://iai.tv/video/the-consciousness-puzzle-panpsychism&_auid=2020)
+
+ - - - - 
+Este esquema é essencialmente provisório, pois seu propósito é reunir ideias para tê-las presente na memória ao considerar o tema do capitalismo. Assim, o conteúdo que aqui se apresenta é continuamente suplementado.
+
+Leonardo Bernardes
+
+https://brausen.com.br
