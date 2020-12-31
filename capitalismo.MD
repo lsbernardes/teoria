@@ -109,34 +109,35 @@ O que nós queremos? Como o capitalismo forma não apenas o nosso desejo, mas qu
 ## Conforto e Mimo <a name="mimo"></a>
 Os verdadeiros fiadores do capitalismo são os confortos e mimos criados dentro dessa forma de vida, a sensação de realização (*fulfilment*) produzida pela saceamento de necessidades produzidas dentro do próprio sistema (a ausência de um padrão autônomo de satisfação e suficiência)
 
-* Urbano e o mundo natural. A relação humana com o mundo construída a partir do ambiente urbano
-    * O esvaziamento das zonas urbanas
-    * Restaurantes, serviços e todos os confortos
+* O urbano e o mundo natural. A relação humana com o mundo construída a partir do ambiente urbano
+    * O esvaziamento das zonas rurais e o adensamento urbano
+    * Restaurantes, serviços e os confortos de um dos dois arquétipos do capitalismo: o turista.
     * *Netflix and chill*
     * As tecnologias do conforto: tecidos, texturas e experiências
     * Parques urbanos e os simulacros da natureza. Criando a ilusão da integração
-* Estatísticas de qualidade de vida: construindo uma justificativa (justificando o injustificável)
+* Padrões de qualidade de vida: construindo uma justificativa (justificando o injustificável). O papel da racionalidade no acondicionamento da jaula de aço.
 * Necessidades: satisfação e suficiência na sociedade da abundância. A heteronomia do desejo, a heteronomia na lógica de produção capitalista. Páreas e malditos (Bush People)
 
 # Intersubjetividade <a name="intersubjetividade"></a>
-A `relação` entre humanos e outros animais.
+A `relação` dos humanos entre si e com os outros animais.
 
 ## Ego, vaidade e competição <a name="ego"></a>
 O liberalismo triunfou e conseguiu inculcar em nossas mentes e instituições a ideia de que a competição é a motor da vida humana. As consequências deletérias dessa mentalidade alimentam a desconfiança que tendemos a confirmar em funções do predomínio de experiências desfavoráveis com outros humanos.
 
 * Raiva e sadismo (inconscientes)
-* Tirania (*There will be blood*) e o ódio (o avesso do amor)
-* Winner and losers. O predomínio da mentalidade dos vencedores
+* Tirania (*There will be blood*) e o ódio
+* *Winner and losers*. O predomínio da mentalidade dos vencedores e seu impacto nas relações sociais
+    * O caráter asfixiante e estabilizador do normal (normalidade)
 
 ## Confiança e cooperação <a name="confianca"></a>
-Uma guinada em direção a uma sociedade diferente deve enfrentar frontalmente o desafio de superar a desconfiança e de desfazer o longevo feitiço que uma tradição liberal e protoliberal conjurou sobre nosso olhar sobre relações entre seres humanos. De Hobbes a Hayek. 
+Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o desafio de superar a desconfiança e de desfazer o longevo feitiço que uma tradição liberal e protoliberal conjurou sobre nosso olhar sobre relações entre seres humanos. De Hobbes a Hayek. 
 * Desigualdade, violência, medo e desconfiança. As chaves do Leviatã. Respeito nas sociedades competitivas e desiguais
-    * Desconfiança. *It comes at night*, *There will be blood*
+    * Desconfiança. *It comes at night*, [*There will be blood*](https://www.youtube.com/watch?v=o_z2eqPKiYA)
     * Pobreza, injustiça e desigualdade cognitiva
 * Aprender com o primitivo: descomplexificar. O lugar do simples.
 * Conhecimento livre: como experiências tecnológicas tem sedimentado uma visão sobre a colaboração que contorna os frágeis argumentos favoráveis à competição, a ponto de que o software livre tenha se tornado o marco de desenvolvimento de software.
     * Azure: a experiência da Microsoft e do Linux
-    * Pirataria e a pesquisa nos países pobres
+    * Os donos do conhecimento: Pirataria e a pesquisa acadêmica nos países pobres
 * Amizade: não é por acaso que a ascenção da extrema direita acompanha um discurso que realça o papel da família, é na família que mentalidade puritana crê que deve depositar sua confiança e em nenhum outro lugar.
     * Goethe como arma, a restauração do papel da amizade.
     * [Mandela sobre a hospitalidade](https://brausen.com.br/2020/03/a-gente-tambem-se-fortalece/)
@@ -148,13 +149,13 @@ O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito 
 * [Maynard e a jornada de trabalho do futuro](https://www.newyorker.com/magazine/2020/02/10/can-we-have-prosperity-without-growth): expectativa e realidade. Sobre a jornada de 8h de trabalho
 * O lugar do lúdico, Marcuse. Trabalho versus Jogo
 * A estreiteza da nossa visão sobre a história (3800 anos de hoje até Abraão, não é nada)
-* A impossibilidade dos *puzzle solvers* darem uma resposta a algo que não é meramente um problema técnico (isto é, parte do esquema problema/solução com que eles tendem a ver todas as coisas)
-* Tecnologias da estabilidade: construindo um modo de lidar com a mudança
-    * Como uma sociedade acelerada pode lidar com a mudança sem abandonar instituições?
+* A impossibilidade dos *puzzle solvers* darem uma resposta a algo que não é meramente um problema técnico (isto é, que não é parte do esquema problema/solução com que eles tendem a ver todas as coisas)
+* Tecnologias da estabilidade: construindo um modo (não estável) de lidar com a mudança
+    * Pode uma sociedade acelerada pode lidar com a mudança sem abandonar instituições?
 
 ### Com quem aprendemos? <a name="quem"></a>
-* Complexididade: desvalorização dos modelos de sociedade tradicionais. Como é possível aprender com o que não se respeita.
-    * Fontes de aprendizado: androides e extraterrestres
+* Complexididade: desvalorização dos modelos de sociedade tradicionais. Como é possível aprender com o que não se respeita?
+    * Modelos de inteligência (fontes de aprendizado) de seres complexos: **androides e extraterrestres**. A ficção como sintoma
 * O tempo dos animais (Cassirer e os macacos). O ritmo como um problema central do capitalismo
 * [Brainets: implicações epistêmicas e terapêuticas da coletivização da consciência](https://www1.folha.uol.com.br/ciencia/2020/08/cerebro-humano-e-capaz-de-criar-realidade-diz-neurocientista.shtml). A espontânea coincidência entre cientistas, filósofos e a New Age
     * [Panpsychism](https://iai.tv/video/the-consciousness-puzzle-panpsychism&_auid=2020)
@@ -163,5 +164,4 @@ O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito 
 Este esquema é essencialmente provisório, pois seu propósito é reunir ideias para tê-las presente na memória ao considerar o tema do capitalismo. Assim, o conteúdo que aqui se apresenta é continuamente suplementado.
 
 Leonardo Bernardes
-
 https://brausen.com.br
