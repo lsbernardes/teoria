@@ -138,7 +138,7 @@ Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o 
 * Conhecimento livre: como experiências tecnológicas tem sedimentado uma visão sobre a colaboração que contorna os frágeis argumentos favoráveis à competição, a ponto de que o software livre tenha se tornado o marco de desenvolvimento de software.
     * Azure: a experiência da Microsoft e do Linux
     * Os donos do conhecimento: Pirataria e a pesquisa acadêmica nos países pobres
-* Amizade: não é por acaso que a ascenção da extrema direita acompanha um discurso que realça o papel da família, é na família que mentalidade puritana crê que deve depositar sua confiança e em nenhum outro lugar.
+* Amizade: não é por acaso que a ascensão da extrema direita acompanha um discurso que realça o papel da família, é na família que mentalidade puritana crê que deve depositar sua confiança e em nenhum outro lugar.
     * Goethe como arma, a restauração do papel da amizade.
     * [Mandela sobre a hospitalidade](https://brausen.com.br/2020/03/a-gente-tambem-se-fortalece/)
 
