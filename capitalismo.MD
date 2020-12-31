@@ -125,16 +125,16 @@ Os verdadeiros fiadores do capitalismo são os confortos e mimos criados dentro 
     * As tecnologias do conforto: tecidos, texturas e experiências
     * Parques urbanos e os simulacros da natureza. Criando a ilusão da integração
 * Padrões de qualidade de vida: construindo uma justificativa (justificando o injustificável). O papel da racionalidade no acondicionamento da jaula de aço.
-* Necessidades: satisfação e suficiência na sociedade da abundância. A heteronomia do desejo, a heteronomia na lógica de produção capitalista. Páreas e malditos (Bush People)
+* Necessidades: satisfação e suficiência na sociedade da abundância. A heteronomia do desejo, a heteronomia na lógica de produção capitalista. Páreas e malditos (Bush People e a lógica dos *survivors*)
 
 # Intersubjetividade <a name="intersubjetividade"></a>
 A `relação` dos humanos entre si e com os outros animais.
 
 ## Ego, vaidade e competição <a name="ego"></a>
-O liberalismo triunfou e conseguiu inculcar em nossas mentes e instituições a ideia de que a competição é a motor da vida humana. As consequências deletérias dessa mentalidade alimentam a desconfiança que tendemos a confirmar em funções do predomínio de experiências desfavoráveis com outros humanos.
+O liberalismo triunfou e conseguiu inculcar em nossas mentes e instituições a ideia de que a competição é a motor da vida humana. As consequências deletérias dessa mentalidade alimentam a desconfiança que tendemos a confirmar em função do predomínio de experiências desfavoráveis com outros humanos.
 
-* Raiva e sadismo (inconscientes)
-* Tirania (*There will be blood*) e o ódio
+* Raiva e sadismo (inconscientes). Tirania (*There will be blood*) e o ódio (a ausência do amor)
+[![Humans. Documentário sobre a variedade dos seres humanos](http://img.youtube.com/vi/vdb4XGVTHkE/0.jpg)](http://www.youtube.com/watch?v=vdb4XGVTHkE "Humans. Documentário sobre a variedade dos seres humanos")
 * *Winner and losers*. O predomínio da mentalidade dos vencedores e seu impacto nas relações sociais
     * O caráter asfixiante e estabilizador do normal (normalidade)
 
