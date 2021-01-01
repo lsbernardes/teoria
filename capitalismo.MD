@@ -88,10 +88,9 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
     * [Altair Barbosa sobre a complexidade do Bioma Cerrado](https://www.jornalopcao.com.br/entrevistas/o-cerrado-esta-extinto-e-isso-leva-ao-fim-dos-rios-e-dos-reservatorios-de-agua-16970/): raízes e sementes. 
     * [Antonio Nobre sobre, entre outras coisas, os rios voadores](https://www.youtube.com/watch?v=_9-fia-bdlo)
     * O sonho de criar um ambiente artificial, a cidade e o meio ambiente. *Smart Cities* como sintoma de uma compreensão antiecológica da vida humana
-*  SUV: ostentação e sucesso nos países pobres (meu pau te ama), substituição fálica   
-* 5G e a tecnologia
+        * Big Data (sistemas de arquivos e técnicas de processamento paralelo), 5G, IA, Internet das coisas: infraestrutura das *smart cities*
+*  SUV: ostentação e sucesso nos países pobres, fálico e a potência. 
 * Inteligência e natureza. A vaidade da inteligência humana e a subestimação da inteligência animal.
-* Renda Universal? 
     * *Comparative cognition*: [pássaros](https://science.sciencemag.org/content/369/6511/1626.editor-summary), [aranhas](https://piaui.folha.uol.com.br/materia/teco-logo-existo/), etc
 ### Sistemas complexos
 *  [Visões não deterministas: a esperança dentro da ciência](https://aeon.co/essays/complex-systems-science-allows-us-to-see-new-paths-forward). Outras paradigmas de força: rejeitar o controle (materialismo) e amar o destino. O lugar do inexato, do impreciso. Sistemas complexos como um dos poucos marcos científicos (transdisciplinar) que dá algum alento. 
@@ -187,3 +186,5 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 
 Leonardo Bernardes
 https://brausen.com.br
+
+Última atualização: 2021-01-01 21:21:19.789990
