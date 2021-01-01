@@ -48,6 +48,7 @@ Os incontornáveis obstáculos teóricos e práticos ao crescimento econômico e
 ![Elon Musk e a Bolívia](https://brausen.com.br/wp-content/uploads/2020/12/evo_morales_bolivia_elon_musk.jpeg)
 * A água como um elemento insubstituível. O delírio das soluções alternativas à preservação dos rios e aquíferos.
     * São Paulo, Califórnia, França e Espanha na últlima década: experiências de desabastecimento e seca.
+    * Preservar ou integrar? O dilema das instituições. David Attenborough e My Octopus Teacher, a lugar liberal pelo meio ambiente
 * Conflitos em torno da questão da água (como os conflitos do oriente médio, em torno do rio Jordão)
 * Insumos após o colapso climático (desestabilização da cadeia produtiva de uma economia globalizada). Os litorais após efeitos do aquecimento global. *Sentindo apenas o imediato (cozinhando o sapo)*
 
@@ -88,7 +89,9 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
     * [Antonio Nobre sobre, entre outras coisas, os rios voadores](https://www.youtube.com/watch?v=_9-fia-bdlo)
     * O sonho de criar um ambiente artificial, a cidade e o meio ambiente. *Smart Cities* como sintoma de uma compreensão antiecológica da vida humana
 *  SUV: ostentação e sucesso nos países pobres (meu pau te ama), substituição fálica   
+* 5G e a tecnologia
 * Inteligência e natureza. A vaidade da inteligência humana e a subestimação da inteligência animal.
+* Renda Universal? 
     * *Comparative cognition*: [pássaros](https://science.sciencemag.org/content/369/6511/1626.editor-summary), [aranhas](https://piaui.folha.uol.com.br/materia/teco-logo-existo/), etc
 ### Sistemas complexos
 *  [Visões não deterministas: a esperança dentro da ciência](https://aeon.co/essays/complex-systems-science-allows-us-to-see-new-paths-forward). Outras paradigmas de força: rejeitar o controle (materialismo) e amar o destino. O lugar do inexato, do impreciso. Sistemas complexos como um dos poucos marcos científicos (transdisciplinar) que dá algum alento. 
@@ -127,6 +130,10 @@ Os verdadeiros fiadores do capitalismo são os confortos e mimos criados dentro 
 * Padrões de qualidade de vida: construindo uma justificativa (justificando o injustificável). O papel da racionalidade no acondicionamento da jaula de aço.
 * Necessidades: satisfação e suficiência na sociedade da abundância. A heteronomia do desejo, a heteronomia na lógica de produção capitalista. Páreas e malditos (Bush People e a lógica dos *survivors*)
 
+### Prazeres do corpo: hedonismo e capitalismo
+
+* O prazer como abstração, o prazer no lugar do dinheiro. Aquilo que é a medida de todas as coisas. O hedonismo é a alma do capitalismo, os prazeres do corpo. Prazer como mercadoria. O que sempre pode se adicionar. Prazer e felicidade!
+
 # Intersubjetividade <a name="intersubjetividade"></a>
 A `relação` dos humanos entre si e com os outros animais.
 
@@ -134,7 +141,9 @@ A `relação` dos humanos entre si e com os outros animais.
 O liberalismo triunfou e conseguiu inculcar em nossas mentes e instituições a ideia de que a competição é a motor da vida humana. As consequências deletérias dessa mentalidade alimentam a desconfiança que tendemos a confirmar em função do predomínio de experiências desfavoráveis com outros humanos.
 
 * Raiva e sadismo (inconscientes). Tirania (*There will be blood*) e o ódio (a ausência do amor)
-[![Humans. Documentário sobre a variedade dos seres humanos](http://img.youtube.com/vi/vdb4XGVTHkE/0.jpg)](http://www.youtube.com/watch?v=vdb4XGVTHkE "Humans. Documentário sobre a variedade dos seres humanos")
+
+[![Humans. Documentário sobre a variedade dos seres humanos](http://img.youtube.com/vi/vdb4XGVTHkE/0.jpg)](http://www.youtube.com/watch?v=vdb4XGVTHkE)
+> *Humans. Documentário sobre a variedade dos seres humanos*
 * *Winner and losers*. O predomínio da mentalidade dos vencedores e seu impacto nas relações sociais
     * O caráter asfixiante e estabilizador do normal (normalidade)
 
@@ -150,12 +159,16 @@ Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o 
 * Amizade: não é por acaso que a ascensão da extrema direita acompanha um discurso que realça o papel da família, é na família que mentalidade puritana crê que deve depositar sua confiança e em nenhum outro lugar.
     * Goethe como arma, a restauração do papel da amizade.
     * [Mandela sobre a hospitalidade](https://brausen.com.br/2020/03/a-gente-tambem-se-fortalece/)
+* Ajuda mútua: não é por acaso que o livro de Kropotkin começa discutindo a ideia de ajuda mútua no reino animal. Não é por acaso que Michael Tomaselli discute o papel da colaboração na constituição da catraca evolutiva que nos diferencia. Não se trata tomar partido de um dos lados na busca por num justificação 
+    * Oxitocina: hormônios do amor? Precisamos de mais explicações? É preciso explicar o sentido da cooperação ou deixar-se convencer pelo medo de que os outros são o inimigo?
 
 ## O tempo e o futuro <a name="tempo"></a>
 O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito da nossa capacidade de ver o mundo de uma perspectiva assustadoramente ampla. É indispensável que nos acostumemos a ver o mundo de uma perspectiva mais ampla que nosso curta e insignificante expectativa de vida.
 
 ### Visões sobre o futuro <a name="futuro"></a>
 * [Maynard e a jornada de trabalho do futuro](https://www.newyorker.com/magazine/2020/02/10/can-we-have-prosperity-without-growth): expectativa e realidade. Sobre a jornada de 8h de trabalho
+* O direito à vagabundagem. Pavese, Lafargue e Nietzsche: trabalho e homens ativo. O anti ética protestante da malandragem
+
 * O lugar do lúdico, Marcuse. Trabalho versus Jogo
 * A estreiteza da nossa visão sobre a história (3800 anos de hoje até Abraão, não é nada)
 * A impossibilidade dos *puzzle solvers* darem uma resposta a algo que não é meramente um problema técnico (isto é, que não é parte do esquema problema/solução com que eles tendem a ver todas as coisas)
