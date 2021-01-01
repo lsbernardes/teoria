@@ -145,6 +145,7 @@ O liberalismo triunfou e conseguiu inculcar em nossas mentes e instituições a 
 > *Humans. Documentário sobre a variedade dos seres humanos*
 * *Winner and losers*. O predomínio da mentalidade dos vencedores e seu impacto nas relações sociais
     * O caráter asfixiante e estabilizador do normal (normalidade)
+* **A obsessão pela própria imagem, a imagem de si mesmo**. Narcisismo e vaidade. Cinema: *American Psycho, Advogado do Diabo, Cosmopolis*    
 
 ## Confiança e cooperação <a name="confianca"></a>
 Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o desafio de superar a desconfiança e de desfazer o longevo feitiço que uma tradição liberal e protoliberal conjurou sobre nosso olhar sobre relações entre seres humanos. De Hobbes a Hayek. 
@@ -166,7 +167,7 @@ O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito 
 
 ### Visões sobre o futuro <a name="futuro"></a>
 * [Maynard e a jornada de trabalho do futuro](https://www.newyorker.com/magazine/2020/02/10/can-we-have-prosperity-without-growth): expectativa e realidade. Sobre a jornada de 8h de trabalho
-* O direito à vagabundagem. Pavese, Lafargue e Nietzsche: trabalho e homens ativo. O anti ética protestante da malandragem
+* O direito à vagabundagem. Pavese, Lafargue e Nietzsche: trabalho e homens ativos. A malandragem contra a ética protestante 
     * O lugar do lúdico, Marcuse. Trabalho versus Jogo
 * A estreiteza da nossa visão sobre a história (3800 anos de hoje até Abraão, não é nada)
 * A impossibilidade dos *puzzle solvers* darem uma resposta a algo que não é meramente um problema técnico (isto é, que não é parte do esquema problema/solução com que eles tendem a ver todas as coisas)
