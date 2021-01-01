@@ -89,7 +89,7 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
     * [Antonio Nobre sobre, entre outras coisas, os rios voadores](https://www.youtube.com/watch?v=_9-fia-bdlo)
     * O sonho de criar um ambiente artificial, a cidade e o meio ambiente. *Smart Cities* como sintoma de uma compreensão antiecológica da vida humana
         * Big Data (sistemas de arquivos e técnicas de processamento paralelo), 5G, IA, Internet das coisas: infraestrutura das *smart cities*
-*  SUV: ostentação e sucesso nos países pobres, fálico e a potência. 
+*  SUV: ostentação e sucesso nos países pobres, o discurso do *winner* (macaqueando os vencedores) 
 * Inteligência e natureza. A vaidade da inteligência humana e a subestimação da inteligência animal.
     * *Comparative cognition*: [pássaros](https://science.sciencemag.org/content/369/6511/1626.editor-summary), [aranhas](https://piaui.folha.uol.com.br/materia/teco-logo-existo/), etc
 ### Sistemas complexos
@@ -122,7 +122,7 @@ Os verdadeiros fiadores do capitalismo são os confortos e mimos criados dentro 
 
 * O urbano e o mundo natural. A relação humana com o mundo construída a partir do ambiente urbano
     * O esvaziamento das zonas rurais e o adensamento urbano
-    * Restaurantes, serviços e os confortos de um dos dois arquétipos do capitalismo: o turista.
+    * Restaurantes, serviços e os confortos de um dos mais fortes arquétipos do capitalismo: o turista.
     * *Netflix and chill*
     * As tecnologias do conforto: tecidos, texturas e experiências
     * Parques urbanos e os simulacros da natureza. Criando a ilusão da integração
@@ -151,14 +151,14 @@ Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o 
 * Desigualdade, violência, medo e desconfiança. As chaves do Leviatã. Respeito nas sociedades competitivas e desiguais
     * Desconfiança. *It comes at night*, [*There will be blood*](https://www.youtube.com/watch?v=o_z2eqPKiYA)
     * Pobreza, injustiça e desigualdade cognitiva
-* Aprender com o primitivo: descomplexificar. O lugar do simples.
+* Aprender com o "primitivo": descomplexificar. O lugar do simples.
 * Conhecimento livre: como experiências tecnológicas tem sedimentado uma visão sobre a colaboração que contorna os frágeis argumentos favoráveis à competição, a ponto de que o software livre tenha se tornado o marco de desenvolvimento de software.
     * Azure: a experiência da Microsoft e do Linux
-    * Os donos do conhecimento: Pirataria e a pesquisa acadêmica nos países pobres
+    * Os donos do conhecimento: pirataria e a pesquisa acadêmica nos países pobres
 * Amizade: não é por acaso que a ascensão da extrema direita acompanha um discurso que realça o papel da família, é na família que mentalidade puritana crê que deve depositar sua confiança e em nenhum outro lugar.
-    * Goethe como arma, a restauração do papel da amizade.
+    * Goethe como arma, a restauração do papel da amizade. Afinidades eletivas, confiança, conexão e confluência (do afetivo ao epistêmico [brainets])
     * [Mandela sobre a hospitalidade](https://brausen.com.br/2020/03/a-gente-tambem-se-fortalece/)
-* Ajuda mútua: não é por acaso que o livro de Kropotkin começa discutindo a ideia de ajuda mútua no reino animal. Não é por acaso que Michael Tomaselli discute o papel da colaboração na constituição da catraca evolutiva que nos diferencia. Não se trata tomar partido de um dos lados na busca por num justificação 
+* Ajuda mútua: não é por acaso que o livro de Kropotkin começa discutindo a ideia de ajuda mútua no reino animal. Não é por acaso que Michael Tomaselli discute o papel da colaboração na constituição da catraca evolutiva que nos diferencia. Não se trata tomar partido de um dos lados na busca por um justificação. I don't a horse in this race, como 
     * Oxitocina: hormônios do amor? Precisamos de mais explicações? É preciso explicar o sentido da cooperação ou deixar-se convencer pelo medo de que os outros são o inimigo?
 
 ## O tempo e o futuro <a name="tempo"></a>
@@ -187,4 +187,4 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-01 21:21:19.789990
+Última atualização: 2021-01-01 21:41:05.187371
