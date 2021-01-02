@@ -1,5 +1,5 @@
 
-**Contra o Capitalismo!**
+<a name="inicio"></a> **Contra o Capitalismo!** 
 ========
 <!-- 
 Leonardo Silva Bernardes
@@ -8,7 +8,7 @@ https://brausen.com.br
 `A ciência nunca alvejará o capitalismo!` 
 Por que financiar pesquisas sobre uma possível alternativa ao capitalismo? Existem pesquisas importantes envolvendo esse tema? Onde elas estão? Digo, em que centros de pesquisa, em que universidades? Em que departamentos? **Não há pesquisas envolvendo alternativas ao capitalismo, simples assim**. Será então é seguro dizer que o capitalismo é o maior *dogma* das sociedades humanas (como o dogma d[a democracia de que fala Ortega y Gasset](https://brausen.com.br/2017/05/racionalistas-sem-razoes-a-cultura-sem-vitalidade-de-ortega-y-gasset/))?
 
-Há inegavelmente uma infinidade de críticas ao capitalismo, mas elas não são mais que que expressões da pluralidade acadêmica e não indicativos de que a sociedade científica está mobilizada e considera o capitalismo uma questão urgente. Enquanto oferece um rico panorama dos nossos problemas, a ciência espera respostas das instituições competentes, mas ela jamais julgará o capitalismo como responsável ou causa primordial desses problemas. A ciência hoje está formada por especialistas e para estas pessoas julgar responsabilidades éticas e políticas faz parte do seu âmbito de competência (técnica). A ciência não cortará seu próprio galho, nem que a razão, a lógica e qualquer outra Deusa do olimpo intelectual lhe peça de joelhos.
+Há inegavelmente uma infinidade de críticas ao capitalismo, mas elas não são mais que que expressões da pluralidade do pensamento acadêmico e não indicativos de que a sociedade científica está mobilizada e considera o capitalismo uma questão urgente. Enquanto oferece um rico panorama das causas dos nossos problemas, a ciência espera respostas das instituições competentes, mas ela jamais julgará o capitalismo como responsável ou **causa** primordial desses problemas. A ciência hoje está formada por especialistas e para estas pessoas julgar responsabilidades éticas e políticas faz parte do seu âmbito de competência (técnica). A ciência não cortará seu próprio galho, nem que a razão, a lógica e qualquer outra Deusa do olimpo intelectual lhe peça de joelhos.
 
 >As três seções são abrangentes mas não pretendem ser universais nem esgotar o tema, assim, há muitos aspectos do lado de fora. Nesse sentido, elas são *arbitrárias*, como **perspectivas** para abordar o fenômeno do capitalismo. O esquema tem propósito estritamente ilustrativo, isto é, ele não pretende conter nenhuma dimensão argumentativa já que o tema questão é *fundamental* e, portanto, está protegido contra forças coersivas. Seu sentido consiste apenas em reunir ideias e fatos para aqueles que *alguma vez pensaram sobre este tema*. 
 
@@ -32,6 +32,7 @@ Há inegavelmente uma infinidade de críticas ao capitalismo, mas elas não são
     1. [O tempo e o futuro](#tempo)
         1. [Visões sobre o futuro](#futuro)
         1. [Com quem aprendemos?](#quem)
+
  - - - - 
 
 # Ecologia <a name="ecologia"></a>
@@ -51,7 +52,8 @@ Os incontornáveis obstáculos teóricos e práticos ao crescimento econômico e
 * O litio das baterias Tesla e a política da América do Sul. Elon Musk e os interesses das empresas que fabricam carros elétricos. Recursos esgotáveis de soluções messiánicas
 
 ![Elon Musk e a Bolívia](https://brausen.com.br/wp-content/uploads/2020/12/evo_morales_bolivia_elon_musk.jpeg)
-* A água como um elemento insubstituível. O delírio das soluções alternativas à preservação dos rios e aquíferos.
+
+*	A água como um elemento insubstituível. O delírio das soluções alternativas à preservação dos rios e aquíferos.
     * São Paulo, Califórnia, França e Espanha na últlima década: experiências de desabastecimento e seca.
     * Preservar ou integrar? O dilema das instituições. David Attenborough e *My Octopus Teacher*, a luta liberal pelo meio ambiente
 * Conflitos em torno da questão da água (como os conflitos do oriente médio, em torno do rio Jordão)
@@ -72,11 +74,14 @@ O efeito da presença humana. O que significa a ecologia? A influência mútua, 
     * A culinária e a terapia do tempo
 
 ![Poorlydrawnlines](https://brausen.com.br/wp-content/uploads/2021/01/poorlydrawnlines_9d4b0759843ed_DOIS.jpg) 
+
 ## Torneiras e rios
 Sujeitos urbanos já não são capazes de compreender a natureza como recurso, apenas como serviço, como algo pelo que eles pagam. Nós nascemos tendo contato com a água por meio de torneiras, isso dificulta o entendimento de que, por mais acessível que seja, a água é sempre recurso. 
 
 ![Pantano de San Juan](https://brausen.com.br/wp-content/uploads/2020/12/IMG_20190814_150643_247_DOIS.jpg)
+
 > *Os níveis de água no Pântano de San Juan em 2019*
+
 ### Natureza e cultura
 * A institucionalização da relação com a natureza. A arrogância humana, Levi Strauss sobre a animalidade dos homens.
 > Começou-se por cortar o homem da natureza e constituí-lo como um reino supremo. Supunha-se apagar desse modo seu caráter mais irrecusável, qual seja, ele é primeiro um ser vivo. E permanecendo cegos a essa propriedade comum, deixou-se o campo livre para todos os abusos. Nunca antes do termo destes últimos quatro séculos de sua história, o homem ocidental percebeu tão bem que, ao arrogar-se o direito de separar radicalmente a humanidade da animalidade, concedendo a uma tudo o que tirava da outra, abria um ciclo maldito. E que a mesma fronteira, constantemente empurrada, serviria para separar homens de outros homens, e reivindicar em prol de minorias cada vez mais restritas o privilégio de um humanismo, corrompido de nascença por ter feito do amor-próprio seu princípio e noção. — Levi-Strauss. *Antropologia Estrututral*
@@ -106,6 +111,7 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
 ### Buscando outro planeta 
 
 ![Os ricos, como sempre, estão preparados](https://brausen.com.br/wp-content/uploads/2020/12/AngeliAquecimentoTres.png)
+
 * [Jeff Bezos](https://piaui.folha.uol.com.br/materia/o-grande-plano/) e [Elon Musk](https://tribunemag.co.uk/2020/12/billionaire-space-colonialism-is-a-dead-end-for-humanity) e as tecnologias para nos mandar pra fora da Terra. Colonialismo espacial e o paroxismo da civilização antiecológica
 * [Bruno Latour sobre a vontade de fugir](https://www1.folha.uol.com.br/ambiente/2020/09/se-o-brasil-achar-solucao-para-si-vai-salvar-o-resto-do-mundo-diz-bruno-latour.shtml), o não pertencimento (antiecologia) e a o medo relatado por [Douglas Rushkoff e os preparativos dos mais ricos do colapso e insurreições provocados pela colapso e pelo impactos tecnológicos na economia](https://onezero.medium.com/survival-of-the-richest-9ef6cddd0cc1)
 * O futuro do trabalho num mundo automatizado. Renda Universal? Soluções institucionais? *Electric Dreams*
@@ -121,6 +127,7 @@ O que nós queremos? Como o capitalismo forma não apenas o nosso desejo, mas qu
 
 ![A lavagem cerebral dos algoritmos](https://brausen.com.br/wp-content/uploads/2021/01/capitalism_goals.jpg)
 > [Facebook e as *Dopamine Farms*](https://slate.com/technology/2014/06/facebook-unethical-experiment-it-made-news-feeds-happier-or-sadder-to-manipulate-peoples-emotions.html)
+> 
 * Algoritmos e técnicas de manipulação de consciência. [Jaron Lanier](https://www.youtube.com/watch?v=kc_Jq42Og7Q) e [Martin Hilbert](https://www.bbc.com/portuguese/salasocial-54678733
 ) sobre *Dopamine farms* e técnicas de manipulação inerentes à economia da atenção
     * Cambridge Analytica, [caso paradigmático](https://www.showmetech.com.br/big-data-trump/).
@@ -156,15 +163,17 @@ O liberalismo triunfou e conseguiu inculcar em nossas mentes e instituições a 
 
 [![Humans. Documentário sobre a variedade dos seres humanos](http://img.youtube.com/vi/vdb4XGVTHkE/0.jpg)](http://www.youtube.com/watch?v=vdb4XGVTHkE)
 > *Humans. Documentário sobre a variedade dos seres humanos*. A história do presidiário (condenado por assassinato) criado por um padrasto violento que aprendeu tarde sobre o amor
+
 * *Winner and losers*. O predomínio da mentalidade dos vencedores e seu impacto nas relações sociais
     * Expressões de normatividade (e da cegueira normativa): o caráter asfixiante e estabilizador do normal (normalidade)
 * **A obsessão pela própria imagem, a imagem de si mesmo**. Narcisismo e vaidade. Cinema: *American Psycho, Advogado do Diabo, Cosmopolis*    
 
 ## Confiança e cooperação <a name="confianca"></a>
 Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o desafio de superar a desconfiança e de desfazer o longevo feitiço que uma tradição liberal e protoliberal conjurou sobre nosso olhar sobre relações entre seres humanos. De Hobbes a Hayek. 
+
 * Desigualdade, violência, medo e desconfiança. As chaves do Leviatã. Respeito nas sociedades competitivas e desiguais
-    * Desconfiança. *It comes at night*, [*There will be blood*](https://www.youtube.com/watch?v=o_z2eqPKiYA)
-    * Pobreza, injustiça e desigualdade cognitiva
+	* Desconfiança. *It comes at night*, [*There will be blood*](https://www.youtube.com/watch?v=o_z2eqPKiYA)
+	* Pobreza, injustiça e desigualdade cognitiva
     * O papel do medo e do conflito entre grupos de Chimpanzé
 * Aprender com o "primitivo": descomplexificar. O lugar do simples.
 * Conhecimento livre: como experiências tecnológicas tem sedimentado uma visão sobre a colaboração que contorna os frágeis argumentos favoráveis à competição, a ponto de que o software livre tenha se tornado o marco de desenvolvimento de software.
@@ -173,7 +182,7 @@ Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o 
 * Amizade: não é por acaso que a ascensão da extrema direita acompanha um discurso que realça o papel da família, é na família que mentalidade puritana crê que deve depositar sua confiança e em nenhum outro lugar.
     * Goethe como arma, a restauração do papel da amizade. Afinidades eletivas, confiança, conexão e confluência (do afetivo ao epistêmico [brainets])
     * [Mandela sobre a hospitalidade](https://brausen.com.br/2020/03/a-gente-tambem-se-fortalece/)
-* Ajuda mútua: não é por acaso que o livro de Kropotkin começa discutindo a ideia de ajuda mútua no reino animal. Não é por acaso que Michael Tomaselli discute o papel da colaboração na constituição da catraca evolutiva que nos diferencia. Não se trata tomar partido de um dos lados na busca por um justificação. I don't a horse in this race, como 
+* Ajuda mútua: não é por acaso que o livro de Kropotkin começa discutindo a ideia de ajuda mútua no reino animal. Não é por acaso que Michael Tomaselli discute o papel da colaboração na constituição da catraca evolutiva que nos diferencia. Não se trata tomar partido de um dos lados na busca por um justificação. *I don't a horse in this race*, como diria Rick Sanchez, mas essa discussão precisa ser entendida antes de ser superada. Competição *versus* cooperação: é pra isso server a verdade (~~justificação~~)!
     * Oxitocina: hormônios do amor? Precisamos de mais explicações? É preciso explicar o sentido da cooperação ou deixar-se convencer pelo medo de que os outros são o inimigo?
 * A festa como integração e princípio anti-econômico. Diversão anticapitalista (não egoísta)
     * O nascimento das escolas de samba no Rio
@@ -181,6 +190,7 @@ Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o 
 
 ![Diane Fossey e um gorila](https://brausen.com.br/wp-content/uploads/2021/01/diane_fossey1.jpeg)
 > [Diane Fossey e seu amor pelos gorilas](https://endangeredliving.com/2016/01/16/happy-birthday-dian-fossey/).
+
 * *Post-truth*: explorando o medo e a pulverização (atomização). A falta de legitimidade da ciência, contraposta à sua enorme autoridade — **Tecnocracia e Tecnosfera**. A falta do holismo da ciência (o custo do analítico): especialização e autoridade técnica. Por uma ciência como a de Humboldt (a ciência que cativou Darwin), de Goethe, de Kropoptkin, de Oliver Sacks, Diane Fossey...
     * Teologia da prosperidade: as conexões mediadas pelas instituições religiosas. Vendendo comunhão, comunidade e promessas de estabilidade 
     * A invisibilidade do medo (psicologia) no mundo objetivo. A irredutibilidade do intencional ao extensional. A falta de olhar psicológico nas análises políticas, a impossibilidade de captar o impacto da manipulação do medo (e de outros aspectos psicológicos): a carência dos especialistas ([Martha Nussbaum sobre o medo](https://www.amazon.es/Monarchy-Fear-Philosopher-Political-Crisis/dp/1501172492))  
@@ -214,4 +224,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-02 19:57:10.139993
+Última atualização: 2021-01-02 21:48:36.572500
+
+### [⤴ Topo](#inicio)
