@@ -184,6 +184,7 @@ O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito 
 * A impossibilidade dos *puzzle solvers* darem uma resposta a algo que não é meramente um problema técnico (isto é, que não é parte do esquema problema/solução com que eles tendem a ver todas as coisas)
 * Tecnologias da estabilidade: construindo um modo (não estável) de lidar com a mudança
     * Pode uma sociedade acelerada pode lidar com a mudança sem abandonar instituições?
+* Imaginação e possibilidade: a cegueira normatividade e o compromisso de conceber (imaginar) uma forma de vida que não se realizarão em nosso *life span*. Concebendo o impossível
 
 ### Com quem aprendemos? <a name="quem"></a>
 * Complexididade: desvalorização dos modelos de sociedade tradicionais. Como é possível aprender com o que não se respeita?
