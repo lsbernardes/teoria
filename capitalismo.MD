@@ -71,7 +71,7 @@ O efeito da presença humana. O que significa a ecologia? A influência mútua, 
 * A presença de plástico. O conforto do plástico. O plástico e o ritmo da sociedade, o tempo da sociedade seria outro se não houvesse plástico. O plástico nos acelera.
     * A culinária e a terapia do tempo
 
-![Poorlydrawnlines](https://brausen.com.br/wp-content/uploads/2020/12/poorlydrawnlines_9d4b0759843ed.jpg) 
+![Poorlydrawnlines](https://brausen.com.br/wp-content/uploads/2021/01/poorlydrawnlines_9d4b0759843ed_DOIS.jpg) 
 ## Torneiras e rios
 Sujeitos urbanos já não são capazes de compreender a natureza como recurso, apenas como serviço, como algo pelo que eles pagam. Nós nascemos tendo contato com a água por meio de torneiras, isso dificulta o entendimento de que, por mais acessível que seja, a água é sempre recurso. 
 
@@ -96,7 +96,7 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
     * [Antonio Nobre sobre, entre outras coisas, os rios voadores](https://www.youtube.com/watch?v=_9-fia-bdlo)
     * O sonho de criar um ambiente artificial, a cidade e o meio ambiente. *Smart Cities* como sintoma de uma compreensão antiecológica da vida humana
         * Big Data (sistemas de arquivos e técnicas de processamento paralelo), 5G, IA, Internet das coisas: infraestrutura das *smart cities*
-*  SUV: ostentação e sucesso nos países pobres, o discurso do *winner* (macaqueando os vencedores) 
+*  SUV: ostentação e sucesso nos países pobres, [o discurso do *winner*](https://www.youtube.com/watch?v=iqFOmq_9TR8) (macaqueando os vencedores) 
 * Inteligência e natureza. A vaidade da inteligência humana e a subestimação da inteligência animal.
     * *Comparative cognition*: [pássaros](https://science.sciencemag.org/content/369/6511/1626.editor-summary), [aranhas](https://piaui.folha.uol.com.br/materia/teco-logo-existo/), etc
 ### Sistemas complexos
@@ -169,7 +169,7 @@ Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o 
 * Aprender com o "primitivo": descomplexificar. O lugar do simples.
 * Conhecimento livre: como experiências tecnológicas tem sedimentado uma visão sobre a colaboração que contorna os frágeis argumentos favoráveis à competição, a ponto de que o software livre tenha se tornado o marco de desenvolvimento de software.
     * Azure: a experiência da Microsoft e do Linux
-    * Os donos do conhecimento: pirataria e a pesquisa acadêmica nos países pobres
+    * Os donos do conhecimento: pirataria e a pesquisa acadêmica nos países pobres. Conhecimento e propriedade privada, o *status* do conhecimento e a competição velada (hipócrita) na universidade
 * Amizade: não é por acaso que a ascensão da extrema direita acompanha um discurso que realça o papel da família, é na família que mentalidade puritana crê que deve depositar sua confiança e em nenhum outro lugar.
     * Goethe como arma, a restauração do papel da amizade. Afinidades eletivas, confiança, conexão e confluência (do afetivo ao epistêmico [brainets])
     * [Mandela sobre a hospitalidade](https://brausen.com.br/2020/03/a-gente-tambem-se-fortalece/)
@@ -206,4 +206,4 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-02 16:01:16.324192
+Última atualização: 2021-01-02 18:07:30.039163
