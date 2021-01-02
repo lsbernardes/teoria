@@ -49,6 +49,7 @@ Os incontornáveis obstáculos teóricos e práticos ao crescimento econômico e
 * Combustíveis fosséis, energia solar, aeólica, motor a plasma de hidrogênio, etc. A necessária e cega crença no desenvolvimento de fontes alternativas de energias que paralisam a crítica ao sistema e que induzem a pesquisa (produtividade), como se tratasse de um problema técnico 
     * A impossibilidade de substituir os combustíveis fosséis [Pedro Prieto](https://www.youtube.com/watch?v=g3MLj8E-GyY)
 * O litio das baterias Tesla e a política da América do Sul. Elon Musk e os interesses das empresas que fabricam carros elétricos. Recursos esgotáveis de soluções messiánicas
+
 ![Elon Musk e a Bolívia](https://brausen.com.br/wp-content/uploads/2020/12/evo_morales_bolivia_elon_musk.jpeg)
 * A água como um elemento insubstituível. O delírio das soluções alternativas à preservação dos rios e aquíferos.
     * São Paulo, Califórnia, França e Espanha na últlima década: experiências de desabastecimento e seca.
@@ -103,6 +104,7 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
     * *Emerging engineering*, lidando com a natureza sem propósitos reducionistas.
 * É possível substituir os paradigmas deterministas da ciência sem mudar nossa forma de vida?
 ### Buscando outro planeta 
+
 ![Os ricos, como sempre, estão preparados](https://brausen.com.br/wp-content/uploads/2020/12/AngeliAquecimentoTres.png)
 * [Jeff Bezos](https://piaui.folha.uol.com.br/materia/o-grande-plano/) e [Elon Musk](https://tribunemag.co.uk/2020/12/billionaire-space-colonialism-is-a-dead-end-for-humanity) e as tecnologias para nos mandar pra fora da Terra. Colonialismo espacial e o paroxismo da civilização antiecológica
 * [Bruno Latour sobre a vontade de fugir](https://www1.folha.uol.com.br/ambiente/2020/09/se-o-brasil-achar-solucao-para-si-vai-salvar-o-resto-do-mundo-diz-bruno-latour.shtml), o não pertencimento (antiecologia) e a o medo relatado por [Douglas Rushkoff e os preparativos dos mais ricos do colapso e insurreições provocados pela colapso e pelo impactos tecnológicos na economia](https://onezero.medium.com/survival-of-the-richest-9ef6cddd0cc1)
@@ -200,4 +202,4 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-02 14:22:06.173900
+Última atualização: 2021-01-02 14:43:35.888419
