@@ -6,12 +6,14 @@ Leonardo Silva Bernardes
 https://brausen.com.br    
  -->
 `A ciência nunca alvejará o capitalismo!` 
-Por que financiar pesquisas sobre uma possível alternativa ao capitalismo? Existem pesquisas importantes envolvendo esse tema? Onde elas estão? Digo, em que centros de pesquisa, em que universidades? Em que departamentos? **Não há pesquisas envolvendo alternativas ao capitalismo, simples assim**. Será então é seguro dizer que o capitalismo é o maior *dogma* das sociedades humanas (como o dogma da democracia de que fala Ortega y Gasset)?
+Por que financiar pesquisas sobre uma possível alternativa ao capitalismo? Existem pesquisas importantes envolvendo esse tema? Onde elas estão? Digo, em que centros de pesquisa, em que universidades? Em que departamentos? **Não há pesquisas envolvendo alternativas ao capitalismo, simples assim**. Será então é seguro dizer que o capitalismo é o maior *dogma* das sociedades humanas (como o dogma d[a democracia de que fala Ortega y Gasset](https://brausen.com.br/2017/05/racionalistas-sem-razoes-a-cultura-sem-vitalidade-de-ortega-y-gasset/))?
 
 Há inegavelmente uma infinidade de críticas ao capitalismo, mas elas não são mais que que expressões da pluralidade acadêmica e não indicativos de que a sociedade científica está mobilizada e considera o capitalismo uma questão urgente. Enquanto oferece um rico panorama dos nossos problemas, a ciência espera respostas das instituições competentes, mas ela jamais julgará o capitalismo como responsável ou causa primordial desses problemas. A ciência hoje está formada por especialistas e para estas pessoas julgar responsabilidades éticas e políticas faz parte do seu âmbito de competência (técnica). A ciência não cortará seu próprio galho, nem que a razão, a lógica e qualquer outra Deusa do olimpo intelectual lhe peça de joelhos.
 
 >As três seções são abrangentes mas não pretendem ser universais nem esgotar o tema, assim, há muitos aspectos do lado de fora. Nesse sentido, elas são *arbitrárias*, como **perspectivas** para abordar o fenômeno do capitalismo. O esquema tem propósito estritamente ilustrativo, isto é, ele não pretende conter nenhuma dimensão argumentativa já que o tema questão é *fundamental* e, portanto, está protegido contra forças coersivas. Seu sentido consiste apenas em reunir ideias e fatos para aqueles que *alguma vez pensaram sobre este tema*. 
 
+![A insustentabilidade do capitalismo](https://brausen.com.br/wp-content/uploads/2021/01/justhumansof_capitalismo_sustentavel.jpg)
+> *Sustentabilidade*: não é desejável salvar o capitalismo, não há níveis seguros para o uso dessa substância 
 ## Sumário
 
 1. [Ecologia](#ecologia) 
@@ -38,6 +40,8 @@ A relação entre os seres humanos, a `natureza` e o meio ambiente.
 ## Economia Ecológica e Descrecimento <a name="economia"></a>
 Os incontornáveis obstáculos teóricos e práticos ao crescimento econômico e à forma de vida capitalista.
 
+![A incompatibilidade entre capitalismo e o meio ambiente](https://brausen.com.br/wp-content/uploads/2021/01/capitalismo_recursos_planeta_ecologia.jpg)
+
 ### O limite da natureza <a name="limite"></a>
 * A [barreira termodinâmica ao crescimento econômico](https://www.academia.edu/4196307/A_natureza_como_limite_da_economia_a_contribui%C3%A7%C3%A3o_de_Nicholas_Georgescu_Roegen), o único modelo econômico de todos os estados nacionais do planeta.
 * Decrescer e descomplexificar: [vivendo como um animal num planeta finito](https://www.youtube.com/watch?v=uGAbh-E_c5s)
@@ -48,7 +52,7 @@ Os incontornáveis obstáculos teóricos e práticos ao crescimento econômico e
 ![Elon Musk e a Bolívia](https://brausen.com.br/wp-content/uploads/2020/12/evo_morales_bolivia_elon_musk.jpeg)
 * A água como um elemento insubstituível. O delírio das soluções alternativas à preservação dos rios e aquíferos.
     * São Paulo, Califórnia, França e Espanha na últlima década: experiências de desabastecimento e seca.
-    * Preservar ou integrar? O dilema das instituições. David Attenborough e My Octopus Teacher, a lugar liberal pelo meio ambiente
+    * Preservar ou integrar? O dilema das instituições. David Attenborough e *My Octopus Teacher*, a luta liberal pelo meio ambiente
 * Conflitos em torno da questão da água (como os conflitos do oriente médio, em torno do rio Jordão)
 * Insumos após o colapso climático (desestabilização da cadeia produtiva de uma economia globalizada). Os litorais após efeitos do aquecimento global. *Sentindo apenas o imediato (cozinhando o sapo)*
 
@@ -82,7 +86,9 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
     * Transhumanismo e a húbris tecnológica
     * Nietzsche e Montaigne contra Rousseau: o romantismo da revolução *versus* o caos da revolução (e o mito da revolução que instaura a ordem)
         * Ordem ~~regularidade~~ e estabilidade (lógica e psicologia: desacordos e saúde mental)
-        * O lugar da loucura: assimilar a instabilidade (irregularidade que impossibilidade a linguagem)
+        * O lugar da loucura: assimilar a instabilidade (irregularidade que ameaça a linguagem)
+    * *[Green New Deal](https://elordenmundial.com/que-es-el-green-new-deal/)*? Em busca de modos de salvar o capitalismo: *Capitalism with a human face 2.0 — That's not possible, baby!*
+
 ### Os rios voadores, os Andes e o Serrano. 
 * A complexidade da relação entre Rios Voadores e o Cerrado como exemplo do caráter insubstituível das relações naturais. 
     * [Altair Barbosa sobre a complexidade do Bioma Cerrado](https://www.jornalopcao.com.br/entrevistas/o-cerrado-esta-extinto-e-isso-leva-ao-fim-dos-rios-e-dos-reservatorios-de-agua-16970/): raízes e sementes. 
@@ -110,8 +116,10 @@ O que nós queremos? Como o capitalismo forma não apenas o nosso desejo, mas qu
 
 * *Adestramento e reflexão*. Como é possível escapar do efeito do adestramento numa sociedade que confunde pensamento e técnica? É preciso mais que pluralidade, precisamos de um *mindset* que nos torne capazes de aceitar o anormal.
     * Reflexão e saúde mental. A beira da loucura
-* Algoritmos e técnicas de manipulação de consciência. [Jaron Lanier](https://www.youtube.com/watch?v=kc_Jq42Og7Q
-) e [Martin Hilbert](https://www.bbc.com/portuguese/salasocial-54678733
+
+![A lavagem cerebral dos algoritmos](https://brausen.com.br/wp-content/uploads/2021/01/capitalism_goals.jpg)
+> [Facebook e as *Dopamine Farms*](https://slate.com/technology/2014/06/facebook-unethical-experiment-it-made-news-feeds-happier-or-sadder-to-manipulate-peoples-emotions.html)
+* Algoritmos e técnicas de manipulação de consciência. [Jaron Lanier](https://www.youtube.com/watch?v=kc_Jq42Og7Q) e [Martin Hilbert](https://www.bbc.com/portuguese/salasocial-54678733
 ) sobre *Dopamine farms* e técnicas de manipulação inerentes à economia da atenção
     * Cambridge Analytica, [caso paradigmático](https://www.showmetech.com.br/big-data-trump/).
 * *Century of Self*, documentário da BBC sobre como o indíviduo passou ao primeiro plano ao longo do século XX, em prejuízo das lutas coletivas.
@@ -131,6 +139,8 @@ Os verdadeiros fiadores do capitalismo são os confortos e mimos criados dentro 
 
 ### Prazeres do corpo: hedonismo e capitalismo
 
+![A armadilha hedonista do capitalismo](https://brausen.com.br/wp-content/uploads/2021/01/1-a-uni-capitalismo-eh-o-que-eh.jpg)
+
 * O prazer como abstração, o prazer no lugar do dinheiro. Aquilo que é a medida de todas as coisas. O hedonismo é a alma do capitalismo, os prazeres do corpo. Prazer como mercadoria. O que sempre pode se adicionar. Prazer e felicidade!
 
 # Intersubjetividade <a name="intersubjetividade"></a>
@@ -144,7 +154,7 @@ O liberalismo triunfou e conseguiu inculcar em nossas mentes e instituições a 
 [![Humans. Documentário sobre a variedade dos seres humanos](http://img.youtube.com/vi/vdb4XGVTHkE/0.jpg)](http://www.youtube.com/watch?v=vdb4XGVTHkE)
 > *Humans. Documentário sobre a variedade dos seres humanos*
 * *Winner and losers*. O predomínio da mentalidade dos vencedores e seu impacto nas relações sociais
-    * O caráter asfixiante e estabilizador do normal (normalidade)
+    * Expressões de normatividade (e da cegueira normativa): o caráter asfixiante e estabilizador do normal (normalidade)
 * **A obsessão pela própria imagem, a imagem de si mesmo**. Narcisismo e vaidade. Cinema: *American Psycho, Advogado do Diabo, Cosmopolis*    
 
 ## Confiança e cooperação <a name="confianca"></a>
@@ -152,6 +162,7 @@ Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o 
 * Desigualdade, violência, medo e desconfiança. As chaves do Leviatã. Respeito nas sociedades competitivas e desiguais
     * Desconfiança. *It comes at night*, [*There will be blood*](https://www.youtube.com/watch?v=o_z2eqPKiYA)
     * Pobreza, injustiça e desigualdade cognitiva
+    * O papel do medo e do conflito entre grupos de Chimpanzé
 * Aprender com o "primitivo": descomplexificar. O lugar do simples.
 * Conhecimento livre: como experiências tecnológicas tem sedimentado uma visão sobre a colaboração que contorna os frágeis argumentos favoráveis à competição, a ponto de que o software livre tenha se tornado o marco de desenvolvimento de software.
     * Azure: a experiência da Microsoft e do Linux
@@ -188,4 +199,4 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-01 21:41:05.187371
+"$hora"
