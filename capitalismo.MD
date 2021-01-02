@@ -200,4 +200,4 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-02 13:40:06.425320
+Última atualização: 2021-01-02 14:22:06.173900
