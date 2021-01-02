@@ -152,7 +152,7 @@ O liberalismo triunfou e conseguiu inculcar em nossas mentes e instituições a 
 * Raiva e sadismo (inconscientes). Tirania (*There will be blood*) e o ódio (a ausência do amor)
 
 [![Humans. Documentário sobre a variedade dos seres humanos](http://img.youtube.com/vi/vdb4XGVTHkE/0.jpg)](http://www.youtube.com/watch?v=vdb4XGVTHkE)
-> *Humans. Documentário sobre a variedade dos seres humanos*
+> *Humans. Documentário sobre a variedade dos seres humanos*. A história do presidiário (condenado por assassinato) criado por um padrasto violento que aprendeu tarde sobre o amor
 * *Winner and losers*. O predomínio da mentalidade dos vencedores e seu impacto nas relações sociais
     * Expressões de normatividade (e da cegueira normativa): o caráter asfixiante e estabilizador do normal (normalidade)
 * **A obsessão pela própria imagem, a imagem de si mesmo**. Narcisismo e vaidade. Cinema: *American Psycho, Advogado do Diabo, Cosmopolis*    
@@ -200,4 +200,4 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-02 13:33:48.548077
+Última atualização: 2021-01-02 13:40:06.425320
