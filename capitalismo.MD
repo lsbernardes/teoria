@@ -144,6 +144,7 @@ Os verdadeiros fiadores do capitalismo são os confortos e mimos criados dentro 
 ![A armadilha hedonista do capitalismo](https://brausen.com.br/wp-content/uploads/2021/01/1-a-uni-capitalismo-eh-o-que-eh.jpg)
 
 * O prazer como abstração, o prazer no lugar do dinheiro. Aquilo que é a medida de todas as coisas. O hedonismo é a alma do capitalismo, os prazeres do corpo. Prazer como mercadoria. O que sempre pode se adicionar. Prazer e felicidade!
+* As armadilhas do consumo: diversão e a reprodutibilidade (~~repetição~~) do prazer. O egoísmo do prazer e da diversão. *Revelry*
 
 # Intersubjetividade <a name="intersubjetividade"></a>
 A `relação` dos humanos entre si e com os outros animais.
@@ -174,6 +175,9 @@ Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o 
     * [Mandela sobre a hospitalidade](https://brausen.com.br/2020/03/a-gente-tambem-se-fortalece/)
 * Ajuda mútua: não é por acaso que o livro de Kropotkin começa discutindo a ideia de ajuda mútua no reino animal. Não é por acaso que Michael Tomaselli discute o papel da colaboração na constituição da catraca evolutiva que nos diferencia. Não se trata tomar partido de um dos lados na busca por um justificação. I don't a horse in this race, como 
     * Oxitocina: hormônios do amor? Precisamos de mais explicações? É preciso explicar o sentido da cooperação ou deixar-se convencer pelo medo de que os outros são o inimigo?
+* A festa como integração e princípio anti-econômico. Diversão anticapitalista (não egoísta)
+    * O nascimento das escolas de samba no Rio
+    * O carnaval de rua e a dissolução da identidade individual (Milton Moura)
 
 ## O tempo e o futuro <a name="tempo"></a>
 O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito da nossa capacidade de ver o mundo de uma perspectiva assustadoramente ampla. É indispensável que nos acostumemos a ver o mundo de uma perspectiva mais ampla que nosso curta e insignificante expectativa de vida.
@@ -202,4 +206,4 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-02 14:43:35.888419
+Última atualização: 2021-01-02 16:01:16.324192
