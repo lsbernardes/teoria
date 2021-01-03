@@ -200,7 +200,7 @@ Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o 
 * A confiança dos desconfiados: a ascensão da extrema direita acompanha um discurso que realça o papel da **família**, é na família que mentalidade puritana crê que deve depositar sua confiança e em nenhum outro lugar.
     * Amizade: Goethe como arma, a restauração do papel da amizade. Afinidades eletivas, confiança, conexão e confluência (do afetivo ao epistêmico [brainets])
     * [Mandela sobre a hospitalidade](https://brausen.com.br/2020/03/a-gente-tambem-se-fortalece/)
-* Ajuda mútua: não é por acaso que o livro de Kropotkin começa discutindo a ideia de ajuda mútua no reino animal. Não é por acaso que Michael Tomaselli discute o papel da colaboração na constituição da catraca evolutiva que nos diferencia. Não se trata tomar partido de um dos lados na busca por um justificação, *I don't a horse in this race*, como diria Rick Sanchez, mas esse debate precisa ser entendido antes de ser superado. Competição *versus* cooperação: é pra isso server a verdade (~~justificação~~)!
+* Ajuda mútua: não é por acaso que o livro de Kropotkin começa discutindo a ideia de ajuda mútua no reino animal. Não é por acaso que Michael Tomasello discute o papel da colaboração na constituição da catraca evolutiva que nos diferencia. Não se trata tomar partido de um dos lados na busca por um justificação, *I don't a horse in this race*, como diria Rick Sanchez, mas esse debate precisa ser entendido antes de ser superado. Competição *versus* cooperação: é pra isso server a verdade (~~justificação~~)!
     * Oxitocina: hormônio do amor? Precisamos de mais explicações? Naturalização como forma de mitologia (a objetividade da etnologia)
     * É preciso explicar o sentido da cooperação ou deixar-se convencer pelo persuasivo medo de que os outros sejam o inimigo?
 
@@ -251,6 +251,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-03 20:36:14.082850
+Última atualização: 2021-01-03 21:50:05.004119
 
 ### [⤴ Topo](#inicio)
