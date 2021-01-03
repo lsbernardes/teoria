@@ -31,6 +31,7 @@ Há inegavelmente uma infinidade de críticas ao capitalismo, mas elas não são
     1. [O tempo e o futuro](#tempo)
         1. [Visões sobre o futuro](#futuro)
         1. [Com quem aprendemos?](#quem)
+        1. [O que afirmar?](#afirmar)       
 
  - - - - 
 
@@ -237,7 +238,7 @@ O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito 
 * [Brainets: implicações epistêmicas e terapêuticas da coletivização da consciência](https://www1.folha.uol.com.br/ciencia/2020/08/cerebro-humano-e-capaz-de-criar-realidade-diz-neurocientista.shtml). A espontânea coincidência entre cientistas, filósofos e a New Age
     * [Panpsychism](https://iai.tv/video/the-consciousness-puzzle-panpsychism&_auid=2020): consciência coletiva? Mais uma ameaça à singularidade do indivíduo liberal (essa galinha dos ovos de ouro)?
     
-### O que afirmar?
+### O que afirmar? <a name="afirmar"></a>
 >*Somente enquanto criadores!* — Eis algo que me exigiu e sempre continua a exigir um grande esforço: compreender que importa muito mais como as coisas se chamam do que aquilo que são. A reputação, o nome e a aparência, o peso e a medida habituais de uma coisa, o modo como é vista — quase sempre uma arbitrariedade e um erro em sua origem, jogados sobre as coisas como uma roupagem totalmente estranha à sua natureza e mesmo à sua pele —, mediante a crença que as pessoas neles tiveram, incrementada de geração em geração, gradualmente se enraizaram e encravaram na coisa, por assim dizer, tornando-se o seu próprio corpo: a aparência inicial termina quase sempre por tornar-se essência e atua como essência! Que tolo acharia que basta apontar essa origem e esse nebuloso manto de ilusão para destruir o mundo tido por essencial, a chamada “realidade”? **Somente enquanto criadores podemos destruir!** — Mas não esqueçamos também isto: basta criar novos nomes, avaliações e probabilidades para, a longo prazo, criar novas “coisas”.
 >— Nietzsche, *Gaia ciência* §58
 
@@ -250,6 +251,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-03 20:27:01.333469
+Última atualização: 2021-01-03 20:36:14.082850
 
 ### [⤴ Topo](#inicio)
