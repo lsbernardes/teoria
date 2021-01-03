@@ -222,14 +222,14 @@ Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o 
 O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito da nossa capacidade de ver o mundo de uma perspectiva assustadoramente ampla. É indispensável que nos acostumemos a ver o mundo numa perspectiva mais além da curta e insignificante expectativa de vida.
 
 ### Visões sobre o futuro <a name="futuro"></a>
-* [Maynard e a jornada de trabalho do futuro](https://www.newyorker.com/magazine/2020/02/10/can-we-have-prosperity-without-growth): expectativa e realidade. Sobre a jornada de 8h de trabalho
+* [Keynes e a jornada de trabalho do futuro](https://www.newyorker.com/magazine/2020/02/10/can-we-have-prosperity-without-growth): expectativa e realidade. Sobre a jornada de 8h de trabalho
 * O direito à vagabundagem. Pavese, Lafargue e Nietzsche: trabalho e homens ativos. A malandragem contra a ética protestante 
     * O lugar do lúdico, Marcuse. Trabalho *versus* Jogo
 * A estreiteza da nossa visão sobre a história (3800 anos de hoje até Abraão, não é nada)
 * A impossibilidade dos *puzzle solvers* darem uma resposta a algo que não é meramente um problema técnico (isto é, que não é parte do esquema problema/solução com que eles tendem a ver todas as coisas)
 * Tecnologias da estabilidade: construindo um modo (não estável) de lidar com a mudança
     * Pode uma sociedade acelerada lidar com a mudança sem abandonar instituições?
-* Imaginação e possibilidade: a cegueira normatividade e o compromisso de conceber (imaginar) uma forma de vida que não se realizarão em nosso *life span*. Concebendo o impossível!
+* Imaginação e possibilidade: a cegueira normatividade e o compromisso de conceber (imaginar) uma forma de vida que não se realizará em nosso *life span*. Concebendo o impossível!
 
 ### Com quem aprendemos? <a name="quem"></a>
 * Complexididade: desvalorização dos modelos de sociedade tradicionais. Como [é possível aprender com o que não se respeita](https://brausen.com.br/2018/02/com-quem-aprendemos-o-que-nos-ensina/)?
@@ -251,6 +251,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-03 21:50:05.004119
+Última atualização: 2021-01-03 23:20:21.974227
 
 ### [⤴ Topo](#inicio)
