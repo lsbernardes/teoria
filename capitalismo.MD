@@ -200,7 +200,8 @@ Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o 
     * Amizade: Goethe como arma, a restauração do papel da amizade. Afinidades eletivas, confiança, conexão e confluência (do afetivo ao epistêmico [brainets])
     * [Mandela sobre a hospitalidade](https://brausen.com.br/2020/03/a-gente-tambem-se-fortalece/)
 * Ajuda mútua: não é por acaso que o livro de Kropotkin começa discutindo a ideia de ajuda mútua no reino animal. Não é por acaso que Michael Tomaselli discute o papel da colaboração na constituição da catraca evolutiva que nos diferencia. Não se trata tomar partido de um dos lados na busca por um justificação, *I don't a horse in this race*, como diria Rick Sanchez, mas esse debate precisa ser entendido antes de ser superado. Competição *versus* cooperação: é pra isso server a verdade (~~justificação~~)!
-    * Oxitocina: hormônios do amor? Precisamos de mais explicações? É preciso explicar o sentido da cooperação ou deixar-se convencer pelo medo de que os outros são o inimigo?
+    * Oxitocina: hormônio do amor? Precisamos de mais explicações? Naturalização como forma de mitologia (a objetividade da etnologia)
+    * É preciso explicar o sentido da cooperação ou deixar-se convencer pelo persuasivo medo de que os outros sejam o inimigo?
 
 * A festa como integração e princípio anti-econômico. Diversão anticapitalista (não egoísta)
 	* O nascimento das escolas de samba no Rio. Redes de proteção social das favelas: Antonio Simas e o lugar da festa
@@ -213,7 +214,7 @@ Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o 
 * *Post-truth*: explorando o medo e a pulverização (atomização). A falta de legitimidade da ciência, contraposta à sua enorme autoridade — **Tecnocracia e Tecnosfera**. A falta de holismo na ciência (o preço da produtividade analítica): especialização e autoridade técnica. Por uma ciência como a de Humboldt (a ciência que cativou Darwin), Goethe, Kropotkin (e zoólogos russos), Oliver Sacks, Diane Fossey...
     * Teologia da prosperidade: as conexões mediadas pelas instituições religiosas. Vendendo comunhão, comunidade e promessas de estabilidade 
     * A invisibilidade do medo (psicologia) no mundo objetivo. A irredutibilidade do intencional ao extensional. A falta de olhar psicológico nas análises políticas, a impossibilidade de captar o impacto da manipulação do medo (e de outros aspectos psicológicos): a carência dos especialistas ([Martha Nussbaum sobre o medo](https://www.amazon.es/Monarchy-Fear-Philosopher-Political-Crisis/dp/1501172492))  
-        * Marcos Nobre e a vontade de vingança: seus textos foram os melhores antes da eleição de 2018 e justamente porque ele articula as variáveis políticas ao desejo (psicologia) latente que os mobiliza
+        * [Marcos Nobre e a vontade de vingança](https://piaui.folha.uol.com.br/eleicao-da-vinganca/): seus textos foram os melhores antes da eleição de 2018 e justamente porque ele articula as variáveis políticas ao desejo (psicologia) latente que os mobiliza
         * Psicologia sem intencionalidade, epistemologia naturalizada (a subordinação da epistemologia à psicologia em Quine)
 
 ## O tempo e o futuro <a name="tempo"></a>
@@ -234,7 +235,13 @@ O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito 
     * Modelos de inteligência (fontes de aprendizado) de seres complexos: **androides e extraterrestres**. A ficção como sintoma
 * O tempo dos animais (Cassirer e os macacos). O ritmo como um problema central do capitalismo
 * [Brainets: implicações epistêmicas e terapêuticas da coletivização da consciência](https://www1.folha.uol.com.br/ciencia/2020/08/cerebro-humano-e-capaz-de-criar-realidade-diz-neurocientista.shtml). A espontânea coincidência entre cientistas, filósofos e a New Age
-    * [Panpsychism](https://iai.tv/video/the-consciousness-puzzle-panpsychism&_auid=2020)
+    * [Panpsychism](https://iai.tv/video/the-consciousness-puzzle-panpsychism&_auid=2020): consciência coletiva? Mais uma ameaça à singularidade do indivíduo liberal (essa galinha dos ovos de ouro)?
+    
+### O que afirmar?
+>*Somente enquanto criadores!* — Eis algo que me exigiu e sempre continua a exigir um grande esforço: compreender que importa muito mais como as coisas se chamam do que aquilo que são. A reputação, o nome e a aparência, o peso e a medida habituais de uma coisa, o modo como é vista — quase sempre uma arbitrariedade e um erro em sua origem, jogados sobre as coisas como uma roupagem totalmente estranha à sua natureza e mesmo à sua pele —, mediante a crença que as pessoas neles tiveram, incrementada de geração em geração, gradualmente se enraizaram e encravaram na coisa, por assim dizer, tornando-se o seu próprio corpo: a aparência inicial termina quase sempre por tornar-se essência e atua como essência! Que tolo acharia que basta apontar essa origem e esse nebuloso manto de ilusão para destruir o mundo tido por essencial, a chamada “realidade”? **Somente enquanto criadores podemos destruir!** — Mas não esqueçamos também isto: basta criar novos nomes, avaliações e probabilidades para, a longo prazo, criar novas “coisas”.
+>— Nietzsche, *Gaia ciência* §58
+
+A crítica é a parte mais fácil, porque não supõe a **criação**. Para criar é preciso imaginar e a imaginação não é exatamente cultivada numa sociedade fortemente institucionalizada (cuja *estabilidade* se mantém conforme regras e códigos cada vez mais explícitos). O que nos prende à moral dos escravos é o fato de que por ora só podemos negar, só podemos dizer — *"isto não!"* Para construir algo diferente do capitalismo precisamos mais do que aspirar a que se realizem antigas aspirações socialistas. Precisamos conceber a nós mesmos de um modo que ainda não pode ser dito, porque as ações necessárias ainda não existem, ainda não foram praticadas. Como escapar à tendência a apenas negar? À propensão à rebeldia como fim em si mesmo (as espirais de prazer e poder de Foucault), o prazer da revolta e da contestação. *O que afirmar?* é uma pergunta lançada ao futuro. Uma pergunta para os *criadores*, aqueles que saberão o que deve ser afirmado para criar algo diferente do capitalismo.
 
  - - - - 
  
@@ -243,6 +250,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-03 19:24:39.761800
+Última atualização: 2021-01-03 20:27:01.333469
 
 ### [⤴ Topo](#inicio)
