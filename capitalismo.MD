@@ -1,4 +1,3 @@
-
 <a name="inicio"></a> **Contra o Capitalismo!** 
 ========
 <!-- 
@@ -10,7 +9,7 @@ Por que financiar pesquisas sobre uma possível alternativa ao capitalismo? Exis
 
 Há inegavelmente uma infinidade de críticas ao capitalismo, mas elas não são mais que que expressões da pluralidade do pensamento acadêmico e não indicativos de que a sociedade científica está mobilizada e considera o capitalismo uma questão urgente. Enquanto oferece um rico panorama das causas dos nossos problemas, a ciência espera respostas das instituições competentes, mas ela jamais julgará o capitalismo como responsável ou **causa** primordial desses problemas. A ciência hoje está formada por especialistas e para estas pessoas julgar responsabilidades éticas e políticas faz parte do seu âmbito de competência (técnica). A ciência não cortará seu próprio galho, nem que a razão, a lógica e qualquer outra Deusa do olimpo intelectual lhe peça de joelhos.
 
->As três seções são abrangentes mas não pretendem ser universais nem esgotar o tema, assim, há muitos aspectos do lado de fora. Nesse sentido, elas são *arbitrárias*, como **perspectivas** para abordar o fenômeno do capitalismo. O esquema tem propósito estritamente ilustrativo, isto é, ele não pretende conter nenhuma dimensão argumentativa já que o tema em questão é *fundamental* e, portanto, está protegido contra forças coersivas. Seu sentido consiste apenas em reunir ideias e fatos para aqueles que *alguma vez pensaram sobre este tema*. 
+>As três seções são abrangentes mas não pretendem ser universais nem esgotar o tema, assim, há muitos aspectos do lado de fora. Nesse sentido, elas são *arbitrárias*, como **perspectivas** para abordar o fenômeno do capitalismo. O esquema tem propósito estritamente ilustrativo, isto é, ele não pretende conter nenhuma dimensão argumentativa já que o tema em questão é *fundamental* e, portanto, está protegido contra forças coersivas. Seu sentido consiste apenas em reunir ideias e fatos para que aqueles que *alguma vez pensaram sobre este tema* possam ter uma visão geral (*Übersicht*) da sua complexidade (do sistema capitalista). Como o objetivo é mais exemplificar complexidade do sistema capitalista do que descrevê-lo (representá-lo), eu posso ser especialmente arbitrário.
 
 ![A insustentabilidade do capitalismo](https://brausen.com.br/wp-content/uploads/2021/01/justhumansof_capitalismo_sustentavel.jpg)
 > *Sustentabilidade*: não é desejável salvar o capitalismo, não há níveis seguros para o uso dessa substância 
@@ -46,6 +45,9 @@ Os incontornáveis obstáculos teóricos e práticos ao crescimento econômico e
 ### O limite da natureza <a name="limite"></a>
 * A [barreira termodinâmica ao crescimento econômico](https://www.academia.edu/4196307/A_natureza_como_limite_da_economia_a_contribui%C3%A7%C3%A3o_de_Nicholas_Georgescu_Roegen), o **único modelo** econômico de **todos** os estados nacionais do planeta.
 * Decrescer e descomplexificar: [vivendo como um animal num planeta finito](https://www.youtube.com/watch?v=uGAbh-E_c5s)
+* Construindo a inimputabilidade do capitalismo: desdobrando causas até descaracterizá-lo como causa. "Era só uma peça ruim, o sistema ainda é bom. Vamos substitui-la e deixar tudo como está!" A **sustentabilidade** como última forma do capitalismo. Um exemplo desse pensamento: o capitalismo pode ser conservado se encontrarmos uma matriz energética renovável e tão eficiente como a matriz fóssil. Podemos seguir crescendo, podemos seguir *progredindo*.
+	* Foucault sobre a genealogia das normas de desenvolvimento sexual (do moral ao clínico e jurídico). Entender as ideias de **progresso**, desenvolvimento e normalidade a partir do paradigma sexual.
+	* [Zizek sobre o capitalismo cultural](https://www.youtube.com/watch?v=hpAMbpQ8J7g). Capitalismo cultural e ciência: ((humanos || cidadãos) >= cientistas)? A estabilidade da forma de vida individual (seus prazeres e delícias) pode prevalecer sobre a necessidade de desestabilizar instituições? É verdadeiramente possível criticar a ciência? Kuhn e Feyerabend: inimigos da ciência
 
 ### Recursos naturais e energéticos <a name="recursos"></a>
 * Combustíveis fosséis, energia solar, eólica, motor a plasma de hidrogênio, etc. A necessária e cega crença no desenvolvimento de fontes alternativas de energias que paralisa a crítica ao sistema e que induz a pesquisa (produtividade, o ciclo infinito do capital), como se tratasse de um problema técnico 
@@ -173,9 +175,12 @@ O liberalismo triunfou e conseguiu inculcar em nossas mentes e instituições a 
 * *Winner and losers*. O predomínio da mentalidade dos vencedores e seu impacto nas relações sociais. Trump, o mais símbolo
     * Expressões de normatividade (e da cegueira normativa): o caráter asfixiante e estabilizador do normal (normalidade)
 * **A obsessão pela própria imagem, a imagem de si mesmo**. Narcisismo e vaidade. Cinema: *American Psycho, Advogado do Diabo, Cosmopolis*
-	- Esporte: pode haver competição sem vaidade, sem narcisismo? Sim! Nietzsche sobre a noção de vitória das fortes
-* Dispensando esforços: *sobreviver* numa sociedade de egoístas. O caráter arquetípico da ideia de sobrevivência na sociedade norte-americana (bunkler e o fim do mundo)
+	- As máscaras e a autenticidade, a possibilidade da amizade. A representação do eu na vida cotidiana, fingimento, *imitação e criação*. Conexão e conhecimento: amigos como extensão de nós mesmos: *pensando em rede*.
+	- Intimidade e estranheza!
+	- Esporte: pode haver competição sem vaidade, sem narcisismo? Sim! Nietzsche sobre a noção de vitória dos fortes
+* Dispensando esforços: *sobreviver* numa sociedade de egoístas. O caráter arquetípico da ideia de sobrevivência na cultura norte-americana (bunkler e o fim do mundo): cinema
 * Sociabilidade e insociabilidade: Freud e Kant contra a ilusão socialista acerca das relações humanas (hostilidade, violência e guerra)
+* A ubiquidade do mercado: a crença no mercado é tão central pra nossa sociedade que todas as manifestações sociais parecem contaminadas pela lógica do mercado. A lógica da produtividade e a pesquisa na Universidade. O *padrão salame* e outros exemplos.
 
 ## Confiança e cooperação <a name="confianca"></a>
 Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o desafio de superar a desconfiança e de desfazer o longevo feitiço que uma tradição liberal e protoliberal conjurou sobre nosso olhar sobre relações entre seres humanos. De Hobbes a Hayek. 
@@ -186,7 +191,7 @@ Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o 
     * O papel do medo e do conflito entre grupos de Chimpanzé
 * Aprender com o "primitivo": descomplexificar. O lugar do simples.
 * Conhecimento livre: como experiências tecnológicas tem sedimentado uma visão sobre a colaboração que contorna os frágeis argumentos favoráveis à competição, a ponto de que o software livre tenha se tornado o marco de desenvolvimento de software.
-    * Azure: a experiência da Microsoft e do Linux
+    * Azure: a experiência da Microsoft e do Linux. Bill Gates como paradigma de empreendedor: sobre a criação de um mercado (que logo *quase naturalmente* se tornou monopólio), o mercado de desenvolvimento de software. 
     * Os donos do conhecimento: pirataria e a pesquisa acadêmica nos países pobres. Conhecimento e propriedade privada, o *status* do conhecimento e a competição velada (hipócrita) na universidade
 * A confiança dos desconfiados: a ascensão da extrema direita acompanha um discurso que realça o papel da família, é na família que mentalidade puritana crê que deve depositar sua confiança e em nenhum outro lugar.
     * Amizade: Goethe como arma, a restauração do papel da amizade. Afinidades eletivas, confiança, conexão e confluência (do afetivo ao epistêmico [brainets])
@@ -234,6 +239,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-03 14:57:50.109122
+Última atualização: 2021-01-03 17:38:17.932666
 
 ### [⤴ Topo](#inicio)
