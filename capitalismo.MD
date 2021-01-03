@@ -205,7 +205,7 @@ Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o 
 * A festa como integração e princípio anti-econômico. Diversão anticapitalista (não egoísta)
 	* O nascimento das escolas de samba no Rio. Redes de proteção social das favelas: Antonio Simas e o lugar da festa
     * O carnaval de rua e a dissolução da identidade individual (Milton Moura)
-    * * A sabedoria da excassez: a autonomia do desejo numa sociedade não publicitária
+    * A sabedoria da escassez: a autonomia do desejo numa sociedade não publicitária
 
 ![Diane Fossey e um gorila](https://brausen.com.br/wp-content/uploads/2021/01/diane_fossey1.jpeg)
 > [Diane Fossey e seu amor pelos gorilas](https://endangeredliving.com/2016/01/16/happy-birthday-dian-fossey/).
@@ -214,7 +214,7 @@ Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o 
     * Teologia da prosperidade: as conexões mediadas pelas instituições religiosas. Vendendo comunhão, comunidade e promessas de estabilidade 
     * A invisibilidade do medo (psicologia) no mundo objetivo. A irredutibilidade do intencional ao extensional. A falta de olhar psicológico nas análises políticas, a impossibilidade de captar o impacto da manipulação do medo (e de outros aspectos psicológicos): a carência dos especialistas ([Martha Nussbaum sobre o medo](https://www.amazon.es/Monarchy-Fear-Philosopher-Political-Crisis/dp/1501172492))  
         * Marcos Nobre e a vontade de vingança: seus textos foram os melhores antes da eleição de 2018 e justamente porque ele articula as variáveis políticas ao desejo (psicologia) latente que os mobiliza
-        * Psicologia sem intencionalidade, psicologia naturalizada (a subordinação da epistemologia à psicologia em Quine)
+        * Psicologia sem intencionalidade, epistemologia naturalizada (a subordinação da epistemologia à psicologia em Quine)
 
 ## O tempo e o futuro <a name="tempo"></a>
 O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito da nossa capacidade de ver o mundo de uma perspectiva assustadoramente ampla. É indispensável que nos acostumemos a ver o mundo numa perspectiva mais além da curta e insignificante expectativa de vida.
@@ -226,11 +226,11 @@ O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito 
 * A estreiteza da nossa visão sobre a história (3800 anos de hoje até Abraão, não é nada)
 * A impossibilidade dos *puzzle solvers* darem uma resposta a algo que não é meramente um problema técnico (isto é, que não é parte do esquema problema/solução com que eles tendem a ver todas as coisas)
 * Tecnologias da estabilidade: construindo um modo (não estável) de lidar com a mudança
-    * Pode uma sociedade acelerada pode lidar com a mudança sem abandonar instituições?
-* Imaginação e possibilidade: a cegueira normatividade e o compromisso de conceber (imaginar) uma forma de vida que não se realizarão em nosso *life span*. Concebendo o impossível
+    * Pode uma sociedade acelerada lidar com a mudança sem abandonar instituições?
+* Imaginação e possibilidade: a cegueira normatividade e o compromisso de conceber (imaginar) uma forma de vida que não se realizarão em nosso *life span*. Concebendo o impossível!
 
 ### Com quem aprendemos? <a name="quem"></a>
-* Complexididade: desvalorização dos modelos de sociedade tradicionais. Como é possível aprender com o que não se respeita?
+* Complexididade: desvalorização dos modelos de sociedade tradicionais. Como [é possível aprender com o que não se respeita](https://brausen.com.br/2018/02/com-quem-aprendemos-o-que-nos-ensina/)?
     * Modelos de inteligência (fontes de aprendizado) de seres complexos: **androides e extraterrestres**. A ficção como sintoma
 * O tempo dos animais (Cassirer e os macacos). O ritmo como um problema central do capitalismo
 * [Brainets: implicações epistêmicas e terapêuticas da coletivização da consciência](https://www1.folha.uol.com.br/ciencia/2020/08/cerebro-humano-e-capaz-de-criar-realidade-diz-neurocientista.shtml). A espontânea coincidência entre cientistas, filósofos e a New Age
@@ -243,6 +243,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-03 19:20:15.338515
+Última atualização: 2021-01-03 19:24:39.761800
 
 ### [⤴ Topo](#inicio)
