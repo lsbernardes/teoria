@@ -196,7 +196,7 @@ Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o 
 ![Diane Fossey e um gorila](https://brausen.com.br/wp-content/uploads/2021/01/diane_fossey1.jpeg)
 > [Diane Fossey e seu amor pelos gorilas](https://endangeredliving.com/2016/01/16/happy-birthday-dian-fossey/).
 
-* *Post-truth*: explorando o medo e a pulverização (atomização). A falta de legitimidade da ciência, contraposta à sua enorme autoridade — **Tecnocracia e Tecnosfera**. A falta do holismo da ciência (o custo do analítico): especialização e autoridade técnica. Por uma ciência como a de Humboldt (a ciência que cativou Darwin), de Goethe, de Kropoptkin, de Oliver Sacks, Diane Fossey...
+* *Post-truth*: explorando o medo e a pulverização (atomização). A falta de legitimidade da ciência, contraposta à sua enorme autoridade — **Tecnocracia e Tecnosfera**. A falta do holismo da ciência (o custo do analítico): especialização e autoridade técnica. Por uma ciência como a de Humboldt (a ciência que cativou Darwin), de Goethe, de Kropotkin, de Oliver Sacks, Diane Fossey...
     * Teologia da prosperidade: as conexões mediadas pelas instituições religiosas. Vendendo comunhão, comunidade e promessas de estabilidade 
     * A invisibilidade do medo (psicologia) no mundo objetivo. A irredutibilidade do intencional ao extensional. A falta de olhar psicológico nas análises políticas, a impossibilidade de captar o impacto da manipulação do medo (e de outros aspectos psicológicos): a carência dos especialistas ([Martha Nussbaum sobre o medo](https://www.amazon.es/Monarchy-Fear-Philosopher-Political-Crisis/dp/1501172492))  
         * Marcos Nobre e a vontade de vingança: as melhores previsões de 2018 foram as suas e ele toma em conta o psicológico.
@@ -229,6 +229,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-02 21:52:41.523166
+Última atualização: 2021-01-03 01:23:31.531300
 
 ### [⤴ Topo](#inicio)
