@@ -1,5 +1,4 @@
 <a name="inicio"></a> 
-========
 
 **Contra o Capitalismo!** 
 ========
@@ -22,9 +21,14 @@ Há inegavelmente uma infinidade de críticas ao capitalismo, mas elas não são
     1. [A rede da vida](#red)
         1. [Pegada ecológica e Antropoceno](#pegada) 
     1. [Torneiras e rios](#torneira)
+        1. [Natureza e cultura](#natureza)
+        1. [Os rios voadores, os Andes o Cerrado](#rios)
+        1. [Sistemas complexos](#sistemas)
+        1. [Buscando outro planeta](#planeta)
 1. [Subjetividade](#subjetividade)
     1. [Publicidade e a formação do desejo](#publicidade)
     1. [Conforto e Mimo](#mimo)
+       1. [Prazeres do corpo: hedonismo e capitalismo](#prazeres)
 1. [Intersubjetividade](#intersubjetividade)
     1. [Ego, vaidade e competição](#ego)
     1. [Confiança e cooperação](#confianca)
@@ -35,22 +39,33 @@ Há inegavelmente uma infinidade de críticas ao capitalismo, mas elas não são
 
 - - - -
 
-# Ecologia <a name="ecologia"></a>
+<a name="ecologia"></a>
+
+# Ecologia 
+
 A relação entre os seres humanos, a `natureza` e o meio ambiente.
 
-## Economia Ecológica e Descrecimento <a name="economia"></a>
+<a name="economia"></a>
+
+## Economia Ecológica e Descrecimento 
 Os incontornáveis obstáculos teóricos e práticos ao crescimento econômico e à forma de vida capitalista.
 
 ![A incompatibilidade entre capitalismo e o meio ambiente](https://brausen.com.br/wp-content/uploads/2021/01/capitalismo_recursos_planeta_ecologia.jpg)
 
-### O limite da natureza <a name="limite"></a>
+<a name="limite"></a>
+
+### O limite da natureza 
+
 * A [barreira termodinâmica ao crescimento econômico](https://www.academia.edu/4196307/A_natureza_como_limite_da_economia_a_contribui%C3%A7%C3%A3o_de_Nicholas_Georgescu_Roegen), o **único modelo** econômico de **todos** os estados nacionais do planeta
 * Decrescer e descomplexificar: [vivendo como um animal num planeta finito](https://www.youtube.com/watch?v=uGAbh-E_c5s)
 * Construindo a inimputabilidade do capitalismo: decompondo causas até descaracterizá-lo como causa. "Era só uma peça ruim, o sistema ainda é bom. Vamos substitui-la e deixar tudo como está!" A **sustentabilidade** como última forma do capitalismo. Um exemplo desse pensamento: o capitalismo pode ser conservado se encontrarmos uma matriz energética renovável e tão eficiente como a matriz fóssil. Podemos seguir crescendo, podemos seguir *progredindo*.
 	* Foucault sobre a genealogia das normas de desenvolvimento sexual (do moral ao clínico e jurídico). Entender as ideias de **progresso**, desenvolvimento e normalidade a partir do paradigma sexual. Contra o progresso: linealidade, circularidade (arquétipo), não linearidade (determinação do sentido: uso da linguagem como determinador do sentido; a poesia, quando a linguagem deliberadamente vai de férias). O sentido da história em Kant, Paul Santo Agostinho, Paul Veyne
 	* [Zizek sobre o capitalismo cultural](https://www.youtube.com/watch?v=hpAMbpQ8J7g). Capitalismo cultural e ciência: ((humanos || cidadãos) >= cientistas)? A estabilidade da forma de vida individual (seus prazeres e delícias) pode prevalecer sobre a necessidade de desestabilizar instituições? É verdadeiramente possível criticar a ciência? Kuhn e Feyerabend: inimigos da ciência
 
-### Recursos naturais e energéticos <a name="recursos"></a>
+ <a name="recursos"></a>
+
+### Recursos naturais e energéticos
+
 * Combustíveis fosséis, energia solar, eólica, motor a plasma de hidrogênio, etc. A crença cega no desenvolvimento de fontes alternativas de energias que paralisa a crítica ao sistema e que induz a pesquisa (produtividade, o ciclo infinito do capital), como fosse essencialmente um problema técnico a nossa relação com o meio ambiente (e seus "recursos") 
     * *É possível ser crítico da tecnologia sem ser tecnofóbico*? São honestas as críticas a Marcuse e a Heidegger?
     * [Pedro Prieto:](https://www.youtube.com/watch?v=g3MLj8E-GyY) a impossibilidade de substituir os combustíveis fosséis. A expressão da desigualdade no uso de recursos energético entre paises ricos e pobres
@@ -60,14 +75,17 @@ Os incontornáveis obstáculos teóricos e práticos ao crescimento econômico e
 
 *	A água como um elemento insubstituível. O delírio das soluções alternativas à preservação dos rios, lagos, aquíferos, etc.
     * São Paulo, Califórnia, França e Espanha na última década: experiências de desabastecimento e seca
-    * Preservação e conservação. O dilema das instituições. David Attenborough e *My Octopus Teacher*, a anestesiante luta liberal pelo meio ambiente
-* Conflitos em torno da questão da água (como os conflitos do oriente médio, em torno do rio Jordão). A água e o nordeste brasileiro.
+    * Preservação e conservação. O dilema das instituições. David Attenborough e *My Octopus Teacher*, a anestesiante luta liberal pelo meio ambiente. *Struggle for survival* e os limites da assistência: o outro como potencial inimigo (competidor)
+* Conflitos em torno da questão da água (como os conflitos do oriente médio, em torno do rio Jordão). A água e o nordeste brasileiro
 * Insumos após o colapso climático (desestabilização da cadeia produtiva de uma economia globalizada). Os litorais após efeitos do aquecimento global. *Sentindo apenas o imediato (**cozinhando o sapo a fogo lento**)*
 
 ![Previsão do impacto no Rio de Janeiro](https://brausen.com.br/wp-content/uploads/2020/12/screenshot_153530_202012362.png)
 > [The three-degree world: the cities that will be drowned by global warming](https://www.theguardian.com/cities/ng-interactive/2017/nov/03/three-degree-world-cities-drowned-global-warming)
 
-## A rede da vida <a name="rede"></a>
+<a name="rede"></a>
+
+## A rede da vida 
+
 O efeito da presença humana. O que significa a ecologia? A influência mútua, o efeito caótico, o efeito borboleta dos sistemas complexos naturezais (sistema não estacionários)
 
 ### Pegada ecológica e Antropoceno <a name="pegada"></a>
@@ -87,6 +105,8 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
 
 > *Os níveis de água no Pântano de San Juan em 2019*
 
+<a name="natureza"></a>
+
 ### Natureza e cultura
 
 * A institucionalização da relação com a natureza. A arrogância humana, Levi Strauss sobre a animalidade dos homens.
@@ -103,11 +123,14 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
         * O lugar da loucura: assimilar a instabilidade sem colapsar (a irregularidade que ameaça a linguagem)
     * *[Green New Deal](https://elordenmundial.com/que-es-el-green-new-deal/)*? Em busca de modos de salvar o capitalismo: *Capitalism with a human face 2.0 — That's not possible, baby!*
 
-### Os rios voadores, os Andes e o Serrano. 
-* A complexidade da relação entre Rios Voadores e o Cerrado como exemplo do caráter insubstituível das relações naturais. 
+<a name="rios"></a>
+
+### Os rios voadores, os Andes e o Cerrado. 
+
+* A complexidade da relação entre Rios Voadores, os Andes e o Cerrado como exemplo do caráter insubstituível das relações naturais. 
     * [Altair Barbosa sobre a complexidade do Bioma Cerrado](https://www.jornalopcao.com.br/entrevistas/o-cerrado-esta-extinto-e-isso-leva-ao-fim-dos-rios-e-dos-reservatorios-de-agua-16970/): raízes e sementes. 
     * [Antonio Nobre sobre, entre outras coisas, os rios voadores](https://www.youtube.com/watch?v=_9-fia-bdlo)
-    * O sonho de criar um ambiente artificial, a cidade e o meio ambiente. *Smart Cities* como sintoma de uma compreensão antiecológica da vida humana. *High Life* e a **ficção científica**,  seres humanos e ambiente espaciais: Wall-E, Star Wars, Interstellar, The Martian, Gravity, *and so on and so on*. Não somos independentes. Saúde do corpo e saúde mental.
+    * O sonho de criar um ambiente artificial, a cidade e o meio ambiente. *Smart Cities* como sintoma de uma compreensão antiecológica da vida humana. *High Life* e a **ficção científica**,  seres humanos e ambiente espaciais: *Wall-E, Star Wars, Interstellar, The Martian, Gravity,* *and so on and so on*. Não somos independentes. Saúde do corpo e saúde mental
 
       * Ambientes espaciais: o pressão evolutiva causada pela perda dos ambientes aos quais estamos ligados. Somos o mundo! Somos um pedacinho do mundo. Ninguém sai de Salvador ao Alaska impune (embora existam muitas pessoas adaptáveis). ~~Corrigindo~~: somos um pedacinho do mundo!
       * Big Data (*file systems* e técnicas de processamento paralelo), 5G, IA, Internet das coisas: infraestrutura das *smart cities*
@@ -116,10 +139,15 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
     * *Comparative cognition*: [pássaros](https://science.sciencemag.org/content/369/6511/1626.editor-summary), [aranhas](https://piaui.folha.uol.com.br/materia/teco-logo-existo/), etc
     
 
+<a name="sistemas"></a>
+
 ### Sistemas complexos
+
 *  [Visões não deterministas: a esperança dentro da ciência](https://aeon.co/essays/complex-systems-science-allows-us-to-see-new-paths-forward). Outros paradigmas de força: rejeitar o controle (materialismo) e amar o destino. O lugar do inexato, do impreciso, do vago e indeterminado. Sistemas complexos como um dos poucos marcos científicos (transdisciplinar) que nos dá algum alento
     * *Emerging engineering*, lidando com a natureza sem propósitos reducionistas?
 * É possível substituir os paradigmas deterministas da ciência sem mudar nossa forma de vida?
+
+<a name="planeta"></a>
 
 ### Buscando outro planeta 
 
@@ -129,10 +157,16 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
 * [Bruno Latour sobre a vontade de fugir](https://www1.folha.uol.com.br/ambiente/2020/09/se-o-brasil-achar-solucao-para-si-vai-salvar-o-resto-do-mundo-diz-bruno-latour.shtml), o não pertencimento (antiecologia) e a o medo relatado por [Douglas Rushkoff e os preparativos dos mais ricos do colapso e insurreições provocados pela colapso e pelo impactos tecnológicos na economia](https://onezero.medium.com/survival-of-the-richest-9ef6cddd0cc1)
 * O futuro do trabalho num mundo automatizado. Renda Universal? Soluções institucionais? *Electric Dreams*
 
-# Subjetividade <a name="subjetividade"></a>
+# <a name="subjetividade"></a>
+
+# Subjetividade
+
 A formação da mentalidade dos `indivíduos` no contexto de uma sociedade capitalista
 
-## Publicidade e a formação do desejo <a name="publicidade"></a>
+<a name="publicidade"></a>
+
+## Publicidade e a formação do desejo 
+
 O que nós queremos? Como o capitalismo forma não apenas o nosso desejo, mas quem somos, o que almejamos ser — **identidade**.
 
 * *Adestramento e reflexão*. Como é possível escapar do efeito do adestramento numa sociedade que confunde pensamento e técnica? É preciso mais que pluralidade, precisamos de um *mindset* que nos torne capazes de aceitar (e criar) o anormal
@@ -149,7 +183,11 @@ O que nós queremos? Como o capitalismo forma não apenas o nosso desejo, mas qu
 * *Century of Self*, documentário da BBC sobre como o indíviduo passou ao primeiro plano ao longo do século XX, em prejuízo das lutas coletivas
 
 [![BBC: Century of Self ](http://img.youtube.com/vi/DnPmg0R1M04/0.jpg)](http://www.youtube.com/watch?v=DnPmg0R1M04 "BBC: Century of Self ")
-## Conforto e Mimo <a name="mimo"></a>
+
+<a name="mimo"></a>
+
+## Conforto e Mimo 
+
 Os verdadeiros fiadores do capitalismo são os confortos e mimos criados dentro dessa forma de vida, a sensação de realização (*fulfilment*) produzida pela saciamento de necessidades gestadas dentro do próprio sistema (a ausência de um padrão autônomo de satisfação, saciedade e suficiência) — *Eudaimonia*?
 
 * O urbano e o mundo natural. A relação humana com o mundo construída a partir do ambiente urbano
@@ -161,6 +199,8 @@ Os verdadeiros fiadores do capitalismo são os confortos e mimos criados dentro 
 * Padrões de qualidade de vida: construindo uma justificativa (justificando o injustificável). O papel da racionalidade no acondicionamento da jaula de aço
 * Necessidades: satisfação e suficiência na sociedade da abundância. A heteronomia do desejo, a heteronomia na lógica de produção capitalista. Páreas e malditos (*Bush People* e a lógica dos *survivors*)
 
+<a name="prazeres"></a>
+
 ### Prazeres do corpo: hedonismo e capitalismo
 
 ![A armadilha hedonista do capitalismo](https://brausen.com.br/wp-content/uploads/2021/01/1-a-uni-capitalismo-eh-o-que-eh.jpg)
@@ -168,10 +208,15 @@ Os verdadeiros fiadores do capitalismo são os confortos e mimos criados dentro 
 * O prazer como abstração, o prazer no lugar do dinheiro. Aquilo que é a medida de todas as coisas. O hedonismo é a alma do capitalismo, os prazeres do corpo. Prazer como mercadoria. O que sempre pode se adicionar. Prazer e felicidade!
 * As armadilhas do consumo: diversão e a reprodutibilidade (~~repetição~~) do prazer. O egoísmo do prazer e da diversão. *Revelry*
 
-# Intersubjetividade <a name="intersubjetividade"></a>
+<a name="intersubjetividade"></a>
+
+# Intersubjetividade 
+
 A `relação` dos humanos entre si e com os outros animais.
 
-## Ego, vaidade e competição <a name="ego"></a>
+<a name="ego"></a>
+
+## Ego, vaidade e competição 
 O liberalismo triunfou e conseguiu inculcar em nossas mentes e instituições a ideia de que a competição é a motor da vida humana. As consequências deletérias dessa mentalidade alimentam a desconfiança que tendemos a confirmar (e reforçar) em função do predomínio de experiências desfavoráveis com outros humanos.
 
 * Raiva e sadismo (inconscientes). Tirania (*There will be blood*) e o ódio (a ausência do amor)
@@ -191,7 +236,10 @@ O liberalismo triunfou e conseguiu inculcar em nossas mentes e instituições a 
 * Sociabilidade e insociabilidade: Freud e Kant contra a ilusão socialista acerca das relações humanas (hostilidade, violência e guerra)
 * A ubiquidade do mercado: a crença no mercado é tão central pra nossa sociedade que todas as manifestações sociais parecem contaminadas pela lógica do mercado. [A lógica da produtividade e a pesquisa na Universidade](https://www.cairn.info/revue-cites-2010-1-page-35.htm). O *padrão salame* e outros exemplos
 
-## Confiança e cooperação <a name="confianca"></a>
+<a name="confianca"></a>
+
+## Confiança e cooperação 
+
 Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o desafio de superar a desconfiança e de desfazer o longevo feitiço que uma tradição liberal e protoliberal conjurou sobre nosso olhar sobre relações entre seres humanos. De Hobbes a Hayek
 
 * Desigualdade, violência, medo e desconfiança. As chaves do Leviatã. *Respeito* nas sociedades competitivas e desiguais
@@ -225,10 +273,16 @@ Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o 
         * [Marcos Nobre e a vontade de vingança](https://piaui.folha.uol.com.br/eleicao-da-vinganca/): seus textos foram os melhores antes da eleição de 2018 e justamente porque ele articula as variáveis políticas ao desejo (psicologia) latente que os mobiliza
         * Psicologia sem intencionalidade, epistemologia naturalizada (a subordinação da epistemologia à psicologia em Quine)
 
-## O tempo e o futuro <a name="tempo"></a>
+<a name="tempo"></a>
+
+## O tempo e o futuro 
+
 O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito da nossa capacidade de ver o mundo de uma perspectiva assustadoramente ampla. É indispensável que nos acostumemos a ver o mundo numa perspectiva mais além da nossa curta expectativa de vida
 
-### Visões sobre o futuro <a name="futuro"></a>
+<a name="futuro"></a>
+
+### Visões sobre o futuro 
+
 * [Keynes e a jornada de trabalho do futuro](https://www.newyorker.com/magazine/2020/02/10/can-we-have-prosperity-without-growth): expectativa e realidade. Sobre a jornada de 8h de trabalho
 * O direito à vagabundagem. Pavese, Lafargue e Nietzsche: trabalho e homens ativos. A malandragem contra a ética protestante 
     * O lugar do lúdico, Marcuse. Trabalho *versus* Jogo
@@ -238,10 +292,14 @@ O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito 
     * Pode uma sociedade acelerada lidar com a mudança sem abandonar instituições?
 * Imaginação e possibilidade: a cegueira normatividade e o compromisso de conceber (imaginar) uma forma de vida que não se realizará em nosso *life span*. Concebendo o impossível!
 
-### Com quem aprendemos? <a name="quem"></a>
+<a name="quem"></a>
+
+### Com quem aprendemos? 
+
 * Complexididade: desvalorização dos modelos de sociedade tradicionais. Como [é possível aprender com o que não se respeita](https://brausen.com.br/2018/02/com-quem-aprendemos-o-que-nos-ensina/)?
-    
-    * Pierre Clastres: sobre a igualdade nas sociedades sem poder (e sem economia). O mito da sobrevivência, força e riqueza
+  
+    * Pierre Clastres: sobre a igualdade nas sociedades sem poder (e sem economia). O mito da *sobrevivência*, força e riqueza: política e economia em sociedades arcaicas. Hobbes, Huxley, Malthus, Darwin (?) e Dawkins, sobre conflito e violência. A verdade coage? Verdade, justificação e necessidade. Sistema limbico: mnemotécnica nietzscheana, lembrar com fogo. O predominio das relações negativas, a memória da dor. O sofrimento do mundo
+      * Amor e beleza como base de relações humanas: a precariedade  do amor
     * Modelos de inteligência (fontes de aprendizado) de seres complexos: **androides e extraterrestres**. A ficção como sintoma
     
 * O tempo dos animais (Cassirer e os macacos). O ritmo como um problema central do capitalismo
@@ -253,7 +311,11 @@ O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito 
     > Um dos capítulos mais divertidos de Rick and Morty é `Auto Erotic Assimilation` (S02E03), um capítulo que gira ao redor de uma entidade que é uma espécie de consciência coletiva. Por causa do conflito entre homogeneidade e singularidade (a aspiração liberal), o episódio apresenta cenas bem engraçadas em que o compromisso com a individualidade e/ou identidade leva a situações absurdas que, no entanto, nos são muito familiares 
 
     * [Panpsychism](https://iai.tv/video/the-consciousness-puzzle-panpsychism&_auid=2020): consciência coletiva? Mais uma ameaça à singularidade do indivíduo liberal (essa galinha dos ovos de ouro)?
-### O que afirmar? <a name="afirmar"></a>
+
+<a name="afirmar"></a>
+
+### O que afirmar? 
+
 >*Somente enquanto criadores!* — Eis algo que me exigiu e sempre continua a exigir um grande esforço: compreender que importa muito mais como as coisas se chamam do que aquilo que são. A reputação, o nome e a aparência, o peso e a medida habituais de uma coisa, o modo como é vista — quase sempre uma arbitrariedade e um erro em sua origem, jogados sobre as coisas como uma roupagem totalmente estranha à sua natureza e mesmo à sua pele —, mediante a crença que as pessoas neles tiveram, incrementada de geração em geração, gradualmente se enraizaram e encravaram na coisa, por assim dizer, tornando-se o seu próprio corpo: a aparência inicial termina quase sempre por tornar-se essência e atua como essência! Que tolo acharia que basta apontar essa origem e esse nebuloso manto de ilusão para destruir o mundo tido por essencial, a chamada “realidade”? **Somente enquanto criadores podemos destruir!** — Mas não esqueçamos também isto: basta criar novos nomes, avaliações e probabilidades para, a longo prazo, criar novas “coisas”.
 >— Nietzsche, *Gaia ciência* §58
 
@@ -266,6 +328,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-08 18:07:36.329397
+Última atualização: 2021-01-08 22:56:50.446965
 
 ### [⤴ Topo](#inicio)
