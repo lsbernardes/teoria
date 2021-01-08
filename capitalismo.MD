@@ -22,7 +22,7 @@ Há inegavelmente uma infinidade de críticas ao capitalismo, mas elas não são
         1. [Pegada ecológica e Antropoceno](#pegada) 
     1. [Torneiras e rios](#torneira)
         1. [Natureza e cultura](#natureza)
-        1. [Os rios voadores, os Andes o Cerrado](#rios)
+        1. [Os rios voadores, os Andes e o Cerrado](#rios)
         1. [Sistemas complexos](#sistemas)
         1. [Buscando outro planeta](#planeta)
 1. [Subjetividade](#subjetividade)
@@ -125,9 +125,11 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
 
 <a name="rios"></a>
 
-### Os rios voadores, os Andes e o Cerrado. 
+### Os rios voadores, os Andes e o Cerrado
 
-* A complexidade da relação entre Rios Voadores, os Andes e o Cerrado como exemplo do caráter insubstituível das relações naturais. 
+![Rios voadores, Andes e o Cerrado](https://brausen.com.br/wp-content/uploads/2021/01/rios_voadores.jpeg)
+
+* A complexidade da relação entre Rios Voadores, os Andes e o Cerrado como exemplo do caráter insubstituível das relações naturais. Vem da África parte das particulas sólidas em torno das quais a água condensada da Amazônia se agregam 
     * [Altair Barbosa sobre a complexidade do Bioma Cerrado](https://www.jornalopcao.com.br/entrevistas/o-cerrado-esta-extinto-e-isso-leva-ao-fim-dos-rios-e-dos-reservatorios-de-agua-16970/): raízes e sementes. 
     * [Antonio Nobre sobre, entre outras coisas, os rios voadores](https://www.youtube.com/watch?v=_9-fia-bdlo)
     * O sonho de criar um ambiente artificial, a cidade e o meio ambiente. *Smart Cities* como sintoma de uma compreensão antiecológica da vida humana. *High Life* e a **ficção científica**,  seres humanos e ambiente espaciais: *Wall-E, Star Wars, Interstellar, The Martian, Gravity,* *and so on and so on*. Não somos independentes. Saúde do corpo e saúde mental
@@ -157,7 +159,7 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
 * [Bruno Latour sobre a vontade de fugir](https://www1.folha.uol.com.br/ambiente/2020/09/se-o-brasil-achar-solucao-para-si-vai-salvar-o-resto-do-mundo-diz-bruno-latour.shtml), o não pertencimento (antiecologia) e a o medo relatado por [Douglas Rushkoff e os preparativos dos mais ricos do colapso e insurreições provocados pela colapso e pelo impactos tecnológicos na economia](https://onezero.medium.com/survival-of-the-richest-9ef6cddd0cc1)
 * O futuro do trabalho num mundo automatizado. Renda Universal? Soluções institucionais? *Electric Dreams*
 
-# <a name="subjetividade"></a>
+<a name="subjetividade"></a>
 
 # Subjetividade
 
@@ -328,6 +330,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-08 22:56:50.446965
+Última atualização: 2021-01-08 23:04:26.718379
 
 ### [⤴ Topo](#inicio)
