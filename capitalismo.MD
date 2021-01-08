@@ -186,11 +186,13 @@ O liberalismo triunfou e conseguiu inculcar em nossas mentes e instituições a 
 	- Intimidade e estranheza! A possibilidade de *reconhecer* o Outro
 	- Esporte: pode haver competição sem vaidade, sem narcisismo? Sim! Nietzsche sobre a noção de vitória dos fortes
 * Dispensando esforços: *sobreviver* numa sociedade de egoístas. O caráter arquetípico da ideia de sobrevivência na cultura norte-americana (bunker e o fim do mundo): cinema.
+    * Thomas Huxley e *Struggle for existence*. Justificando o egoísmo?
+    * Qual é o efeito do primado do sentido nas disputas epistêmicas? Na construção da justificação? O caráter exclusivo da verdade (a bipolaridade da proposição). [*Expert systems* e o uso da Inteligência Artificial para decidir debates](https://drive.google.com/file/d/1mnUARqlmo9PHSaQPxJI0GbKFC1S-Kjni/view?usp=sharing) entre posições teóricas inconsistente mas com bases empíricas igualmente boas  
 * Sociabilidade e insociabilidade: Freud e Kant contra a ilusão socialista acerca das relações humanas (hostilidade, violência e guerra)
-* A ubiquidade do mercado: a crença no mercado é tão central pra nossa sociedade que todas as manifestações sociais parecem contaminadas pela lógica do mercado. [A lógica da produtividade e a pesquisa na Universidade](https://www.cairn.info/revue-cites-2010-1-page-35.htm). O *padrão salame* e outros exemplos.
+* A ubiquidade do mercado: a crença no mercado é tão central pra nossa sociedade que todas as manifestações sociais parecem contaminadas pela lógica do mercado. [A lógica da produtividade e a pesquisa na Universidade](https://www.cairn.info/revue-cites-2010-1-page-35.htm). O *padrão salame* e outros exemplos
 
 ## Confiança e cooperação <a name="confianca"></a>
-Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o desafio de superar a desconfiança e de desfazer o longevo feitiço que uma tradição liberal e protoliberal conjurou sobre nosso olhar sobre relações entre seres humanos. De Hobbes a Hayek. 
+Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o desafio de superar a desconfiança e de desfazer o longevo feitiço que uma tradição liberal e protoliberal conjurou sobre nosso olhar sobre relações entre seres humanos. De Hobbes a Hayek
 
 * Desigualdade, violência, medo e desconfiança. As chaves do Leviatã. *Respeito* nas sociedades competitivas e desiguais
 	- Desigualdade e racismo: domesticando classes potencialmente subversivas (a obra da escravidão)
@@ -199,13 +201,13 @@ Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o 
 		- [*Tunnel vision*, inteligência e pobreza](https://one.npr.org/?sharedMediaId=520136937:520885775&t=1565618737537&t=1609697230552). O estudo psicológico e sociológico sobre o impacto da pobreza
     * O papel do medo e do conflito no estabelecimento da liderança entre grupos de Chimpanzé
 * Aprender com o "primitivo": descomplexificar. O lugar do simples, o dogma da complexidade
-* Conhecimento livre: como experiências tecnológicas tem sedimentado uma visão sobre a colaboração que contorna os frágeis argumentos favoráveis à competição, a ponto de que o software livre tenha se tornado o marco de desenvolvimento de software.
-    * Azure: a experiência da Microsoft e do Linux. Bill Gates como paradigma de empreendedor: sobre a criação de um mercado (que logo *quase naturalmente* se tornou monopólio), o mercado de desenvolvimento de software. 
+* Conhecimento livre: como experiências tecnológicas tem sedimentado uma visão sobre a colaboração que contorna os frágeis argumentos favoráveis à competição, a ponto de que o software livre tenha se tornado o marco de desenvolvimento de software
+    * Azure: a experiência da Microsoft e do Linux. Bill Gates como paradigma de empreendedor: sobre a criação de um mercado (que logo *quase naturalmente* se tornou monopólio), o mercado de desenvolvimento de software
     * Os donos do conhecimento: pirataria e a pesquisa acadêmica nos países pobres. Conhecimento e propriedade privada, o *status* do conhecimento e a competição velada (hipócrita) na universidade
-* A confiança dos desconfiados: a ascensão da extrema direita acompanha um discurso que realça o papel da **família**, é na família que mentalidade puritana crê que deve depositar sua confiança e em nenhum outro lugar.
+* A confiança dos desconfiados: a ascensão da extrema direita acompanha um discurso que realça o papel da **família**, é na família que mentalidade puritana crê que deve depositar sua confiança e em nenhum outro lugar
     * Amizade: Goethe como arma, a restauração do papel da amizade. Afinidades eletivas, confiança, conexão e confluência (do afetivo ao epistêmico [brainets])
     * [Mandela sobre a hospitalidade](https://brausen.com.br/2020/03/a-gente-tambem-se-fortalece/)
-* Ajuda mútua: não é por acaso que o livro de Kropotkin começa discutindo a ideia de ajuda mútua no reino animal. Não é por acaso que Michael Tomasello discute o papel da colaboração na constituição da catraca evolutiva que nos diferencia. Não se trata tomar partido de um dos lados na busca por um justificação, *I don't a horse in this race*, como diria Rick Sanchez, mas esse debate precisa ser entendido antes de ser superado. Competição *versus* cooperação: é pra isso server a verdade (~~justificação~~)!
+* Ajuda mútua: não é por acaso que o livro de Kropotkin começa discutindo a ideia de ajuda mútua no reino animal. Não é por acaso que Michael Tomasello discute o papel da colaboração na constituição da catraca evolutiva que nos diferencia. Não se trata tomar partido de um dos lados na busca por um justificação — *I don't a horse in this race*, como diria Rick Sanchez —, mas esse debate precisa ser entendido antes de ser superado. Competição *versus* cooperação: é pra isso server a verdade (~~justificação~~), pra saber o que escolher entre duas perspectivas que se excluem!
     * Oxitocina: hormônio do amor? Precisamos de mais explicações? Naturalização como forma de mitologia (a objetividade da etnologia)
     * É preciso explicar o sentido da cooperação ou deixar-se convencer pelo persuasivo medo de que os outros sejam o inimigo?
 
@@ -224,7 +226,7 @@ Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o 
         * Psicologia sem intencionalidade, epistemologia naturalizada (a subordinação da epistemologia à psicologia em Quine)
 
 ## O tempo e o futuro <a name="tempo"></a>
-O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito da nossa capacidade de ver o mundo de uma perspectiva assustadoramente ampla. É indispensável que nos acostumemos a ver o mundo numa perspectiva mais além da curta e insignificante expectativa de vida.
+O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito da nossa capacidade de ver o mundo de uma perspectiva assustadoramente ampla. É indispensável que nos acostumemos a ver o mundo numa perspectiva mais além da nossa curta expectativa de vida
 
 ### Visões sobre o futuro <a name="futuro"></a>
 * [Keynes e a jornada de trabalho do futuro](https://www.newyorker.com/magazine/2020/02/10/can-we-have-prosperity-without-growth): expectativa e realidade. Sobre a jornada de 8h de trabalho
@@ -238,11 +240,19 @@ O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito 
 
 ### Com quem aprendemos? <a name="quem"></a>
 * Complexididade: desvalorização dos modelos de sociedade tradicionais. Como [é possível aprender com o que não se respeita](https://brausen.com.br/2018/02/com-quem-aprendemos-o-que-nos-ensina/)?
-    * Modelos de inteligência (fontes de aprendizado) de seres complexos: **androides e extraterrestres**. A ficção como sintoma
-* O tempo dos animais (Cassirer e os macacos). O ritmo como um problema central do capitalismo
-* [Brainets: implicações epistêmicas e terapêuticas da coletivização da consciência](https://www1.folha.uol.com.br/ciencia/2020/08/cerebro-humano-e-capaz-de-criar-realidade-diz-neurocientista.shtml). A espontânea coincidência entre cientistas, filósofos e a New Age
-    * [Panpsychism](https://iai.tv/video/the-consciousness-puzzle-panpsychism&_auid=2020): consciência coletiva? Mais uma ameaça à singularidade do indivíduo liberal (essa galinha dos ovos de ouro)?
     
+    * Pierre Clastres: sobre a igualdade nas sociedades sem poder (e sem economia). O mito da sobrevivência, força e riqueza
+    * Modelos de inteligência (fontes de aprendizado) de seres complexos: **androides e extraterrestres**. A ficção como sintoma
+    
+* O tempo dos animais (Cassirer e os macacos). O ritmo como um problema central do capitalismo
+
+* [Brainets: implicações epistêmicas e terapêuticas da coletivização da consciência](https://www1.folha.uol.com.br/ciencia/2020/08/cerebro-humano-e-capaz-de-criar-realidade-diz-neurocientista.shtml). A espontânea coincidência entre cientistas, filósofos e a New Age (para ódio de tantos). Espiritualidade como reação *natural* à atomização (neo)liberal, brincando de argumentar como naturalistas. Novas formas de consciência e conexão (redes e mentes)
+
+    ![Rick Sanchez e Unity](https://brausen.com.br/wp-content/uploads/2021/01/rick_unity.jpeg)
+
+    > Um dos capítulos mais divertidos de Rick and Morty é `Auto Erotic Assimilation` (S02E03), um capítulo que gira ao redor de uma entidade que é uma espécie de consciência coletiva. Por causa do conflito entre homogeneidade e singularidade (a aspiração liberal), o episódio apresenta cenas bem engraçadas em que o compromisso com a individualidade e/ou identidade leva a situações absurdas que, no entanto, nos são muito familiares 
+
+    * [Panpsychism](https://iai.tv/video/the-consciousness-puzzle-panpsychism&_auid=2020): consciência coletiva? Mais uma ameaça à singularidade do indivíduo liberal (essa galinha dos ovos de ouro)?
 ### O que afirmar? <a name="afirmar"></a>
 >*Somente enquanto criadores!* — Eis algo que me exigiu e sempre continua a exigir um grande esforço: compreender que importa muito mais como as coisas se chamam do que aquilo que são. A reputação, o nome e a aparência, o peso e a medida habituais de uma coisa, o modo como é vista — quase sempre uma arbitrariedade e um erro em sua origem, jogados sobre as coisas como uma roupagem totalmente estranha à sua natureza e mesmo à sua pele —, mediante a crença que as pessoas neles tiveram, incrementada de geração em geração, gradualmente se enraizaram e encravaram na coisa, por assim dizer, tornando-se o seu próprio corpo: a aparência inicial termina quase sempre por tornar-se essência e atua como essência! Que tolo acharia que basta apontar essa origem e esse nebuloso manto de ilusão para destruir o mundo tido por essencial, a chamada “realidade”? **Somente enquanto criadores podemos destruir!** — Mas não esqueçamos também isto: basta criar novos nomes, avaliações e probabilidades para, a longo prazo, criar novas “coisas”.
 >— Nietzsche, *Gaia ciência* §58
@@ -256,6 +266,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-08 17:32:55.004488
+Última atualização: 2021-01-08 18:07:36.329397
 
 ### [⤴ Topo](#inicio)
