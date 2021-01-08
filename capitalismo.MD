@@ -1,15 +1,15 @@
-<a name="inicio"></a> **Contra o Capitalismo!** 
+<a name="inicio"></a> 
 ========
-<!-- 
-Leonardo Silva Bernardes
-https://brausen.com.br    
- -->
+
+**Contra o Capitalismo!** 
+========
+
 `A ciência nunca alvejará o capitalismo!` 
 Por que financiar pesquisas sobre uma possível alternativa ao capitalismo? Existem pesquisas importantes envolvendo esse tema? Onde elas estão? Digo, em que centros de pesquisa, em que universidades? Em que departamentos? **Não há pesquisas envolvendo alternativas ao capitalismo, simples assim**. Será então é seguro dizer que o capitalismo é o maior *dogma* das sociedades humanas (como o dogma d[a democracia de que fala Ortega y Gasset](https://brausen.com.br/2017/05/racionalistas-sem-razoes-a-cultura-sem-vitalidade-de-ortega-y-gasset/))?
 
 Há inegavelmente uma infinidade de críticas ao capitalismo, mas elas não são mais que expressões da pluralidade do pensamento acadêmico e não indicativos de que a sociedade científica está mobilizada e considera o capitalismo uma questão urgente. Enquanto oferece um rico panorama das causas dos nossos problemas, a ciência espera respostas das instituições competentes, mas ela jamais julgará o capitalismo como responsável ou **causa** primordial desses problemas. A ciência hoje está formada por especialistas e para estas pessoas julgar responsabilidades éticas e políticas faz parte do seu âmbito de competência (técnica). A ciência não cortará seu próprio galho, nem que a razão, a lógica e qualquer outra Deusa do olimpo intelectual lhe peça de joelhos.
 
->As três seções são abrangentes mas não pretendem ser universais nem esgotar o tema, assim, há muitos aspectos do lado de fora. Nesse sentido, elas são *arbitrárias*, como **perspectivas** para abordar o fenômeno do capitalismo. O esquema tem propósito estritamente ilustrativo, isto é, ele não pretende conter nenhuma dimensão argumentativa já que o tema em questão é *fundamental* e, portanto, está protegido contra forças coersivas. Seu sentido consiste apenas em reunir ideias e fatos para que aqueles que *alguma vez pensaram sobre este tema* possam ter uma visão geral (*Übersicht*) da sua complexidade (do sistema capitalista). Como o objetivo é mais exemplificar a complexidade do sistema capitalista do que descrevê-lo (representá-lo), eu posso ser especialmente arbitrário (o limite da arbitrariedade é a ficção, o seu espaço exterior é o sem sentido e a loucura).
+>As três seções são abrangentes mas não pretendem ser universais nem esgotar o tema, assim, há muitos aspectos do lado de fora (ou seja, elas não visão uma ==totalidade==). Nesse sentido, elas são *arbitrárias*, como **perspectivas** para abordar o fenômeno do capitalismo. O esquema tem propósito estritamente ilustrativo, isto é, ele não pretende conter uma dimensão argumentativa já que o tema em questão é *fundamental* e, portanto, está protegido contra forças coersivas. Seu sentido consiste apenas em reunir ideias e fatos para que aqueles que *alguma vez pensaram sobre este tema* possam ter uma visão geral (*Übersicht*) da sua complexidade (do sistema capitalista). Como o objetivo é mais exemplificar a complexidade do sistema capitalista do que descrevê-lo (representá-lo), eu posso ser especialmente arbitrário (a arbitrariedade é o contrário do propósito determinista da representação, por isso mesmo a **ficção** lhe serve, e não apenas a verdade).
 
 ![A insustentabilidade do capitalismo](https://brausen.com.br/wp-content/uploads/2021/01/justhumansof_capitalismo_sustentavel.jpg)
 > *Sustentabilidade*: não é desejável salvar o capitalismo, não há níveis seguros para o uso dessa substância 
@@ -33,7 +33,7 @@ Há inegavelmente uma infinidade de críticas ao capitalismo, mas elas não são
         1. [Com quem aprendemos?](#quem)
         1. [O que afirmar?](#afirmar)       
 
- - - - - 
+- - - -
 
 # Ecologia <a name="ecologia"></a>
 A relação entre os seres humanos, a `natureza` e o meio ambiente.
@@ -44,30 +44,31 @@ Os incontornáveis obstáculos teóricos e práticos ao crescimento econômico e
 ![A incompatibilidade entre capitalismo e o meio ambiente](https://brausen.com.br/wp-content/uploads/2021/01/capitalismo_recursos_planeta_ecologia.jpg)
 
 ### O limite da natureza <a name="limite"></a>
-* A [barreira termodinâmica ao crescimento econômico](https://www.academia.edu/4196307/A_natureza_como_limite_da_economia_a_contribui%C3%A7%C3%A3o_de_Nicholas_Georgescu_Roegen), o **único modelo** econômico de **todos** os estados nacionais do planeta.
+* A [barreira termodinâmica ao crescimento econômico](https://www.academia.edu/4196307/A_natureza_como_limite_da_economia_a_contribui%C3%A7%C3%A3o_de_Nicholas_Georgescu_Roegen), o **único modelo** econômico de **todos** os estados nacionais do planeta
 * Decrescer e descomplexificar: [vivendo como um animal num planeta finito](https://www.youtube.com/watch?v=uGAbh-E_c5s)
 * Construindo a inimputabilidade do capitalismo: decompondo causas até descaracterizá-lo como causa. "Era só uma peça ruim, o sistema ainda é bom. Vamos substitui-la e deixar tudo como está!" A **sustentabilidade** como última forma do capitalismo. Um exemplo desse pensamento: o capitalismo pode ser conservado se encontrarmos uma matriz energética renovável e tão eficiente como a matriz fóssil. Podemos seguir crescendo, podemos seguir *progredindo*.
-	* Foucault sobre a genealogia das normas de desenvolvimento sexual (do moral ao clínico e jurídico). Entender as ideias de **progresso**, desenvolvimento e normalidade a partir do paradigma sexual.
+	* Foucault sobre a genealogia das normas de desenvolvimento sexual (do moral ao clínico e jurídico). Entender as ideias de **progresso**, desenvolvimento e normalidade a partir do paradigma sexual. Contra o progresso: linealidade, circularidade (arquétipo), não linearidade (determinação do sentido: uso da linguagem como determinador do sentido; a poesia, quando a linguagem deliberadamente vai de férias). O sentido da história em Kant, Paul Santo Agostinho, Paul Veyne
 	* [Zizek sobre o capitalismo cultural](https://www.youtube.com/watch?v=hpAMbpQ8J7g). Capitalismo cultural e ciência: ((humanos || cidadãos) >= cientistas)? A estabilidade da forma de vida individual (seus prazeres e delícias) pode prevalecer sobre a necessidade de desestabilizar instituições? É verdadeiramente possível criticar a ciência? Kuhn e Feyerabend: inimigos da ciência
 
 ### Recursos naturais e energéticos <a name="recursos"></a>
-* Combustíveis fosséis, energia solar, eólica, motor a plasma de hidrogênio, etc. A necessária e cega crença no desenvolvimento de fontes alternativas de energias que paralisa a crítica ao sistema e que induz a pesquisa (produtividade, o ciclo infinito do capital), como se tratasse de um problema técnico 
-    * A impossibilidade de substituir os combustíveis fosséis [Pedro Prieto](https://www.youtube.com/watch?v=g3MLj8E-GyY)
+* Combustíveis fosséis, energia solar, eólica, motor a plasma de hidrogênio, etc. A crença cega no desenvolvimento de fontes alternativas de energias que paralisa a crítica ao sistema e que induz a pesquisa (produtividade, o ciclo infinito do capital), como fosse essencialmente um problema técnico a nossa relação com o meio ambiente (e seus "recursos") 
+    * *É possível ser crítico da tecnologia sem ser tecnofóbico*? São honestas as críticas a Marcuse e a Heidegger?
+    * [Pedro Prieto:](https://www.youtube.com/watch?v=g3MLj8E-GyY) a impossibilidade de substituir os combustíveis fosséis. A expressão da desigualdade no uso de recursos energético entre paises ricos e pobres
 * O litio das baterias Tesla e a política da América do Sul. Elon Musk e os interesses das empresas que fabricam carros elétricos. Recursos esgotáveis de soluções messiânicas
 
 ![Elon Musk e a Bolívia](https://brausen.com.br/wp-content/uploads/2020/12/evo_morales_bolivia_elon_musk.jpeg)
 
-*	A água como um elemento insubstituível. O delírio das soluções alternativas à preservação dos rios e aquíferos.
-    * São Paulo, Califórnia, França e Espanha na última década: experiências de desabastecimento e seca.
+*	A água como um elemento insubstituível. O delírio das soluções alternativas à preservação dos rios, lagos, aquíferos, etc.
+    * São Paulo, Califórnia, França e Espanha na última década: experiências de desabastecimento e seca
     * Preservação e conservação. O dilema das instituições. David Attenborough e *My Octopus Teacher*, a anestesiante luta liberal pelo meio ambiente
 * Conflitos em torno da questão da água (como os conflitos do oriente médio, em torno do rio Jordão). A água e o nordeste brasileiro.
-* Insumos após o colapso climático (desestabilização da cadeia produtiva de uma economia globalizada). Os litorais após efeitos do aquecimento global. *Sentindo apenas o imediato (cozinhando o sapo)*
+* Insumos após o colapso climático (desestabilização da cadeia produtiva de uma economia globalizada). Os litorais após efeitos do aquecimento global. *Sentindo apenas o imediato (**cozinhando o sapo a fogo lento**)*
 
 ![Previsão do impacto no Rio de Janeiro](https://brausen.com.br/wp-content/uploads/2020/12/screenshot_153530_202012362.png)
 > [The three-degree world: the cities that will be drowned by global warming](https://www.theguardian.com/cities/ng-interactive/2017/nov/03/three-degree-world-cities-drowned-global-warming)
 
 ## A rede da vida <a name="rede"></a>
-O efeito da presença humana. O que significa a ecologia? A influência mútua, o efeito caótico, o efeito borboleta dos sistemas complexos da natureza (sistema não estacionários)
+O efeito da presença humana. O que significa a ecologia? A influência mútua, o efeito caótico, o efeito borboleta dos sistemas complexos naturezais (sistema não estacionários)
 
 ### Pegada ecológica e Antropoceno <a name="pegada"></a>
 * Antropoceno: mais de 200 tipos de [novos minerais derivados da ação e influência humana](https://www.theguardian.com/science/2017/mar/01/rock-of-ages-impact-of-manmade-crystals-defining-new-geological-epoch-study) na natureza.
@@ -80,7 +81,7 @@ O efeito da presença humana. O que significa a ecologia? A influência mútua, 
 ![Poorlydrawnlines](https://brausen.com.br/wp-content/uploads/2021/01/poorlydrawnlines_9d4b0759843ed_DOIS.jpg) 
 
 ## Torneiras e rios
-Sujeitos urbanos já não são capazes de compreender a natureza como recurso, apenas como serviço, como algo pelo que eles pagam. Nós nascemos tendo contato com a água por meio de torneiras, isso dificulta o entendimento de que, por mais acessível que seja, a água é sempre recurso. 
+Sujeitos urbanos já não são capazes de compreender a natureza como recurso, apenas como **serviço**, como algo pelo que eles pagam. Nós nascemos tendo contato com a água por meio de torneiras, isso dificulta o entendimento de que, por mais acessível que seja, a água é sempre recurso (ver a água como recurso é ainda um modo tecnológico de encará-la, mas é uma forma menos abrupta de introduzir a questão da nossa cegueira, de acostumar nosso olhar um novo modo de ver)
 
 ![Pantano de San Juan](https://brausen.com.br/wp-content/uploads/2020/12/IMG_20190814_150643_247_DOIS.jpg)
 
@@ -92,8 +93,9 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
 > Começou-se por cortar o homem da natureza e constituí-lo como um reino supremo. Supunha-se apagar desse modo seu caráter mais irrecusável, qual seja, ele é primeiro um ser vivo. E permanecendo cegos a essa propriedade comum, deixou-se o campo livre para todos os abusos. Nunca antes do termo destes últimos quatro séculos de sua história, o homem ocidental percebeu tão bem que, ao arrogar-se o direito de separar radicalmente a humanidade da animalidade, concedendo a uma tudo o que tirava da outra, abria um ciclo maldito. E que a mesma fronteira, constantemente empurrada, serviria para separar homens de outros homens, e reivindicar em prol de minorias cada vez mais restritas o privilégio de um humanismo, corrompido de nascença por ter feito do amor-próprio seu princípio e noção. — Levi-Strauss. *Antropologia Estrututral Dois*
 
 * Tendência a confirmação. O papel da estabilidade (~~resistência~~) da ciência (ciência normal e revolução) e o impacto na atitude indolente dos cientistas a respeito do capitalismo
-    * **Ciência e mercado**. O efeito da pesquisa no desenvolvimento científico. Ainda que os estados nacionais (interesse público) [sejam os maiores financiadores do desenvolvimento científico](https://jornal.usp.br/ciencias/nos-paises-desenvolvidos-o-dinheiro-que-financia-a-ciencia-e-publico/), a influência e a necessidade de que a pesquisa induz a inovação tecnológica (mais produtividade) viciam a liberdade da ciência. A mão invisível do mercado (interesse privada) coage, o dinheiro manda. Pesquisa e Financiamento: a liberdade condicionada da ciência. 
-* *Animal in Epistemology*. Antropologia e Primatologia. A disputa narrativa em torno da evolução humana (pós-Darwin): Kropotkin, Dawkins e Hayek sobre competição e cooperação [Chomski, *Cooperar ou extinguir*] **&#8595; MAIS SOBRE o tema na seção Intersubjetividade**
+    * **Ciência e mercado**. O efeito da pesquisa no desenvolvimento científico. Ainda que os estados nacionais (interesse público) [sejam os maiores financiadores do desenvolvimento científico](https://jornal.usp.br/ciencias/nos-paises-desenvolvidos-o-dinheiro-que-financia-a-ciencia-e-publico/), a influência e a necessidade de que a pesquisa induza a inovação tecnológica (mais produtividade) viciam e restringem a liberdade da ciência. A mão invisível do mercado (interesse privada) coage, o dinheiro manda. Pesquisa e Financiamento: a liberdade condicionada da ciência. 
+* *Animal in Epistemology*. Psicologia: a (re)introdução do tempo na lógica com a pragmática. Lógica psicologista. Etnologia e Primatologia, os próximos caminhos da pragmática. O modelo de determinação (~~forma lógica~~) e o tempo: animalidade, sentido e história. A disputa narrativa em torno da evolução humana (pós-Darwin): Kropotkin, Dawkins e Hayek sobre competição e cooperação [Chomski, *Cooperar ou extinguir*] **&#8595; MAIS SOBRE o tema na seção Intersubjetividade**
+    * Sentido e verdade, o primado do sentido. [Richard Rorty, *The decline of redemptive truth and the rise of literary culture*](https://drive.google.com/file/d/1P9O1BtjmegV7Gk-2aEH8KegrLtLIw_wC/view?usp=sharing)
 * Extinção ou revolução? **Extinction Rebellion (Greta Thunberg)**: pelo que lutam os ativistas? Respostas institucionais? É *possível* que uma resposta ao capitalismo (à aceleração capitalista) possa ser institucional, vir das instituições? 
     * Transhumanismo e a húbris tecnológica
     * Nietzsche e Montaigne contra Rousseau: o romantismo da revolução *versus* o caos da revolução (e o mito da revolução que instaura a ordem)
@@ -105,14 +107,17 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
 * A complexidade da relação entre Rios Voadores e o Cerrado como exemplo do caráter insubstituível das relações naturais. 
     * [Altair Barbosa sobre a complexidade do Bioma Cerrado](https://www.jornalopcao.com.br/entrevistas/o-cerrado-esta-extinto-e-isso-leva-ao-fim-dos-rios-e-dos-reservatorios-de-agua-16970/): raízes e sementes. 
     * [Antonio Nobre sobre, entre outras coisas, os rios voadores](https://www.youtube.com/watch?v=_9-fia-bdlo)
-    * O sonho de criar um ambiente artificial, a cidade e o meio ambiente. *Smart Cities* como sintoma de uma compreensão antiecológica da vida humana
-        * Big Data (*file systems* e técnicas de processamento paralelo), 5G, IA, Internet das coisas: infraestrutura das *smart cities*
-*  SUV: ostentação e sucesso nos países pobres, [o discurso do *winner*](https://www.youtube.com/watch?v=iqFOmq_9TR8) (*imitando* os vencedores) 
-* Inteligência e natureza. A vaidade da inteligência humana e a subestimação da inteligência animal.
+    * O sonho de criar um ambiente artificial, a cidade e o meio ambiente. *Smart Cities* como sintoma de uma compreensão antiecológica da vida humana. *High Life* e a **ficção científica**,  seres humanos e ambiente espaciais: Wall-E, Star Wars, Interstellar, The Martian, Gravity, *and so on and so on*. Não somos independentes. Saúde do corpo e saúde mental.
+
+      * Ambientes espaciais: o pressão evolutiva causada pela perda dos ambientes aos quais estamos ligados. Somos o mundo! Somos um pedacinho do mundo. Ninguém sai de Salvador ao Alaska impune (embora existam muitas pessoas adaptáveis). ~~Corrigindo~~: somos um pedacinho do mundo!
+      * Big Data (*file systems* e técnicas de processamento paralelo), 5G, IA, Internet das coisas: infraestrutura das *smart cities*
+      *  SUV: ostentação e sucesso nos países pobres, [o discurso do *winner*](https://www.youtube.com/watch?v=iqFOmq_9TR8) (*imitando* os vencedores) 
+* Inteligência e natureza. A vaidade da inteligência humana e a subestimação da inteligência animal
     * *Comparative cognition*: [pássaros](https://science.sciencemag.org/content/369/6511/1626.editor-summary), [aranhas](https://piaui.folha.uol.com.br/materia/teco-logo-existo/), etc
     
+
 ### Sistemas complexos
-*  [Visões não deterministas: a esperança dentro da ciência](https://aeon.co/essays/complex-systems-science-allows-us-to-see-new-paths-forward). Outros paradigmas de força: rejeitar o controle (materialismo) e amar o destino. O lugar do inexato, do impreciso, do vago e indeterminado. Sistemas complexos como um dos poucos marcos científicos (transdisciplinar) que nos dá algum alento. 
+*  [Visões não deterministas: a esperança dentro da ciência](https://aeon.co/essays/complex-systems-science-allows-us-to-see-new-paths-forward). Outros paradigmas de força: rejeitar o controle (materialismo) e amar o destino. O lugar do inexato, do impreciso, do vago e indeterminado. Sistemas complexos como um dos poucos marcos científicos (transdisciplinar) que nos dá algum alento
     * *Emerging engineering*, lidando com a natureza sem propósitos reducionistas?
 * É possível substituir os paradigmas deterministas da ciência sem mudar nossa forma de vida?
 
@@ -125,13 +130,13 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
 * O futuro do trabalho num mundo automatizado. Renda Universal? Soluções institucionais? *Electric Dreams*
 
 # Subjetividade <a name="subjetividade"></a>
-A formação da mentalidade dos `indivíduos` no contexto de uma sociedade capitalista.
+A formação da mentalidade dos `indivíduos` no contexto de uma sociedade capitalista
 
 ## Publicidade e a formação do desejo <a name="publicidade"></a>
 O que nós queremos? Como o capitalismo forma não apenas o nosso desejo, mas quem somos, o que almejamos ser — **identidade**.
 
-* *Adestramento e reflexão*. Como é possível escapar do efeito do adestramento numa sociedade que confunde pensamento e técnica? É preciso mais que pluralidade, precisamos de um *mindset* que nos torne capazes de aceitar (e criar) o anormal.
-	- Dilema da psicologia androide: deixar de *imitar*, criar. Autonomia e criação.
+* *Adestramento e reflexão*. Como é possível escapar do efeito do adestramento numa sociedade que confunde pensamento e técnica? É preciso mais que pluralidade, precisamos de um *mindset* que nos torne capazes de aceitar (e criar) o anormal
+	- Dilema da psicologia androide (*hardware takeover, escrevendo uma nova BIOS)* deixar de *imitar*, criar. Autonomia e criação. Liberdade e criação. Espontaneidade, autenticidade e estranheza
 	- Reflexão e saúde mental. À beira da loucura, o papel da estabilidade (rebeldia)
 
 ![A lavagem cerebral dos algoritmos](https://brausen.com.br/wp-content/uploads/2021/01/capitalism_goals.jpg)
@@ -139,21 +144,21 @@ O que nós queremos? Como o capitalismo forma não apenas o nosso desejo, mas qu
 > [Facebook e as *Dopamine Farms*](https://slate.com/technology/2014/06/facebook-unethical-experiment-it-made-news-feeds-happier-or-sadder-to-manipulate-peoples-emotions.html)
 
 * Algoritmos e técnicas de manipulação, adição e *triggers hormonais*. [Jaron Lanier](https://www.youtube.com/watch?v=kc_Jq42Og7Q) e [Martin Hilbert](https://www.bbc.com/portuguese/salasocial-54678733
-) sobre *Dopamine farms* e técnicas de manipulação inerentes à economia da atenção. O papel da negatividade (violência, segregação, medo, etc) na constituição do *engajamento* das redes sociais e plataformas, necessário para afinar as métricas dos algoritmos — o positivo não tem o mesmo efeito de nos fazer reagir.
-    * Cambridge Analytica, [caso paradigmático](https://www.showmetech.com.br/big-data-trump/).
-* *Century of Self*, documentário da BBC sobre como o indíviduo passou ao primeiro plano ao longo do século XX, em prejuízo das lutas coletivas.
+) sobre *Dopamine farms* e técnicas de manipulação inerentes à economia da atenção. O papel da negatividade (violência, segregação, medo, etc) na constituição do *engajamento* das redes sociais e plataformas, necessário para afinar as métricas dos algoritmos — o positivo não tem o mesmo efeito de nos fazer reagir
+    * Cambridge Analytica, [caso paradigmático](https://www.showmetech.com.br/big-data-trump/)
+* *Century of Self*, documentário da BBC sobre como o indíviduo passou ao primeiro plano ao longo do século XX, em prejuízo das lutas coletivas
 
 [![BBC: Century of Self ](http://img.youtube.com/vi/DnPmg0R1M04/0.jpg)](http://www.youtube.com/watch?v=DnPmg0R1M04 "BBC: Century of Self ")
 ## Conforto e Mimo <a name="mimo"></a>
-Os verdadeiros fiadores do capitalismo são os confortos e mimos criados dentro dessa forma de vida, a sensação de realização (*fulfilment*) produzida pela saciamento de necessidades gestadas dentro do próprio sistema (a ausência de um padrão autônomo de satisfação, saciedade e suficiência) *Eudaimonia*?
+Os verdadeiros fiadores do capitalismo são os confortos e mimos criados dentro dessa forma de vida, a sensação de realização (*fulfilment*) produzida pela saciamento de necessidades gestadas dentro do próprio sistema (a ausência de um padrão autônomo de satisfação, saciedade e suficiência) — *Eudaimonia*?
 
 * O urbano e o mundo natural. A relação humana com o mundo construída a partir do ambiente urbano
-    * O esvaziamento das zonas rurais e o adensamento urbano
-    * Restaurantes, serviços e os confortos de um dos mais fortes arquétipos do capitalismo: o turista.
+    * O esvaziamento das zonas rurais e o adensamento urbano, o efeito do alfalto na relação com a natureza
+    * Restaurantes, serviços e os confortos de um dos mais fortes arquétipos do capitalismo: o turista
     * *Netflix and chill*
     * As tecnologias do conforto: tecidos, texturas e experiências
     * Parques urbanos e os simulacros da natureza. Criando a ilusão da integração
-* Padrões de qualidade de vida: construindo uma justificativa (justificando o injustificável). O papel da racionalidade no acondicionamento da jaula de aço.
+* Padrões de qualidade de vida: construindo uma justificativa (justificando o injustificável). O papel da racionalidade no acondicionamento da jaula de aço
 * Necessidades: satisfação e suficiência na sociedade da abundância. A heteronomia do desejo, a heteronomia na lógica de produção capitalista. Páreas e malditos (*Bush People* e a lógica dos *survivors*)
 
 ### Prazeres do corpo: hedonismo e capitalismo
@@ -244,13 +249,13 @@ O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito 
 
 A crítica é a parte mais fácil, porque não supõe a **criação**. Para criar é preciso imaginar e a imaginação não é exatamente cultivada numa sociedade fortemente institucionalizada (cuja *estabilidade* se mantém conforme regras e códigos cada vez mais explícitos). O que nos prende à moral dos escravos é o fato de que por ora só podemos negar, só podemos dizer — *"isto não!"* Para construir algo diferente do capitalismo precisamos mais do que aspirar a que se realizem antigas aspirações socialistas. Precisamos conceber a nós mesmos de um modo que ainda não pode ser dito, porque as ações necessárias ainda não existem, ainda não foram praticadas. Como escapar à tendência a apenas negar? À propensão à rebeldia como fim em si mesmo (as espirais de prazer e poder de Foucault), o prazer da revolta e da contestação. *O que afirmar?* é uma pergunta lançada ao futuro. Uma pergunta para os *criadores*, aqueles que saberão o que deve ser afirmado para criar algo diferente do capitalismo.
 
- - - - - 
- 
+- - - -
+
 Este esquema é essencialmente provisório, pois seu propósito é reunir ideias para tê-las presente na memória ao considerar o tema do capitalismo. Assim, o conteúdo que aqui se apresenta é continuamente suplementado.
 
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-03 23:20:21.974227
+Última atualização: 2021-01-08 17:29:58.783035
 
 ### [⤴ Topo](#inicio)
