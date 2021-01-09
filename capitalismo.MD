@@ -139,10 +139,18 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
 
 * A complexidade da relação entre Rios Voadores, os Andes e o Cerrado como exemplo do caráter insubstituível das relações naturais. Vem da África parte das particulas sólidas em torno das quais a água condensada da Amazônia se agrega
     * [Altair Barbosa sobre a complexidade do Bioma Cerrado](https://www.jornalopcao.com.br/entrevistas/o-cerrado-esta-extinto-e-isso-leva-ao-fim-dos-rios-e-dos-reservatorios-de-agua-16970/): raízes e sementes. 
-    * [Antonio Nobre sobre, entre outras coisas, os rios voadores](https://www.youtube.com/watch?v=_9-fia-bdlo)
-    * O sonho de criar um ambiente artificial, a cidade e o meio ambiente. *Smart Cities* como sintoma de uma compreensão antiecológica da vida humana. *High Life* e a **ficção científica**,  seres humanos e ambiente espaciais: *Wall-E, Star Wars, Interstellar, The Martian, Gravity,* *and so on and so on*. Não somos independentes. Saúde do corpo e saúde mental
+    
+    * Antonio Nobre sobre, entre outras coisas, os rios voadores
 
-      * Ambientes espaciais: o pressão evolutiva causada pela perda dos ambientes aos quais estamos ligados. Somos o mundo! Somos um pedacinho do mundo. Ninguém sai de Salvador ao Alaska impune (embora existam muitas pessoas adaptáveis). ~~Corrigindo~~: somos um pedacinho do mundo!
+      [![Spaceship Earth](http://img.youtube.com/vi/5JOwk2iD80M/0.jpg)](http://www.youtube.com/watch?v=5JOwk2iD80M "Spaceship Earth")
+    
+      > *Spaceship Earth*, um documentário sobre [o projeto Biosfera 2](https://es.wikipedia.org/wiki/Biosfera_2)
+      >
+      > Coordenadas: [32.578778,-110.850594](https://www.google.com/maps/place/32%C2%B034'43.6%22N+110%C2%B051'02.1%22W/@32.5781673,-110.8518885,675m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d32.578778!4d-110.850594?hl=es)
+    
+    * O sonho de criar um ambiente artificial, a cidade e o meio ambiente. *Smart Cities* como sintoma de uma compreensão antiecológica da vida humana. *High Life* e a **ficção científica**,  seres humanos e ambiente espaciais: *Wall-E, Star Wars, Interstellar, The Martian, Gravity,* *and so on and so on*. Não somos independentes. Saúde do corpo e saúde mental
+    
+      * Ambientes espaciais: o pressão evolutiva causada pela perda dos ambientes aos quais estamos ligados. Somos o mundo! Somos um pedacinho do mundo. Ninguém sai de Salvador ao Alaska impune (embora existam muitas pessoas adaptáveis). ~~Corrigindo~~: somos um pedacinho do mundo! A experiência dos astronautas com a falta da gravidade e de todas as condições (originais) da biosfera: efeitos no corpo da distância da biosfera 
       * Big Data (*file systems* e técnicas de processamento paralelo), 5G, IA, Internet das coisas: infraestrutura das *smart cities*
       *  SUV: ostentação e sucesso nos países pobres, [o discurso do *winner*](https://www.youtube.com/watch?v=iqFOmq_9TR8) (*imitando* os vencedores) 
 * Inteligência e natureza. A vaidade da inteligência humana e a subestimação da inteligência animal
@@ -245,7 +253,7 @@ O liberalismo triunfou e conseguiu inculcar em nossas mentes e instituições a 
     * Qual é o efeito do primado do sentido nas disputas epistêmicas? Na construção da justificação? O caráter exclusivo da verdade (a bipolaridade da proposição). [*Expert systems* e o uso da Inteligência Artificial para decidir debates](https://drive.google.com/file/d/1mnUARqlmo9PHSaQPxJI0GbKFC1S-Kjni/view?usp=sharing) entre posições teóricas inconsistente mas com bases empíricas igualmente boas  
 * Sociabilidade e insociabilidade: Freud e Kant contra a ilusão socialista acerca das relações humanas (hostilidade, violência e guerra)
 * A ubiquidade do mercado: a crença no mercado é tão central pra nossa sociedade que todas as manifestações sociais parecem contaminadas pela lógica do mercado. [A lógica da produtividade e a pesquisa na Universidade](https://www.cairn.info/revue-cites-2010-1-page-35.htm). O *padrão salame* e outros exemplos
-* Influência: [formas de poder (e desejo) de uma sociedade individualista](https://brausen.com.br/2018/11/variedades-do-poder-desejo-de-influenciar/). Paradigmas de força centralizado. A renovação de um antigo paradigma de força sob as lentes tecnológicas: descentralização e redes, *blockchain* — **confluência**
+* Influência: [formas de poder (e de desejo) de uma sociedade individualista](https://brausen.com.br/2018/11/variedades-do-poder-desejo-de-influenciar/). Paradigmas de força centralizado. A renovação de um antigo paradigma de força sob as lentes tecnológicas: descentralização e redes, *blockchain* — **confluência**
 
 <a name="confianca"></a>
 
@@ -339,6 +347,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-09 17:44:47.480464
+Última atualização: 2021-01-09 22:45:52.238169
 
 ### [⤴ Topo](#inicio)
