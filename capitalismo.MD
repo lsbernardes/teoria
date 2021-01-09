@@ -88,7 +88,10 @@ Os incontornáveis obstáculos teóricos e práticos ao crescimento econômico e
 
 O efeito da presença humana. O que significa a ecologia? A influência mútua, o efeito caótico, o efeito borboleta dos sistemas complexos naturezais (sistema não estacionários)
 
-### Pegada ecológica e Antropoceno <a name="pegada"></a>
+<a name="pegada"></a>
+
+### Pegada ecológica e Antropoceno 
+
 * Antropoceno: mais de 200 tipos de [novos minerais derivados da ação e influência humana](https://www.theguardian.com/science/2017/mar/01/rock-of-ages-impact-of-manmade-crystals-defining-new-geological-epoch-study) na natureza.
 * [Sexta grande extinção em massa](https://www.nytimes.com/2019/05/06/climate/biodiversity-extinction-united-nations.html). A imprevisibilidade do impacto de extinções massivas num sistema não determístico
     * [Apocalipse dos insetos](https://www.nytimes.com/2018/11/27/magazine/insect-apocalypse.html), das abelhas
@@ -98,7 +101,10 @@ O efeito da presença humana. O que significa a ecologia? A influência mútua, 
 
 ![Poorlydrawnlines](https://brausen.com.br/wp-content/uploads/2021/01/poorlydrawnlines_9d4b0759843ed_DOIS.jpg) 
 
+<a name="torneira"></a> 
+
 ## Torneiras e rios
+
 Sujeitos urbanos já não são capazes de compreender a natureza como recurso, apenas como **serviço**, como algo pelo que eles pagam. Nós nascemos tendo contato com a água por meio de torneiras, isso dificulta o entendimento de que, por mais acessível que seja, a água é sempre recurso (ver a água como recurso é ainda um modo tecnológico de encará-la, mas é uma forma menos abrupta de introduzir a questão da nossa cegueira, de acostumar nosso olhar um novo modo de ver)
 
 ![Pantano de San Juan](https://brausen.com.br/wp-content/uploads/2020/12/IMG_20190814_150643_247_DOIS.jpg)
@@ -237,6 +243,7 @@ O liberalismo triunfou e conseguiu inculcar em nossas mentes e instituições a 
     * Qual é o efeito do primado do sentido nas disputas epistêmicas? Na construção da justificação? O caráter exclusivo da verdade (a bipolaridade da proposição). [*Expert systems* e o uso da Inteligência Artificial para decidir debates](https://drive.google.com/file/d/1mnUARqlmo9PHSaQPxJI0GbKFC1S-Kjni/view?usp=sharing) entre posições teóricas inconsistente mas com bases empíricas igualmente boas  
 * Sociabilidade e insociabilidade: Freud e Kant contra a ilusão socialista acerca das relações humanas (hostilidade, violência e guerra)
 * A ubiquidade do mercado: a crença no mercado é tão central pra nossa sociedade que todas as manifestações sociais parecem contaminadas pela lógica do mercado. [A lógica da produtividade e a pesquisa na Universidade](https://www.cairn.info/revue-cites-2010-1-page-35.htm). O *padrão salame* e outros exemplos
+* Influência: [formas de poder (e desejo) de uma sociedade individualista](https://brausen.com.br/2018/11/variedades-do-poder-desejo-de-influenciar/). Paradigmas de força centralizado. A renovação de um antigo paradigma de força sob as lentes tecnológicas: descentralização e redes, *blockchain* — **confluência**
 
 <a name="confianca"></a>
 
@@ -330,6 +337,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-08 23:04:26.718379
+Última atualização: 2021-01-09 12:49:02.342149
 
 ### [⤴ Topo](#inicio)
