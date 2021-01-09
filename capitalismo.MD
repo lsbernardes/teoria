@@ -61,6 +61,8 @@ Os incontornáveis obstáculos teóricos e práticos ao crescimento econômico e
 * Construindo a inimputabilidade do capitalismo: decompondo causas até descaracterizá-lo como causa. "Era só uma peça ruim, o sistema ainda é bom. Vamos substitui-la e deixar tudo como está!" A **sustentabilidade** como última forma do capitalismo. Um exemplo desse pensamento: o capitalismo pode ser conservado se encontrarmos uma matriz energética renovável e tão eficiente como a matriz fóssil. Podemos seguir crescendo, podemos seguir *progredindo*.
 	* Foucault sobre a genealogia das normas de desenvolvimento sexual (do moral ao clínico e jurídico). Entender as ideias de **progresso**, desenvolvimento e normalidade a partir do paradigma sexual. Contra o progresso: linealidade, circularidade (arquétipo), não linearidade (determinação do sentido: uso da linguagem como determinador do sentido; a poesia, quando a linguagem deliberadamente vai de férias). O sentido da história em Kant, Paul Santo Agostinho, Paul Veyne
 	* [Zizek sobre o capitalismo cultural](https://www.youtube.com/watch?v=hpAMbpQ8J7g). Capitalismo cultural e ciência: ((humanos || cidadãos) >= cientistas)? A estabilidade da forma de vida individual (seus prazeres e delícias) pode prevalecer sobre a necessidade de desestabilizar instituições? É verdadeiramente possível criticar a ciência? Kuhn e Feyerabend: inimigos da ciência
+* André Gorz e a novidade (teórica) da ecologia. Ecologia como campo transdisciplinar. Mesmo pensadores robustos e capazes de compreender tradições e pensamentos incomunicados, como Rorty ou Habermas, tem uma enorma carência a respeito da ecologia. Nesse sentido, a ecologia nomeia a preocupação central e inevitável de nos pensar a partir do nosso pertencimento a uma rede de vida da qual dependemos e que, além disso, nos define. Preocupação que impõe se à teoria (biologia, economia, sociologia) e à prática (ética e política)
+  * Justicação após a pragmática. O declínio da verdade redentora (sic) e o primado do sentido. Realismo e não realismo, as consequências éticas da irrelevância dos debates sobre justificação (evidência e coersão: uma ponte para os *expert systems* e o uso da IA). O mesmo destino do debate realismo/não-realismo é o da discussão entre egoísmo e altruísmo (competição e cooperação) em biologia evolucionária
 
  <a name="recursos"></a>
 
@@ -135,7 +137,7 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
 
 ![Rios voadores, Andes e o Cerrado](https://brausen.com.br/wp-content/uploads/2021/01/rios_voadores.jpeg)
 
-* A complexidade da relação entre Rios Voadores, os Andes e o Cerrado como exemplo do caráter insubstituível das relações naturais. Vem da África parte das particulas sólidas em torno das quais a água condensada da Amazônia se agregam 
+* A complexidade da relação entre Rios Voadores, os Andes e o Cerrado como exemplo do caráter insubstituível das relações naturais. Vem da África parte das particulas sólidas em torno das quais a água condensada da Amazônia se agrega
     * [Altair Barbosa sobre a complexidade do Bioma Cerrado](https://www.jornalopcao.com.br/entrevistas/o-cerrado-esta-extinto-e-isso-leva-ao-fim-dos-rios-e-dos-reservatorios-de-agua-16970/): raízes e sementes. 
     * [Antonio Nobre sobre, entre outras coisas, os rios voadores](https://www.youtube.com/watch?v=_9-fia-bdlo)
     * O sonho de criar um ambiente artificial, a cidade e o meio ambiente. *Smart Cities* como sintoma de uma compreensão antiecológica da vida humana. *High Life* e a **ficção científica**,  seres humanos e ambiente espaciais: *Wall-E, Star Wars, Interstellar, The Martian, Gravity,* *and so on and so on*. Não somos independentes. Saúde do corpo e saúde mental
@@ -265,7 +267,7 @@ Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o 
     * Amizade: Goethe como arma, a restauração do papel da amizade. Afinidades eletivas, confiança, conexão e confluência (do afetivo ao epistêmico [brainets])
     * [Mandela sobre a hospitalidade](https://brausen.com.br/2020/03/a-gente-tambem-se-fortalece/)
 * Ajuda mútua: não é por acaso que o livro de Kropotkin começa discutindo a ideia de ajuda mútua no reino animal. Não é por acaso que Michael Tomasello discute o papel da colaboração na constituição da catraca evolutiva que nos diferencia. Não se trata tomar partido de um dos lados na busca por um justificação — *I don't a horse in this race*, como diria Rick Sanchez —, mas esse debate precisa ser entendido antes de ser superado. Competição *versus* cooperação: é pra isso server a verdade (~~justificação~~), pra saber o que escolher entre duas perspectivas que se excluem!
-    * Oxitocina: hormônio do amor? Precisamos de mais explicações? Naturalização como forma de mitologia (a objetividade da etnologia)
+    * Oxitocina: hormônio do amor? Precisamos de mais explicações? Naturalização como forma de mitologia (a objetividade da etnologia). Wittgenstein sobre a superestimação das *explicações* (numa sociedade científica)
     * É preciso explicar o sentido da cooperação ou deixar-se convencer pelo persuasivo medo de que os outros sejam o inimigo?
 
 * A festa como integração e princípio anti-econômico. Diversão anticapitalista (não egoísta)
@@ -337,6 +339,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-09 12:49:02.342149
+Última atualização: 2021-01-09 17:44:47.480464
 
 ### [⤴ Topo](#inicio)
