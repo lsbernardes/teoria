@@ -78,6 +78,7 @@ Os incontornáveis obstáculos teóricos e práticos ao crescimento econômico e
 *	A água como um elemento insubstituível. O delírio das soluções alternativas à preservação dos rios, lagos, aquíferos, etc.
     * São Paulo, Califórnia, França e Espanha na última década: experiências de desabastecimento e seca
     * Preservação e conservação. O dilema das instituições. David Attenborough e *My Octopus Teacher*, a anestesiante luta liberal pelo meio ambiente. *Struggle for survival* e os limites da assistência: o outro como potencial inimigo (competidor)
+      * Ecoturismo, uma solução da luta preservacionista? Vendendo soluções capitalista (*business solutions*). Os gorilas em Ruanda e no Gabão
 * Conflitos em torno da questão da água (como os conflitos do oriente médio, em torno do rio Jordão). A água e o nordeste brasileiro
 * Insumos após o colapso climático (desestabilização da cadeia produtiva de uma economia globalizada). Os litorais após efeitos do aquecimento global. *Sentindo apenas o imediato (**cozinhando o sapo a fogo lento**)*
 
@@ -100,6 +101,7 @@ O efeito da presença humana. O que significa a ecologia? A influência mútua, 
 * O colapso dos oceanos: acidificação, o branqueamento dos corais e a [morte de biomassa no mais variados extratos da biosfera](https://elpais.com/ciencia/2020-11-30/las-amenazas-de-la-ultima-frontera-de-la-humanidad-en-la-tierra.html).
 * A presença de plástico. O conforto do plástico. O plástico e o ritmo da sociedade: o tempo da sociedade seria outro se não houvesse plástico. O plástico nos acelera, ou melhor, permite o aceleramento.
     * A culinária e a terapia do tempo
+* Derretimento do gelo polar: [liberação de uma quantidade ingente de gás carbonico aprisionada no *permafrost*](https://www.nationalgeographic.com/science/2020/02/arctic-thawing-ground-releasing-shocking-amount-dangerous-gases/)
 
 ![Poorlydrawnlines](https://brausen.com.br/wp-content/uploads/2021/01/poorlydrawnlines_9d4b0759843ed_DOIS.jpg) 
 
@@ -243,16 +245,25 @@ O liberalismo triunfou e conseguiu inculcar em nossas mentes e instituições a 
 > *Humans. Documentário sobre a variedade dos seres humanos*. A história do presidiário (condenado por assassinato) criado por um padrasto violento que aprendeu tarde sobre o amor
 
 * *Winner and losers*. O predomínio da mentalidade dos vencedores e seu impacto nas relações sociais. Trump, o maior símbolo
+    
     * Expressões de normatividade (e da cegueira normativa): o caráter asfixiante e estabilizador do normal (normalidade)
-* **A obsessão pela própria imagem, a imagem de si mesmo**. Narcisismo e vaidade. Cinema: *American Psycho, Advogado do Diabo, Cosmopolis*
-	- As máscaras e a autenticidade, a possibilidade da amizade (intimidade). A representação do eu na vida cotidiana: fingimento, *imitação e criação*. Conexão e conhecimento: amigos como extensão de nós mesmos: *pensando em rede*.
-	- Intimidade e estranheza! A possibilidade de *reconhecer* o Outro
-	- Esporte: pode haver competição sem vaidade, sem narcisismo? Sim! Nietzsche sobre a noção de vitória dos fortes
+    
+* **A obsessão pela própria imagem, a imagem de si mesmo**. Narcisismo, vaidade e competição, o impacto social da mentalidade capitalista. Cinema: *American Psycho, Advogado do Diabo, Cosmopolis*
+
+  ![Melhor que ninguém](https://brausen.com.br/wp-content/uploads/2021/01/linhadotrem_melhor_ninguem.jpg)
+
+  * As máscaras e a autenticidade, a possibilidade da amizade (intimidade). A representação do eu na vida cotidiana: fingimento, *imitação e criação*. Conexão e conhecimento: amigos como extensão de nós mesmos: *pensando em rede*.
+  * Intimidade e estranheza! A possibilidade de *reconhecer* o Outro
+  * Esporte: pode haver competição sem vaidade, sem narcisismo? Sim! Nietzsche sobre a noção de vitória dos fortes
+
 * Dispensando esforços: *sobreviver* numa sociedade de egoístas. O caráter arquetípico da ideia de sobrevivência na cultura norte-americana (bunker e o fim do mundo): cinema.
     * Thomas Huxley e *Struggle for existence*. Justificando o egoísmo?
     * Qual é o efeito do primado do sentido nas disputas epistêmicas? Na construção da justificação? O caráter exclusivo da verdade (a bipolaridade da proposição). [*Expert systems* e o uso da Inteligência Artificial para decidir debates](https://drive.google.com/file/d/1mnUARqlmo9PHSaQPxJI0GbKFC1S-Kjni/view?usp=sharing) entre posições teóricas inconsistente mas com bases empíricas igualmente boas  
+    
 * Sociabilidade e insociabilidade: Freud e Kant contra a ilusão socialista acerca das relações humanas (hostilidade, violência e guerra)
+
 * A ubiquidade do mercado: a crença no mercado é tão central pra nossa sociedade que todas as manifestações sociais parecem contaminadas pela lógica do mercado. [A lógica da produtividade e a pesquisa na Universidade](https://www.cairn.info/revue-cites-2010-1-page-35.htm). O *padrão salame* e outros exemplos
+
 * Influência: [formas de poder (e de desejo) de uma sociedade individualista](https://brausen.com.br/2018/11/variedades-do-poder-desejo-de-influenciar/). Paradigmas de força centralizado. A renovação de um antigo paradigma de força sob as lentes tecnológicas: descentralização e redes, *blockchain* — **confluência**
 
 <a name="confianca"></a>
@@ -319,7 +330,7 @@ O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito 
   
     * Pierre Clastres: sobre a igualdade nas sociedades sem poder (e sem economia). O mito da *sobrevivência*, força e riqueza: política e economia em sociedades arcaicas. Hobbes, Huxley, Malthus, Darwin (?) e Dawkins, sobre conflito e violência. A verdade coage? Verdade, justificação e necessidade. Sistema limbico: mnemotécnica nietzscheana, lembrar com fogo. O predominio das relações negativas, a memória da dor. O sofrimento do mundo
       * Amor e beleza como base de relações humanas: a precariedade  do amor
-    * Modelos de inteligência (fontes de aprendizado) de seres complexos: **androides e extraterrestres**. A ficção como sintoma
+    * Modelos de inteligência (fontes de aprendizado) de seres complexos: **androides e extraterrestres**. A ficção como sintoma (bem, sintoma talvez seja uma palavra muito forte)
     
 * O tempo dos animais (Cassirer e os macacos). O ritmo como um problema central do capitalismo
 
@@ -347,6 +358,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-09 22:45:52.238169
+Última atualização: 2021-01-12 12:25:53.744932
 
 ### [⤴ Topo](#inicio)
