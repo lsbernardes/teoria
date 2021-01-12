@@ -61,7 +61,7 @@ Os incontornáveis obstáculos teóricos e práticos ao crescimento econômico e
 * Construindo a inimputabilidade do capitalismo: decompondo causas até descaracterizá-lo como causa. "Era só uma peça ruim, o sistema ainda é bom. Vamos substitui-la e deixar tudo como está!" A **sustentabilidade** como última forma do capitalismo. Um exemplo desse pensamento: o capitalismo pode ser conservado se encontrarmos uma matriz energética renovável e tão eficiente como a matriz fóssil. Podemos seguir crescendo, podemos seguir *progredindo*.
 	* Foucault sobre a genealogia das normas de desenvolvimento sexual (do moral ao clínico e jurídico). Entender as ideias de **progresso**, desenvolvimento e normalidade a partir do paradigma sexual. Contra o progresso: linealidade, circularidade (arquétipo), não linearidade (determinação do sentido: uso da linguagem como determinador do sentido; a poesia, quando a linguagem deliberadamente vai de férias). O sentido da história em Kant, Paul Santo Agostinho, Paul Veyne
 	* [Zizek sobre o capitalismo cultural](https://www.youtube.com/watch?v=hpAMbpQ8J7g). Capitalismo cultural e ciência: ((humanos || cidadãos) >= cientistas)? A estabilidade da forma de vida individual (seus prazeres e delícias) pode prevalecer sobre a necessidade de desestabilizar instituições? É verdadeiramente possível criticar a ciência? Kuhn e Feyerabend: inimigos da ciência
-* André Gorz e a novidade (teórica) da ecologia. Ecologia como campo transdisciplinar. Mesmo pensadores robustos e capazes de compreender tradições e pensamentos incomunicados, como Rorty ou Habermas, tem uma enorma carência a respeito da ecologia. Nesse sentido, a ecologia nomeia a preocupação central e inevitável de nos pensar a partir do nosso pertencimento a uma rede de vida da qual dependemos e que, além disso, nos define. Preocupação que impõe se à teoria (biologia, economia, sociologia) e à prática (ética e política)
+* André Gorz e a novidade (teórica) da ecologia. Ecologia como campo transdisciplinar. Mesmo pensadores robustos e capazes de compreender tradições e pensamentos incomunicados, como Rorty ou Habermas, tem uma enorme carência a respeito da ecologia. Nesse sentido, a ecologia nomeia a preocupação central e inevitável de nos pensar a partir do nosso pertencimento a uma rede de vida da qual dependemos e que, além disso, nos define. Preocupação que impõe se à teoria (biologia, economia, sociologia) e à prática (ética e política)
   * Justicação após a pragmática. O declínio da verdade redentora (sic) e o primado do sentido. Realismo e não realismo, as consequências éticas da irrelevância dos debates sobre justificação (evidência e coersão: uma ponte para os *expert systems* e o uso da IA). O mesmo destino do debate realismo/não-realismo é o da discussão entre egoísmo e altruísmo (competição e cooperação) em biologia evolucionária
 
  <a name="recursos"></a>
@@ -131,7 +131,7 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
     * Nietzsche e Montaigne contra Rousseau: o romantismo da revolução *versus* o caos da revolução (e o mito da revolução que instaura a ordem)
         * Ordem ~~regularidade~~ e estabilidade (lógica e psicologia: desacordos e saúde mental)
         * O lugar da loucura: assimilar a instabilidade sem colapsar (a irregularidade que ameaça a linguagem)
-    * *[Green New Deal](https://elordenmundial.com/que-es-el-green-new-deal/)*? Em busca de modos de salvar o capitalismo: *Capitalism with a human face 2.0 — That's not possible, baby!*
+    * *[Green New Deal](https://elordenmundial.com/que-es-el-green-new-deal/)*? [The European Green Deal](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_es)? Em busca de modos de salvar o capitalismo: *Capitalism with a human face 2.0 — That's not possible, baby!*
 
 <a name="rios"></a>
 
@@ -139,8 +139,8 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
 
 ![Rios voadores, Andes e o Cerrado](https://brausen.com.br/wp-content/uploads/2021/01/rios_voadores.jpeg)
 
-* A complexidade da relação entre Rios Voadores, os Andes e o Cerrado como exemplo do caráter insubstituível das relações naturais. Vem da África parte das particulas sólidas em torno das quais a água condensada da Amazônia se agrega
-    * [Altair Barbosa sobre a complexidade do Bioma Cerrado](https://www.jornalopcao.com.br/entrevistas/o-cerrado-esta-extinto-e-isso-leva-ao-fim-dos-rios-e-dos-reservatorios-de-agua-16970/): raízes e sementes. 
+* A complexidade da relação entre Rios Voadores, os Andes e o Cerrado como exemplo do caráter insubstituível das relações naturais. Além disso, vem da África parte das particulas sólidas em torno das quais a água condensada da Amazônia se agrega
+    * [Altair Barbosa sobre a complexidade do Bioma Cerrado](https://www.jornalopcao.com.br/entrevistas/o-cerrado-esta-extinto-e-isso-leva-ao-fim-dos-rios-e-dos-reservatorios-de-agua-16970/): raízes e sementes
     
     * Antonio Nobre sobre, entre outras coisas, os rios voadores
 
@@ -150,9 +150,9 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
       >
       > Coordenadas: [32.578778,-110.850594](https://www.google.com/maps/place/32%C2%B034'43.6%22N+110%C2%B051'02.1%22W/@32.5781673,-110.8518885,675m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d32.578778!4d-110.850594?hl=es)
     
-    * O sonho de criar um ambiente artificial, a cidade e o meio ambiente. *Smart Cities* como sintoma de uma compreensão antiecológica da vida humana. *High Life* e a **ficção científica**,  seres humanos e ambiente espaciais: *Wall-E, Star Wars, Interstellar, The Martian, Gravity,* *and so on and so on*. Não somos independentes. Saúde do corpo e saúde mental
+    * O sonho de criar um ambiente artificial, a cidade e o meio ambiente. *Smart Cities* como sintoma de uma compreensão antiecológica da vida humana. *High Life* e a **ficção científica**,  seres humanos e ambiente espaciais: *Wall-E, Star Wars, Interstellar, The Martian, Gravity,* *and so on and so on*. Não somos independentes. Saúde do corpo e saúde mental (espiritual)
     
-      * Ambientes espaciais: o pressão evolutiva causada pela perda dos ambientes aos quais estamos ligados. Somos o mundo! Somos um pedacinho do mundo. Ninguém sai de Salvador ao Alaska impune (embora existam muitas pessoas adaptáveis). ~~Corrigindo~~: somos um pedacinho do mundo! A experiência dos astronautas com a falta da gravidade e de todas as condições (originais) da biosfera: efeitos no corpo da distância da biosfera 
+      * Ambientes espaciais: o pressão evolutiva causada pela perda dos ambientes aos quais estamos ligados. Somos o mundo! Somos um pedacinho do mundo. Ninguém sai de Salvador ao Alaska impune (embora existam muitas pessoas adaptáveis). ~~Corrigindo~~: somos um pedacinho do mundo! A experiência dos astronautas com a falta da gravidade e de todas as condições (originais) da biosfera: efeitos no corpo da distância *do nosso lugar na praia*
       * Big Data (*file systems* e técnicas de processamento paralelo), 5G, IA, Internet das coisas: infraestrutura das *smart cities*
       *  SUV: ostentação e sucesso nos países pobres, [o discurso do *winner*](https://www.youtube.com/watch?v=iqFOmq_9TR8) (*imitando* os vencedores) 
 * Inteligência e natureza. A vaidade da inteligência humana e a subestimação da inteligência animal
@@ -163,9 +163,9 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
 
 ### Sistemas complexos
 
-*  [Visões não deterministas: a esperança dentro da ciência](https://aeon.co/essays/complex-systems-science-allows-us-to-see-new-paths-forward). Outros paradigmas de força: rejeitar o controle (materialismo) e amar o destino. O lugar do inexato, do impreciso, do vago e indeterminado. Sistemas complexos como um dos poucos marcos científicos (transdisciplinar) que nos dá algum alento
+*  [Visões não deterministas: a esperança dentro da ciência](https://aeon.co/essays/complex-systems-science-allows-us-to-see-new-paths-forward). Outros paradigmas de força: rejeitar o controle (materialismo) e amar o destino. O lugar do inexato, do impreciso, do vago e indeterminado. Sistemas complexos como um dos poucos marcos científicos (transdisciplinar) que nos dá algum alento, ou será ilusão?
     * *Emerging engineering*, lidando com a natureza sem propósitos reducionistas?
-* É possível substituir os paradigmas deterministas da ciência sem mudar nossa forma de vida?
+* É possível substituir os paradigmas deterministas da ciência sem mudar nossa forma de vida? O que significa aqui a pergunta pelo possível? A ontologia, o modal e a linguagem natural! Arriscar o impossível (Zizek), o *impossível* para a psicanálise 
 
 <a name="planeta"></a>
 
@@ -174,8 +174,8 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
 ![Os ricos, como sempre, estão preparados](https://brausen.com.br/wp-content/uploads/2020/12/AngeliAquecimentoTres.png)
 
 * [Jeff Bezos](https://piaui.folha.uol.com.br/materia/o-grande-plano/) e [Elon Musk](https://tribunemag.co.uk/2020/12/billionaire-space-colonialism-is-a-dead-end-for-humanity) e as tecnologias para nos mandar pra fora da Terra. Colonialismo espacial e o paroxismo da civilização antiecológica
-* [Bruno Latour sobre a vontade de fugir](https://www1.folha.uol.com.br/ambiente/2020/09/se-o-brasil-achar-solucao-para-si-vai-salvar-o-resto-do-mundo-diz-bruno-latour.shtml), o não pertencimento (antiecologia) e a o medo relatado por [Douglas Rushkoff e os preparativos dos mais ricos do colapso e insurreições provocados pela colapso e pelo impactos tecnológicos na economia](https://onezero.medium.com/survival-of-the-richest-9ef6cddd0cc1)
-* O futuro do trabalho num mundo automatizado. Renda Universal? Soluções institucionais? *Electric Dreams*
+* [Bruno Latour sobre a vontade de fugir](https://www1.folha.uol.com.br/ambiente/2020/09/se-o-brasil-achar-solucao-para-si-vai-salvar-o-resto-do-mundo-diz-bruno-latour.shtml), o não pertencimento (antiecologia). O medo relatado por [Douglas Rushkoff e os preparativos dos mais ricos para o colapso e as insurreições provocados pelos impactos tecnológicos na economia](https://onezero.medium.com/survival-of-the-richest-9ef6cddd0cc1)
+* O futuro do trabalho é um mundo automatizado? Renda Universal como solução para automatização e o fim do trabalho? Soluções institucionais? [*Electric Dreams*](https://brausen.com.br/2018/10/mate-todos-os-outros/)
 
 <a name="subjetividade"></a>
 
@@ -198,8 +198,8 @@ O que nós queremos? Como o capitalismo forma não apenas o nosso desejo, mas qu
 > [Facebook e as *Dopamine Farms*](https://slate.com/technology/2014/06/facebook-unethical-experiment-it-made-news-feeds-happier-or-sadder-to-manipulate-peoples-emotions.html)
 
 * Algoritmos e técnicas de manipulação, adição e *triggers hormonais*. [Jaron Lanier](https://www.youtube.com/watch?v=kc_Jq42Og7Q) e [Martin Hilbert](https://www.bbc.com/portuguese/salasocial-54678733
-) sobre *Dopamine farms* e técnicas de manipulação inerentes à economia da atenção. O papel da negatividade (violência, segregação, medo, etc) na constituição do *engajamento* das redes sociais e plataformas, necessário para afinar as métricas dos algoritmos — o positivo não tem o mesmo efeito de nos fazer reagir
-    * Cambridge Analytica, [caso paradigmático](https://www.showmetech.com.br/big-data-trump/)
+) sobre *Dopamine farms* e técnicas de manipulação inerentes à **economia da atenção**. O papel da negatividade (violência, segregação, medo, etc) na constituição do *engajamento* das redes sociais e plataformas, engajamento necessário para afinar as métricas dos algoritmos — o positivo não tem o mesmo efeito de nos fazer reagir. O engajamento é o capital da economia da digital: [Jaron Lanier e *Data Dignity*](https://www.youtube.com/watch?v=Np5ri-KktNs)
+    * *Cambridge Analytica*, [caso paradigmático](https://www.showmetech.com.br/big-data-trump/)
 * *Century of Self*, documentário da BBC sobre como o indíviduo passou ao primeiro plano ao longo do século XX, em prejuízo das lutas coletivas
 
 [![BBC: Century of Self ](http://img.youtube.com/vi/DnPmg0R1M04/0.jpg)](http://www.youtube.com/watch?v=DnPmg0R1M04 "BBC: Century of Self ")
@@ -245,7 +245,7 @@ O liberalismo triunfou e conseguiu inculcar em nossas mentes e instituições a 
 > *Humans. Documentário sobre a variedade dos seres humanos*. A história do presidiário (condenado por assassinato) criado por um padrasto violento que aprendeu tarde sobre o amor
 
 * *Winner and losers*. O predomínio da mentalidade dos vencedores e seu impacto nas relações sociais. Trump, o maior símbolo
-    
+  
     * Expressões de normatividade (e da cegueira normativa): o caráter asfixiante e estabilizador do normal (normalidade)
     
 * **A obsessão pela própria imagem, a imagem de si mesmo**. Narcisismo, vaidade e competição, o impacto social da mentalidade capitalista. Cinema: *American Psycho, Advogado do Diabo, Cosmopolis*
@@ -255,14 +255,19 @@ O liberalismo triunfou e conseguiu inculcar em nossas mentes e instituições a 
   * As máscaras e a autenticidade, a possibilidade da amizade (intimidade). A representação do eu na vida cotidiana: fingimento, *imitação e criação*. Conexão e conhecimento: amigos como extensão de nós mesmos: *pensando em rede*.
   * Intimidade e estranheza! A possibilidade de *reconhecer* o Outro
   * Esporte: pode haver competição sem vaidade, sem narcisismo? Sim! Nietzsche sobre a noção de vitória dos fortes
+  * Rivalidade e justiça: Murakami sobre os escritores. Os músicos como paradigmas de generosidade. [Yamandu Costa sobre amizade e generosidade](https://www.youtube.com/watch?v=tUaKbGcEaYM)
 
-* Dispensando esforços: *sobreviver* numa sociedade de egoístas. O caráter arquetípico da ideia de sobrevivência na cultura norte-americana (bunker e o fim do mundo): cinema.
+* Dispensando esforços: *sobreviver* numa sociedade de egoístas. O caráter arquetípico da ideia de **sobrevivência** na cultura norte-americana (bunker e o fim do mundo): cinema. *It comes at night*, *Mad max*, *The Survivalist*.
     * Thomas Huxley e *Struggle for existence*. Justificando o egoísmo?
-    * Qual é o efeito do primado do sentido nas disputas epistêmicas? Na construção da justificação? O caráter exclusivo da verdade (a bipolaridade da proposição). [*Expert systems* e o uso da Inteligência Artificial para decidir debates](https://drive.google.com/file/d/1mnUARqlmo9PHSaQPxJI0GbKFC1S-Kjni/view?usp=sharing) entre posições teóricas inconsistente mas com bases empíricas igualmente boas  
+    * Qual é o efeito do primado do sentido nas disputas epistêmicas? Na construção da justificação? O caráter exclusivo da verdade (a bipolaridade da proposição). [*Expert systems* e o uso da Inteligência Artificial para decidir debates](https://drive.google.com/file/d/1mnUARqlmo9PHSaQPxJI0GbKFC1S-Kjni/view?usp=sharing) entre posições teóricas inconsistente mas com bases empíricas igualmente sólidas  
     
 * Sociabilidade e insociabilidade: Freud e Kant contra a ilusão socialista acerca das relações humanas (hostilidade, violência e guerra)
 
+    * Pierre Clastres sobre a violência
+
 * A ubiquidade do mercado: a crença no mercado é tão central pra nossa sociedade que todas as manifestações sociais parecem contaminadas pela lógica do mercado. [A lógica da produtividade e a pesquisa na Universidade](https://www.cairn.info/revue-cites-2010-1-page-35.htm). O *padrão salame* e outros exemplos
+
+    * Antieconomia: [decrescimento como redução da importância do econômico](https://timotheeparrique.com/a-response-to-varoufakis-start-trek-and-degrowth/)
 
 * Influência: [formas de poder (e de desejo) de uma sociedade individualista](https://brausen.com.br/2018/11/variedades-do-poder-desejo-de-influenciar/). Paradigmas de força centralizado. A renovação de um antigo paradigma de força sob as lentes tecnológicas: descentralização e redes, *blockchain* — **confluência**
 
@@ -270,29 +275,36 @@ O liberalismo triunfou e conseguiu inculcar em nossas mentes e instituições a 
 
 ## Confiança e cooperação 
 
-Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o desafio de superar a desconfiança e de desfazer o longevo feitiço que uma tradição liberal e protoliberal conjurou sobre nosso olhar sobre relações entre seres humanos. De Hobbes a Hayek
+Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o desafio de superar a desconfiança e de desfazer o longevo feitiço que uma tradição liberal e protoliberal conjurou em nosso olhar sobre relações entre seres humanos. De Hobbes a Hayek
 
 * Desigualdade, violência, medo e desconfiança. As chaves do Leviatã. *Respeito* nas sociedades competitivas e desiguais
 	- Desigualdade e racismo: domesticando classes potencialmente subversivas (a obra da escravidão)
 	* Desconfiança. *It comes at night*, [*There will be blood*](https://www.youtube.com/watch?v=o_z2eqPKiYA)
 	* Pobreza, injustiça e desigualdade cognitiva
-		- [*Tunnel vision*, inteligência e pobreza](https://one.npr.org/?sharedMediaId=520136937:520885775&t=1565618737537&t=1609697230552). O estudo psicológico e sociológico sobre o impacto da pobreza
+		- [*Tunnel vision*, inteligência e pobreza](https://one.npr.org/?sharedMediaId=520136937:520885775&t=1565618737537&t=1609697230552). Estudos psicológicos e sociológicos sobre o impacto da pobreza
     * O papel do medo e do conflito no estabelecimento da liderança entre grupos de Chimpanzé
+  
 * Aprender com o "primitivo": descomplexificar. O lugar do simples, o dogma da complexidade
+
 * Conhecimento livre: como experiências tecnológicas tem sedimentado uma visão sobre a colaboração que contorna os frágeis argumentos favoráveis à competição, a ponto de que o software livre tenha se tornado o marco de desenvolvimento de software
     * Azure: a experiência da Microsoft e do Linux. Bill Gates como paradigma de empreendedor: sobre a criação de um mercado (que logo *quase naturalmente* se tornou monopólio), o mercado de desenvolvimento de software
     * Os donos do conhecimento: pirataria e a pesquisa acadêmica nos países pobres. Conhecimento e propriedade privada, o *status* do conhecimento e a competição velada (hipócrita) na universidade
+    
 * A confiança dos desconfiados: a ascensão da extrema direita acompanha um discurso que realça o papel da **família**, é na família que mentalidade puritana crê que deve depositar sua confiança e em nenhum outro lugar
     * Amizade: Goethe como arma, a restauração do papel da amizade. Afinidades eletivas, confiança, conexão e confluência (do afetivo ao epistêmico [brainets])
+    * [Ciência psicodélica e os empatógenos](https://viradapsicodelica.blogfolha.uol.com.br/?s=empat%C3%B3geno), favorecendo a conexão com os outros e a dissolução (temporária) do ego. Psilocibina e MDMA como tratamento de depressão e estresse pós-traumático
     * [Mandela sobre a hospitalidade](https://brausen.com.br/2020/03/a-gente-tambem-se-fortalece/)
+    
 * Ajuda mútua: não é por acaso que o livro de Kropotkin começa discutindo a ideia de ajuda mútua no reino animal. Não é por acaso que Michael Tomasello discute o papel da colaboração na constituição da catraca evolutiva que nos diferencia. Não se trata tomar partido de um dos lados na busca por um justificação — *I don't a horse in this race*, como diria Rick Sanchez —, mas esse debate precisa ser entendido antes de ser superado. Competição *versus* cooperação: é pra isso server a verdade (~~justificação~~), pra saber o que escolher entre duas perspectivas que se excluem!
-    * Oxitocina: hormônio do amor? Precisamos de mais explicações? Naturalização como forma de mitologia (a objetividade da etnologia). Wittgenstein sobre a superestimação das *explicações* (numa sociedade científica)
+    * Oxitocina: hormônio do amor? [Precisamos de mais explicações](https://www.youtube.com/watch?v=3V8vCh3AH3k)? Naturalização como forma de mitologia (a objetividade da etnologia). Wittgenstein sobre a superestimação das *explicações* (numa sociedade científica)
     * É preciso explicar o sentido da cooperação ou deixar-se convencer pelo persuasivo medo de que os outros sejam o inimigo?
 
 * A festa como integração e princípio anti-econômico. Diversão anticapitalista (não egoísta)
-	* O nascimento das escolas de samba no Rio. Redes de proteção social das favelas: Antonio Simas e o lugar da festa
+	
+  * [A tradição da música negra americana de lembrar aos negros seu próprio valor](https://brausen.com.br/2020/02/ter-a-alma-intacta/)
+  * O nascimento das escolas de samba no Rio. Redes de proteção social das favelas: Antonio Simas e o lugar da festa, [do boteco](https://www.baciadasalmas.com/o-botequim-e-o-anti-shopping/)
     * O carnaval de rua e a dissolução da identidade individual (Milton Moura)
-    * A sabedoria da escassez: a autonomia do desejo numa sociedade não publicitária
+    * A sabedoria da escassez (Milton Santos): a autonomia do desejo numa sociedade não publicitária
 
 ![Diane Fossey e um gorila](https://brausen.com.br/wp-content/uploads/2021/01/diane_fossey1.jpeg)
 > [Diane Fossey e seu amor pelos gorilas](https://endangeredliving.com/2016/01/16/happy-birthday-dian-fossey/).
@@ -334,7 +346,7 @@ O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito 
     
 * O tempo dos animais (Cassirer e os macacos). O ritmo como um problema central do capitalismo
 
-* [Brainets: implicações epistêmicas e terapêuticas da coletivização da consciência](https://www1.folha.uol.com.br/ciencia/2020/08/cerebro-humano-e-capaz-de-criar-realidade-diz-neurocientista.shtml). A espontânea coincidência entre cientistas, filósofos e a New Age (para ódio de tantos). Espiritualidade como reação *natural* à atomização (neo)liberal, brincando de argumentar como naturalistas. Novas formas de consciência e conexão (redes e mentes)
+* [Brainets: implicações epistêmicas e terapêuticas da coletivização da consciência](https://www1.folha.uol.com.br/ciencia/2020/08/cerebro-humano-e-capaz-de-criar-realidade-diz-neurocientista.shtml). A espontânea coincidência entre cientistas, filósofos e a New Age (para ódio de tantos). Espiritualidade como reação *natural* à atomização (neo)liberal, brincando de argumentar como um *naturalista*. Novas formas de consciência e conexão (redes e mentes)
 
     ![Rick Sanchez e Unity](https://brausen.com.br/wp-content/uploads/2021/01/rick_unity.jpeg)
 
@@ -358,6 +370,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-12 12:25:53.744932
+Última atualização: 2021-01-13 00:24:46.913964
 
 ### [⤴ Topo](#inicio)
