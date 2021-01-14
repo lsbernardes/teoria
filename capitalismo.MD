@@ -1,6 +1,6 @@
 <a name="inicio"></a> 
 
-**Contra o Capitalismo!** 
+**contra o capitalismo: um *mapa*** 
 ========
 
 `A ciência nunca alvejará o capitalismo!` 
@@ -333,6 +333,7 @@ O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito 
 * Tecnologias da estabilidade: construindo um modo (não estável) de lidar com a mudança
     * Pode uma sociedade acelerada lidar com a mudança sem abandonar instituições?
 * Imaginação e possibilidade: a cegueira normatividade e o compromisso de conceber (imaginar) uma forma de vida que não se realizará em nosso *life span*. Concebendo o impossível!
+* De volta ao Cosmo (Humboldt): resgatando uma visão holística na ciência, ciência e tecnocracia. Conhecimento livre e descomplexificação.
 
 <a name="quem"></a>
 
@@ -370,6 +371,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-13 01:44:40.116116
+Última atualização: 2021-01-14 22:42:11.903873
 
 ### [⤴ Topo](#inicio)
