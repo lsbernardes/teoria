@@ -8,7 +8,7 @@ Por que financiar pesquisas sobre uma possível alternativa ao capitalismo? Exis
 
 Há inegavelmente uma infinidade de críticas ao capitalismo, mas elas não são mais que expressões da pluralidade do pensamento acadêmico e não indicativos de que a sociedade científica está mobilizada e considera o capitalismo uma questão urgente. Enquanto oferece um rico panorama das causas dos nossos problemas, a ciência espera respostas das instituições competentes, mas ela jamais julgará o capitalismo como responsável ou **causa** primordial desses problemas. A ciência hoje está formada por especialistas e para estas pessoas julgar responsabilidades éticas e políticas faz parte do seu âmbito de competência (técnica). A ciência não cortará seu próprio galho, nem que a razão, a lógica e qualquer outra Deusa do olimpo intelectual lhe peça de joelhos.
 
->As três seções são abrangentes mas não pretendem ser universais nem esgotar o tema. Assim, há muitos aspectos do lado de fora (ou seja, elas não visão uma ==totalidade==). Nesse sentido, isso aqui não é mais um mapa arbitrariamente desenhado, mas desenhado com um propósito (como os mapas construidos por Tolkien para ilustrar sua literatura). As seções são *arbitrárias*, como **perspectivas** para abordar o fenômeno do capitalismo. O esquema tem propósito estritamente ilustrativo, isto é, ele não pretende conter uma dimensão argumentativa já que o tema em questão é *fundamental* e, portanto, está protegido contra forças coersivas. Seu sentido consiste apenas em reunir ideias e fatos para que aqueles que *alguma vez pensaram sobre este tema* possam ter uma visão geral (*Übersicht*) da sua complexidade (do sistema capitalista). Como o objetivo é mais exemplificar a complexidade do sistema capitalista do que descrevê-lo (representá-lo), eu posso ser especialmente arbitrário (a arbitrariedade é o contrário do propósito determinista da representação, por isso mesmo a **ficção** lhe serve, e não apenas a verdade).
+>As três seções são abrangentes mas não pretendem ser universais e esgotar o tema. Assim, há muitos aspectos do lado de fora (ou seja, elas não visam uma ==totalidade==). Nesse sentido, isso aqui não é mais um mapa arbitrariamente desenhado, mas desenhado com um propósito (como os mapas construidos por Tolkien para ilustrar sua literatura). As seções são *arbitrárias*, como **perspectivas** para abordar o fenômeno do capitalismo. O esquema tem propósito estritamente ilustrativo, isto é, ele não pretende conter uma dimensão argumentativa já que o tema em questão é *fundamental* e, portanto, está protegido contra forças coersivas. Seu sentido consiste apenas em reunir ideias e fatos para que aqueles que *alguma vez pensaram sobre este tema* possam ter uma visão geral (*Übersicht*) da sua complexidade (do sistema capitalista). Como o objetivo é mais exemplificar a complexidade do sistema capitalista do que descrevê-lo (representá-lo), eu posso ser especialmente arbitrário (a arbitrariedade é o contrário do propósito determinista da representação, por isso mesmo a **ficção** lhe serve, e não apenas a verdade).
 
 ![A insustentabilidade do capitalismo](https://brausen.com.br/wp-content/uploads/2021/01/justhumansof_capitalismo_sustentavel.jpg)
 > *Sustentabilidade*: não é desejável salvar o capitalismo, não há níveis seguros para o uso dessa substância 
@@ -252,7 +252,7 @@ O liberalismo triunfou e conseguiu inculcar em nossas mentes e instituições a 
 
   ![Melhor que ninguém](https://brausen.com.br/wp-content/uploads/2021/01/linhadotrem_melhor_ninguem.jpg)
 
-  * As máscaras e a autenticidade, a possibilidade da amizade (intimidade). A representação do eu na vida cotidiana: fingimento, *imitação e criação*. Conexão e conhecimento: amigos como extensão de nós mesmos: *pensando em rede*.
+  * As máscaras e a autenticidade, a possibilidade da amizade (intimidade). A representação do eu na vida cotidiana: fingimento, *imitação e criação*. Conexão e conhecimento: amigos como extensão de nós mesmos: *pensando em rede*
   * Intimidade e estranheza! A possibilidade de *reconhecer* o Outro
   * Esporte: pode haver competição sem vaidade, sem narcisismo? Sim! Nietzsche sobre a noção de vitória dos fortes
   * Rivalidade e justiça: Murakami sobre os escritores. Os músicos como paradigmas de generosidade. [Yamandu Costa sobre amizade e generosidade](https://www.youtube.com/watch?v=tUaKbGcEaYM)
@@ -371,6 +371,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-14 22:42:11.903873
+Última atualização: 2021-01-15 11:59:59.497126
 
 ### [⤴ Topo](#inicio)
