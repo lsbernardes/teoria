@@ -61,14 +61,14 @@ Os incontornáveis obstáculos teóricos e práticos ao crescimento econômico e
 * Construindo a inimputabilidade do capitalismo: decompondo causas até descaracterizá-lo como causa. "Era só uma peça ruim, o sistema ainda é bom. Vamos substitui-la e deixar tudo como está!" A **sustentabilidade** como última forma do capitalismo. Um exemplo desse pensamento: o capitalismo pode ser conservado se encontrarmos uma matriz energética renovável e tão eficiente como a matriz fóssil. Podemos seguir crescendo, podemos seguir *progredindo*.
 	* Foucault sobre a genealogia das normas de desenvolvimento sexual (do moral ao clínico e jurídico). Entender as ideias de **progresso**, desenvolvimento e normalidade a partir do paradigma sexual. Contra o progresso: linealidade, circularidade (arquétipo), não linearidade (determinação do sentido: uso da linguagem como determinador do sentido; a poesia, quando a linguagem deliberadamente vai de férias). O sentido da história em Kant, Santo Agostinho, Paul Veyne (arbitrariedade, história e psicologia)
 	* [Zizek sobre o capitalismo cultural](https://www.youtube.com/watch?v=hpAMbpQ8J7g). Capitalismo cultural e ciência: ((humanos || cidadãos) >= cientistas)? A estabilidade da forma de vida individual (seus prazeres e delícias) pode prevalecer sobre a necessidade de desestabilizar instituições? É verdadeiramente possível criticar a ciência? Kuhn e Feyerabend: inimigos da ciência
-* André Gorz e a novidade (teórica) da ecologia. Ecologia como campo transdisciplinar. Mesmo pensadores robustos e capazes de compreender tradições e pensamentos incomunicados, como Rorty ou Habermas, tem uma enorme carência a respeito da ecologia. Nesse sentido, a ecologia nomeia a preocupação central e inevitável de nos pensar a partir do nosso pertencimento a uma rede de vida da qual dependemos e que, além disso, nos define. Preocupação que impõe se à teoria (biologia, economia, sociologia) e à prática (ética e política)
+* André Gorz e a novidade (teórica) da ecologia. Ecologia como campo transdisciplinar. Mesmo pensadores robustos e capazes de compreender tradições e pensamentos incomunicados, como Rorty ou Habermas, tem uma enorme carência a respeito da ecologia. Nesse sentido, a ecologia nomeia a preocupação central e inevitável de nos pensar a partir do nosso pertencimento a uma rede de vida da qual dependemos e que, além disso, nos define. Preocupação que se impõe à teoria (biologia, economia, sociologia) e à prática (ética e política)
   * Justicação após a pragmática. O declínio da verdade redentora (sic) e o primado do sentido. Realismo e não realismo, as consequências éticas da irrelevância dos debates sobre justificação (evidência e coersão: uma ponte para os *expert systems* e o uso da IA). O mesmo destino do debate realismo/não-realismo é o da discussão entre egoísmo e altruísmo (competição e cooperação) em biologia evolucionária
 
  <a name="recursos"></a>
 
 ### Recursos naturais e energéticos
 
-* Combustíveis fosséis, energia solar, eólica, motor a plasma de hidrogênio, etc. A crença cega no desenvolvimento de fontes alternativas de energias que paralisa a crítica ao sistema e que induz a pesquisa (produtividade, o ciclo infinito do capital), como fosse essencialmente um problema técnico a nossa relação com o meio ambiente (e seus "recursos") 
+* Combustíveis fosséis, energia solar, eólica, motor a plasma de hidrogênio (fusão nuclear), etc. A crença cega no desenvolvimento de fontes alternativas de energias que paralisa a crítica ao sistema e que induz a pesquisa (produtividade, o ciclo infinito do capital), como fosse essencialmente um problema técnico a nossa relação com o meio ambiente (e seus "recursos") 
     * *É possível ser crítico da tecnologia sem ser tecnofóbico*? São honestas as críticas a Marcuse e a Heidegger?
     * [Pedro Prieto:](https://www.youtube.com/watch?v=g3MLj8E-GyY) a impossibilidade de substituir os combustíveis fosséis. A expressão da desigualdade no uso de recursos energético entre paises ricos e pobres
 * O litio das baterias Tesla e a política da América do Sul. Elon Musk e os interesses das empresas que fabricam carros elétricos. Recursos esgotáveis de soluções messiânicas
@@ -96,7 +96,7 @@ O efeito da presença humana. O que significa a ecologia? A influência mútua, 
 ### Pegada ecológica e Antropoceno 
 
 * Antropoceno: mais de 200 tipos de [novos minerais derivados da ação e influência humana](https://www.theguardian.com/science/2017/mar/01/rock-of-ages-impact-of-manmade-crystals-defining-new-geological-epoch-study) na natureza.
-* [Sexta grande extinção em massa](https://www.nytimes.com/2019/05/06/climate/biodiversity-extinction-united-nations.html). A imprevisibilidade do impacto de extinções massivas num sistema não determístico
+* [Sexta grande extinção em massa](https://www.nytimes.com/2019/05/06/climate/biodiversity-extinction-united-nations.html). A imprevisibilidade do impacto de extinções massivas num sistema não determístico (ou pelo menos com graus não completos de determinação)
     * [Apocalipse dos insetos](https://www.nytimes.com/2018/11/27/magazine/insect-apocalypse.html), das abelhas
 * O colapso dos oceanos: acidificação, o branqueamento dos corais e a [morte de biomassa no mais variados extratos da biosfera](https://elpais.com/ciencia/2020-11-30/las-amenazas-de-la-ultima-frontera-de-la-humanidad-en-la-tierra.html).
 * A presença de plástico. O conforto do plástico. O plástico e o ritmo da sociedade: o tempo da sociedade seria outro se não houvesse plástico. O plástico nos acelera, ou melhor, permite o aceleramento.
@@ -142,7 +142,7 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
 * A complexidade da relação entre Rios Voadores, os Andes e o Cerrado como exemplo do caráter insubstituível das relações naturais. Além disso, vem da África parte das particulas sólidas em torno das quais a água condensada da Amazônia se agrega
     * [Altair Barbosa sobre a complexidade do Bioma Cerrado](https://www.jornalopcao.com.br/entrevistas/o-cerrado-esta-extinto-e-isso-leva-ao-fim-dos-rios-e-dos-reservatorios-de-agua-16970/): raízes e sementes
     
-    * Antonio Nobre sobre, entre outras coisas, os rios voadores
+    * [Antonio Nobre sobre, entre outras coisas, os rios voadores](https://www.youtube.com/watch?v=_9-fia-bdlo)
 
       [![Spaceship Earth](http://img.youtube.com/vi/5JOwk2iD80M/0.jpg)](http://www.youtube.com/watch?v=5JOwk2iD80M "Spaceship Earth")
     
@@ -152,12 +152,14 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
     
     * O sonho de criar um ambiente artificial, a cidade e o meio ambiente. *Smart Cities* como sintoma de uma compreensão antiecológica da vida humana. *High Life* e a **ficção científica**,  seres humanos e ambiente espaciais: *Wall-E, Star Wars, Interstellar, The Martian, Gravity,* *and so on and so on*. Não somos independentes. Saúde do corpo e saúde mental (espiritual)
     
-      * Ambientes espaciais: o pressão evolutiva causada pela perda dos ambientes aos quais estamos ligados. Somos o mundo! Somos um pedacinho do mundo. Ninguém sai de Salvador ao Alaska impune (embora existam muitas pessoas adaptáveis). ~~Corrigindo~~: somos um pedacinho do mundo! A experiência dos astronautas com a falta da gravidade e de todas as condições (originais) da biosfera: efeitos no corpo da distância *do nosso lugar na praia*
+      * Ambientes espaciais: o pressão evolutiva causada pela perda dos ambientes aos quais estamos ligados. Somos o mundo! Ninguém sai de Salvador para viver no Alaska impune (embora existam muitas pessoas adaptáveis). ~~Corrigindo~~: somos um pedacinho do mundo! A experiência dos astronautas com a falta da gravidade e de todas as condições (originais) da biosfera: efeitos no corpo da distância *do nosso lugar na praia*
       * Big Data (*file systems* e técnicas de processamento paralelo), 5G, IA, Internet das coisas: infraestrutura das *smart cities*
       *  SUV: ostentação e sucesso nos países pobres, [o discurso do *winner*](https://www.youtube.com/watch?v=iqFOmq_9TR8) (*imitando* os vencedores) 
-* Inteligência e natureza. A vaidade da inteligência humana e a subestimação da inteligência animal
-    * *Comparative cognition*: [pássaros](https://science.sciencemag.org/content/369/6511/1626.editor-summary), [aranhas](https://piaui.folha.uol.com.br/materia/teco-logo-existo/), etc
     
+* Inteligência e natureza. A vaidade da inteligência humana e a subestimação da inteligência animal
+    
+    * Contra a estabilidade: a inteligência como fator desestabilizador, como expressão da aleatoriedade
+    * *Comparative cognition*: [pássaros](https://science.sciencemag.org/content/369/6511/1626.editor-summary), [aranhas](https://piaui.folha.uol.com.br/materia/teco-logo-existo/), etc
 
 <a name="sistemas"></a>
 
@@ -200,6 +202,7 @@ O que nós queremos? Como o capitalismo forma não apenas o nosso desejo, mas qu
 * Algoritmos e técnicas de manipulação, adição e *triggers hormonais*. [Jaron Lanier](https://www.youtube.com/watch?v=kc_Jq42Og7Q) e [Martin Hilbert](https://www.bbc.com/portuguese/salasocial-54678733
 ) sobre *Dopamine farms* e técnicas de manipulação inerentes à **economia da atenção**. O papel da negatividade (violência, segregação, medo, etc) na constituição do *engajamento* das redes sociais e plataformas, engajamento necessário para afinar as métricas dos algoritmos — o positivo não tem o mesmo efeito de nos fazer reagir. O engajamento é o capital da economia da digital: [Jaron Lanier e *Data Dignity*](https://www.youtube.com/watch?v=Np5ri-KktNs)
     * *Cambridge Analytica*, [caso paradigmático](https://www.showmetech.com.br/big-data-trump/)
+  * Publicidade e a formação do desejo. Marcuse e Don Draper (*Mad Men*)
 * *Century of Self*, documentário da BBC sobre como o indíviduo passou ao primeiro plano ao longo do século XX, em prejuízo das lutas coletivas
 
 [![BBC: Century of Self ](http://img.youtube.com/vi/DnPmg0R1M04/0.jpg)](http://www.youtube.com/watch?v=DnPmg0R1M04 "BBC: Century of Self ")
@@ -371,6 +374,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-15 11:59:59.497126
+Última atualização: 2021-01-15 12:36:20.131739
 
 ### [⤴ Topo](#inicio)
