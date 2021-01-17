@@ -99,7 +99,7 @@ O efeito da presença humana. O que significa a ecologia? A influência mútua, 
 * [Sexta grande extinção em massa](https://www.nytimes.com/2019/05/06/climate/biodiversity-extinction-united-nations.html). A imprevisibilidade do impacto de extinções massivas num sistema não determístico (ou pelo menos com graus não completos de determinação)
     * [Apocalipse dos insetos](https://www.nytimes.com/2018/11/27/magazine/insect-apocalypse.html), das abelhas
 * O colapso dos oceanos: acidificação, o branqueamento dos corais e a [morte de biomassa no mais variados extratos da biosfera](https://elpais.com/ciencia/2020-11-30/las-amenazas-de-la-ultima-frontera-de-la-humanidad-en-la-tierra.html).
-* A presença de plástico. O conforto do plástico. O plástico e o ritmo da sociedade: o tempo da sociedade seria outro se não houvesse plástico. O plástico nos acelera, ou melhor, permite o aceleramento.
+* A presença de plástico. O conforto do plástico. O plástico e o ritmo da sociedade: o tempo da sociedade seria outro se não houvesse plástico. O plástico nos acelera, ou melhor, permite o aceleramento
     * A culinária e a terapia do tempo
 * Derretimento do gelo polar: [liberação de uma quantidade ingente de gás carbonico aprisionada no *permafrost*](https://www.nationalgeographic.com/science/2020/02/arctic-thawing-ground-releasing-shocking-amount-dangerous-gases/)
 
@@ -119,7 +119,7 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
 
 ### Natureza e cultura
 
-* A institucionalização da relação com a natureza. A arrogância humana, Levi Strauss sobre a animalidade dos homens.
+* A institucionalização da relação com a natureza. A arrogância humana, Levi Strauss sobre a animalidade dos homens
 > Começou-se por cortar o homem da natureza e constituí-lo como um reino supremo. Supunha-se apagar desse modo seu caráter mais irrecusável, qual seja, ele é primeiro um ser vivo. E permanecendo cegos a essa propriedade comum, deixou-se o campo livre para todos os abusos. Nunca antes do termo destes últimos quatro séculos de sua história, o homem ocidental percebeu tão bem que, ao arrogar-se o direito de separar radicalmente a humanidade da animalidade, concedendo a uma tudo o que tirava da outra, abria um ciclo maldito. E que a mesma fronteira, constantemente empurrada, serviria para separar homens de outros homens, e reivindicar em prol de minorias cada vez mais restritas o privilégio de um humanismo, corrompido de nascença por ter feito do amor-próprio seu princípio e noção. — Levi-Strauss. *Antropologia Estrututral Dois*
 
 * Tendência a confirmação. O papel da estabilidade (~~resistência~~) da ciência (ciência normal e revolução) e o impacto na atitude indolente dos cientistas a respeito do capitalismo
@@ -157,7 +157,7 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
       *  SUV: ostentação e sucesso nos países pobres, [o discurso do *winner*](https://www.youtube.com/watch?v=iqFOmq_9TR8) (*imitando* os vencedores) 
     
 * Inteligência e natureza. A vaidade da inteligência humana e a subestimação da inteligência animal
-    
+  
     * Contra a estabilidade: a inteligência como fator desestabilizador, como expressão da aleatoriedade
     * *Comparative cognition*: [pássaros](https://science.sciencemag.org/content/369/6511/1626.editor-summary), [aranhas](https://piaui.folha.uol.com.br/materia/teco-logo-existo/), etc
 
@@ -202,7 +202,7 @@ O que nós queremos? Como o capitalismo forma não apenas o nosso desejo, mas qu
 * Algoritmos e técnicas de manipulação, adição e *triggers hormonais*. [Jaron Lanier](https://www.youtube.com/watch?v=kc_Jq42Og7Q) e [Martin Hilbert](https://www.bbc.com/portuguese/salasocial-54678733
 ) sobre *Dopamine farms* e técnicas de manipulação inerentes à **economia da atenção**. O papel da negatividade (violência, segregação, medo, etc) na constituição do *engajamento* das redes sociais e plataformas, engajamento necessário para afinar as métricas dos algoritmos — o positivo não tem o mesmo efeito de nos fazer reagir. O engajamento é o capital da economia da digital: [Jaron Lanier e *Data Dignity*](https://www.youtube.com/watch?v=Np5ri-KktNs)
     * *Cambridge Analytica*, [caso paradigmático](https://www.showmetech.com.br/big-data-trump/)
-  * Publicidade e a formação do desejo. Marcuse e Don Draper (*Mad Men*)
+  * Publicidade e a formação do desejo. Marcuse e Don Draper (*Mad Men*). Adestramento e autonomia
 * *Century of Self*, documentário da BBC sobre como o indíviduo passou ao primeiro plano ao longo do século XX, em prejuízo das lutas coletivas
 
 [![BBC: Century of Self ](http://img.youtube.com/vi/DnPmg0R1M04/0.jpg)](http://www.youtube.com/watch?v=DnPmg0R1M04 "BBC: Century of Self ")
@@ -335,8 +335,9 @@ O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito 
 * A impossibilidade dos *puzzle solvers* darem uma resposta a algo que não é meramente um problema técnico (isto é, que não é parte do esquema problema/solução com que eles tendem a ver todas as coisas)
 * Tecnologias da estabilidade: construindo um modo (não estável) de lidar com a mudança
     * Pode uma sociedade acelerada lidar com a mudança sem abandonar instituições?
-* Imaginação e possibilidade: a cegueira normatividade e o compromisso de conceber (imaginar) uma forma de vida que não se realizará em nosso *life span*. Concebendo o impossível!
-* De volta ao Cosmo (Humboldt): resgatando uma visão holística na ciência, ciência e tecnocracia. Conhecimento livre e descomplexificação.
+* Imaginação e possibilidade: a cegueira normatividade e o compromisso de conceber (imaginar) uma forma de vida que não se realizará em nosso *life span*. Concebendo o impossível! 
+    * Imaginação e criação: pensando o lado de fora (da lógica, da normatividade [quadros normativos]). **Ficção e sexo**. Imitação e criação: a contraditória importância da autenticidade e do teatral (simbólico) no sexo. Liberdade, submissão e repressão. O papel da liberdade na criação e na imaginação (o anormal, a loucura), a libido como força criativa (fantasia)
+* De volta ao Cosmo (Humboldt): resgatando uma visão holística na ciência. Ciência e tecnocracia. Conhecimento livre e descomplexificação
 
 <a name="quem"></a>
 
@@ -374,6 +375,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-15 12:36:20.131739
+Última atualização: 2021-01-17 22:10:42.018697
 
 ### [⤴ Topo](#inicio)
