@@ -329,15 +329,28 @@ O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito 
 ### Visões sobre o futuro 
 
 * [Keynes e a jornada de trabalho do futuro](https://www.newyorker.com/magazine/2020/02/10/can-we-have-prosperity-without-growth): expectativa e realidade. Sobre a jornada de 8h de trabalho
+
 * O direito à vagabundagem. Pavese, Lafargue e Nietzsche: trabalho e homens ativos. A malandragem contra a ética protestante 
+  
     * O lugar do lúdico, Marcuse. Trabalho *versus* Jogo
+    
 * A estreiteza da nossa visão sobre a história (3800 anos de hoje até Abraão, não é nada)
+
 * A impossibilidade dos *puzzle solvers* darem uma resposta a algo que não é meramente um problema técnico (isto é, que não é parte do esquema problema/solução com que eles tendem a ver todas as coisas)
+
 * Tecnologias da estabilidade: construindo um modo (não estável) de lidar com a mudança
+  
     * Pode uma sociedade acelerada lidar com a mudança sem abandonar instituições?
+    
 * Imaginação e possibilidade: a cegueira normatividade e o compromisso de conceber (imaginar) uma forma de vida que não se realizará em nosso *life span*. Concebendo o impossível! 
+  
     * Imaginação e criação: pensando o lado de fora (da lógica, da normatividade [quadros normativos]). **Ficção e sexo**. Imitação e criação: a contraditória importância da autenticidade e do teatral (simbólico) no sexo. Liberdade, submissão e repressão. O papel da liberdade na criação e na imaginação (o anormal, a loucura), a libido como força criativa (fantasia)
-* De volta ao Cosmo (Humboldt): resgatando uma visão holística na ciência. Ciência e tecnocracia. Conhecimento livre e descomplexificação
+    
+* De volta ao Cosmo (Humboldt): resgatando uma visão holística na ciência. Ciência e tecnocracia. Conhecimento livre e descomplexificação. 
+
+    ![Holismo e múltiplos sistemas](https://brausen.com.br/wp-content/uploads/2021/01/systems_holism.gif)
+
+    > Etnologia como principal forma de objetividade. Antropologia e Psicologia
 
 <a name="quem"></a>
 
@@ -375,6 +388,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-17 22:10:42.018697
+Última atualização: 2021-01-17 23:44:39.496281
 
 ### [⤴ Topo](#inicio)
