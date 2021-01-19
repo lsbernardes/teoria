@@ -123,17 +123,17 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
 > Começou-se por cortar o homem da natureza e constituí-lo como um reino supremo. Supunha-se apagar desse modo seu caráter mais irrecusável, qual seja, ele é primeiro um ser vivo. E permanecendo cegos a essa propriedade comum, deixou-se o campo livre para todos os abusos. Nunca antes do termo destes últimos quatro séculos de sua história, o homem ocidental percebeu tão bem que, ao arrogar-se o direito de separar radicalmente a humanidade da animalidade, concedendo a uma tudo o que tirava da outra, abria um ciclo maldito. E que a mesma fronteira, constantemente empurrada, serviria para separar homens de outros homens, e reivindicar em prol de minorias cada vez mais restritas o privilégio de um humanismo, corrompido de nascença por ter feito do amor-próprio seu princípio e noção. — Levi-Strauss. *Antropologia Estrututral Dois*
 
 * Tendência a confirmação. O papel da estabilidade (~~resistência~~) da ciência (ciência normal e revolução) e o impacto na atitude indolente dos cientistas a respeito do capitalismo
-    
+  
     * **Ciência e mercado**. O efeito da pesquisa no desenvolvimento científico. Ainda que os estados nacionais (interesse público) [sejam os maiores financiadores do desenvolvimento científico](https://jornal.usp.br/ciencias/nos-paises-desenvolvidos-o-dinheiro-que-financia-a-ciencia-e-publico/), a influência e a necessidade de que a pesquisa induza a inovação tecnológica (mais produtividade) viciam e restringem a liberdade da ciência. A mão invisível do mercado (interesse privada) coage, o dinheiro manda. Pesquisa e Financiamento: a liberdade condicionada da ciência. 
     
 * *Animal in Epistemology*. Psicologia: a (re)introdução do tempo na lógica com a pragmática. Lógica psicologista. Etnologia e Primatologia, os próximos caminhos da pragmática. O modelo de determinação (~~forma lógica~~) e o tempo: animalidade, sentido e história. A disputa narrativa em torno da evolução humana (pós-Darwin): Kropotkin, Dawkins e Hayek sobre competição e cooperação [Chomski, *Cooperar ou extinguir*] **&#8595; MAIS SOBRE o tema na seção Intersubjetividade**
-    
+  
     * Sentido e verdade, o primado do sentido. [Richard Rorty, *The decline of redemptive truth and the rise of literary culture*](https://drive.google.com/file/d/1P9O1BtjmegV7Gk-2aEH8KegrLtLIw_wC/view?usp=sharing)
     
     ![Novo capitalismo](https://brausen.com.br/wp-content/uploads/2021/01/laertegenial_novo_capitalismo.jpg)
     
 * Extinção ou revolução? **Extinction Rebellion (Greta Thunberg)**: pelo que lutam os ativistas? Respostas institucionais? É *possível* que uma resposta ao capitalismo (à aceleração capitalista) possa ser institucional, vir das instituições? 
-    
+  
     * Transhumanismo e a húbris tecnológica
     * Nietzsche e Montaigne contra Rousseau: o romantismo da revolução *versus* o caos da revolução (e o mito da revolução que instaura a ordem)
         * Ordem ~~regularidade~~ e estabilidade (lógica e psicologia: desacordos e saúde mental)
@@ -235,8 +235,9 @@ Os verdadeiros fiadores do capitalismo são os confortos e mimos criados dentro 
 
 ![A armadilha hedonista do capitalismo](https://brausen.com.br/wp-content/uploads/2021/01/1-a-uni-capitalismo-eh-o-que-eh.jpg)
 
-* O prazer como abstração, o prazer no lugar do dinheiro. Aquilo que é a medida de todas as coisas. O hedonismo é a alma do capitalismo, os prazeres do corpo. Prazer como mercadoria. O que sempre pode se adicionar. Prazer e felicidade!
+* O prazer como abstração, o prazer no lugar do dinheiro. Aquilo que é a medida de todas as coisas. O hedonismo é a alma do capitalismo, os prazeres do corpo. Prazer como mercadoria (repetível, reprodutível) — o que sempre pode se adicionar, acrescentar. Prazer e felicidade!
 * As armadilhas do consumo: diversão e a reprodutibilidade (~~repetição~~) do prazer. O egoísmo do prazer e da diversão. *Revelry*
+  * A notória diferenças entre as festas nas sociedades liberais e nas sociedades ainda em fase de conversão liberal: raves versus carnaval. *Enjoying yourself* 
 
 <a name="intersubjetividade"></a>
 
@@ -297,9 +298,12 @@ Uma guinada em direção a uma sociedade diferente deve enfrentar abertamente o 
 * Aprender com o "primitivo": descomplexificar. O lugar do simples, o dogma da complexidade
 
 * Conhecimento livre: como experiências tecnológicas tem sedimentado uma visão sobre a colaboração que contorna os frágeis argumentos favoráveis à competição, a ponto de que o software livre tenha se tornado o marco de desenvolvimento de software
-    * Azure: a experiência da Microsoft e do Linux. Bill Gates como paradigma de empreendedor: sobre a criação de um mercado (que logo *quase naturalmente* se tornou monopólio), o mercado de desenvolvimento de software
+
+    ![Azure e Linux](https://brausen.com.br/wp-content/uploads/2021/01/Microsoft-Linux.png)
+
+    * [Azure: a experiência da Microsoft e do Linux](https://www.muycanal.com/2017/11/02/maquinas-virtuales-azure-linux). Bill Gates como paradigma de empreendedor: sobre a criação de um mercado (que logo *quase naturalmente* se tornou monopólio), o mercado de desenvolvimento de software
     * Os donos do conhecimento: pirataria e a pesquisa acadêmica nos países pobres. Conhecimento e propriedade privada, o *status* do conhecimento e a competição velada (hipócrita) na universidade
-    
+
 * A confiança dos desconfiados: a ascensão da extrema direita acompanha um discurso que realça o papel da **família**, é na família que mentalidade puritana crê que deve depositar sua confiança e em nenhum outro lugar
     * Amizade: Goethe como arma, a restauração do papel da amizade. Afinidades eletivas, confiança, conexão e confluência (do afetivo ao epistêmico [brainets])
     * [Ciência psicodélica e os empatógenos](https://viradapsicodelica.blogfolha.uol.com.br/?s=empat%C3%B3geno), favorecendo a conexão com os outros e a dissolução (temporária) do ego. Psilocibina e MDMA como tratamento de depressão e estresse pós-traumático
@@ -397,6 +401,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-19 22:49:01.520607
+Última atualização: 2021-01-19 22:59:47.360476
 
 ### [⤴ Topo](#inicio)
