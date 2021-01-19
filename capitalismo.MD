@@ -123,10 +123,17 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
 > Começou-se por cortar o homem da natureza e constituí-lo como um reino supremo. Supunha-se apagar desse modo seu caráter mais irrecusável, qual seja, ele é primeiro um ser vivo. E permanecendo cegos a essa propriedade comum, deixou-se o campo livre para todos os abusos. Nunca antes do termo destes últimos quatro séculos de sua história, o homem ocidental percebeu tão bem que, ao arrogar-se o direito de separar radicalmente a humanidade da animalidade, concedendo a uma tudo o que tirava da outra, abria um ciclo maldito. E que a mesma fronteira, constantemente empurrada, serviria para separar homens de outros homens, e reivindicar em prol de minorias cada vez mais restritas o privilégio de um humanismo, corrompido de nascença por ter feito do amor-próprio seu princípio e noção. — Levi-Strauss. *Antropologia Estrututral Dois*
 
 * Tendência a confirmação. O papel da estabilidade (~~resistência~~) da ciência (ciência normal e revolução) e o impacto na atitude indolente dos cientistas a respeito do capitalismo
+    
     * **Ciência e mercado**. O efeito da pesquisa no desenvolvimento científico. Ainda que os estados nacionais (interesse público) [sejam os maiores financiadores do desenvolvimento científico](https://jornal.usp.br/ciencias/nos-paises-desenvolvidos-o-dinheiro-que-financia-a-ciencia-e-publico/), a influência e a necessidade de que a pesquisa induza a inovação tecnológica (mais produtividade) viciam e restringem a liberdade da ciência. A mão invisível do mercado (interesse privada) coage, o dinheiro manda. Pesquisa e Financiamento: a liberdade condicionada da ciência. 
+    
 * *Animal in Epistemology*. Psicologia: a (re)introdução do tempo na lógica com a pragmática. Lógica psicologista. Etnologia e Primatologia, os próximos caminhos da pragmática. O modelo de determinação (~~forma lógica~~) e o tempo: animalidade, sentido e história. A disputa narrativa em torno da evolução humana (pós-Darwin): Kropotkin, Dawkins e Hayek sobre competição e cooperação [Chomski, *Cooperar ou extinguir*] **&#8595; MAIS SOBRE o tema na seção Intersubjetividade**
+    
     * Sentido e verdade, o primado do sentido. [Richard Rorty, *The decline of redemptive truth and the rise of literary culture*](https://drive.google.com/file/d/1P9O1BtjmegV7Gk-2aEH8KegrLtLIw_wC/view?usp=sharing)
+    
+    ![Novo capitalismo](https://brausen.com.br/wp-content/uploads/2021/01/laertegenial_novo_capitalismo.jpg)
+    
 * Extinção ou revolução? **Extinction Rebellion (Greta Thunberg)**: pelo que lutam os ativistas? Respostas institucionais? É *possível* que uma resposta ao capitalismo (à aceleração capitalista) possa ser institucional, vir das instituições? 
+    
     * Transhumanismo e a húbris tecnológica
     * Nietzsche e Montaigne contra Rousseau: o romantismo da revolução *versus* o caos da revolução (e o mito da revolução que instaura a ordem)
         * Ordem ~~regularidade~~ e estabilidade (lógica e psicologia: desacordos e saúde mental)
@@ -348,8 +355,10 @@ O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito 
     
 * De volta ao Cosmo (Humboldt): resgatando uma visão holística na ciência. Ciência e tecnocracia. Conhecimento livre e descomplexificação. 
 
-    ![Holismo e múltiplos sistemas](https://brausen.com.br/wp-content/uploads/2021/01/systems_holism.gif)
+    * Polimatia como substituto da especialização: estendendo ao máximo de pessoas possíveis 
 
+    ![Holismo e múltiplos sistemas](https://brausen.com.br/wp-content/uploads/2021/01/systems_holism.gif)
+    
     > Etnologia como principal forma de objetividade. Antropologia e Psicologia
 
 <a name="quem"></a>
@@ -388,6 +397,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-17 23:44:39.496281
+Última atualização: 2021-01-19 22:49:01.520607
 
 ### [⤴ Topo](#inicio)
