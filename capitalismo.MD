@@ -359,7 +359,7 @@ O primado do eu (ego) tem feito com que a visão humana se estreite, a despeito 
     
 * De volta ao Cosmo (Humboldt): resgatando uma visão holística na ciência. Ciência e tecnocracia. Conhecimento livre e descomplexificação. 
 
-    * Polimatia como substituto da especialização: estendendo ao máximo de pessoas possíveis 
+    * Polimatia como substituto da especialização: estendendo o conhecimento sobre o mundo ao máximo de pessoas possíveis 
 
     ![Holismo e múltiplos sistemas](https://brausen.com.br/wp-content/uploads/2021/01/systems_holism.gif)
     
@@ -401,6 +401,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-19 22:59:47.360476
+Última atualização: 2021-01-21 17:56:00.439452
 
 ### [⤴ Topo](#inicio)
