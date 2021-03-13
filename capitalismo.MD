@@ -109,7 +109,7 @@ O efeito da presença humana. O que significa a ecologia? A influência mútua, 
 
 ## Torneiras e rios
 
-Sujeitos urbanos já não são capazes de compreender a natureza como recurso, apenas como **serviço**, como algo pelo que eles pagam. Nós nascemos tendo contato com a água por meio de torneiras, isso dificulta o entendimento de que, por mais acessível que seja, a água é sempre recurso (ver a água como recurso é ainda um modo tecnológico de encará-la, mas é uma forma menos abrupta de introduzir a questão da nossa cegueira, de acostumar nosso olhar um novo modo de ver)
+Sujeitos urbanos já não são capazes de compreender a natureza como recurso, apenas como **serviço**, como algo pelo que eles pagam. Imagina então sentir-se parte do mundo. Nós nascemos tendo contato com a água por meio de torneiras, isso dificulta o entendimento de que, por mais acessível que seja, a água é sempre recurso (ver a água como recurso é ainda um modo tecnológico de encará-la, mas é uma forma menos abrupta de introduzir a questão da nossa cegueira, de acostumar nosso olhar um novo modo de ver)
 
 ![Pantano de San Juan](https://brausen.com.br/wp-content/uploads/2020/12/IMG_20190814_150643_247_DOIS.jpg)
 
@@ -165,7 +165,8 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
     
 * Inteligência e natureza. A vaidade da inteligência humana e a subestimação da inteligência animal
   
-    * Contra a estabilidade: a inteligência como fator desestabilizador, como expressão da aleatoriedade
+    * Contra a estabilidade: a inteligência como fator desestabilizador, como expressão do efeito da aleatoriedade. Singularidade e loucura
+      * Grandes diferenças podem se esconder em pequenos numeros num sistema complexo como o nosso 
     * *Comparative cognition*: [pássaros](https://science.sciencemag.org/content/369/6511/1626.editor-summary), [aranhas](https://piaui.folha.uol.com.br/materia/teco-logo-existo/), etc
 
 <a name="sistemas"></a>
@@ -183,7 +184,7 @@ Sujeitos urbanos já não são capazes de compreender a natureza como recurso, a
 ![Os ricos, como sempre, estão preparados](https://brausen.com.br/wp-content/uploads/2020/12/AngeliAquecimentoTres.png)
 
 * [Jeff Bezos](https://piaui.folha.uol.com.br/materia/o-grande-plano/) e [Elon Musk](https://tribunemag.co.uk/2020/12/billionaire-space-colonialism-is-a-dead-end-for-humanity) e as tecnologias para nos mandar pra fora da Terra. Colonialismo espacial e o paroxismo da civilização antiecológica
-* [Bruno Latour sobre a vontade de fugir](https://www1.folha.uol.com.br/ambiente/2020/09/se-o-brasil-achar-solucao-para-si-vai-salvar-o-resto-do-mundo-diz-bruno-latour.shtml), o não pertencimento (antiecologia). O medo relatado por [Douglas Rushkoff e os preparativos dos mais ricos para o colapso e as insurreições provocados pelos impactos tecnológicos na economia](https://onezero.medium.com/survival-of-the-richest-9ef6cddd0cc1)
+* [Bruno Latour sobre a vontade de fugir](https://www1.folha.uol.com.br/ambiente/2020/09/se-o-brasil-achar-solucao-para-si-vai-salvar-o-resto-do-mundo-diz-bruno-latour.shtml), o não pertencimento (antiecologia). O medo relatado por [Douglas Rushkoff e os preparativos dos mais ricos para o colapso, para as insurreições provocados pelos impactos tecnológicos na economia (automatização e trabalho)](https://onezero.medium.com/survival-of-the-richest-9ef6cddd0cc1) e para o colapso climático
 * O futuro do trabalho é um mundo automatizado? Renda Universal como solução para automatização e o fim do trabalho? Soluções institucionais? [*Electric Dreams*](https://brausen.com.br/2018/10/mate-todos-os-outros/)
 
 <a name="subjetividade"></a>
@@ -206,7 +207,7 @@ O que nós queremos? Como o capitalismo forma não apenas o nosso desejo, mas qu
 
 > [Facebook e as *Dopamine Farms*](https://slate.com/technology/2014/06/facebook-unethical-experiment-it-made-news-feeds-happier-or-sadder-to-manipulate-peoples-emotions.html)
 
-* Algoritmos e técnicas de manipulação, adição e *triggers hormonais*. [Jaron Lanier](https://www.youtube.com/watch?v=kc_Jq42Og7Q) e [Martin Hilbert](https://www.bbc.com/portuguese/salasocial-54678733
+* Algoritmos e técnicas de manipulação, adicção e *triggers hormonais*. [Jaron Lanier](https://www.youtube.com/watch?v=kc_Jq42Og7Q) e [Martin Hilbert](https://www.bbc.com/portuguese/salasocial-54678733
 ) sobre *Dopamine farms* e técnicas de manipulação inerentes à **economia da atenção**. O papel da negatividade (violência, segregação, medo, etc) na constituição do *engajamento* das redes sociais e plataformas, engajamento necessário para afinar as métricas dos algoritmos — o positivo não tem o mesmo efeito de nos fazer reagir. O engajamento é o capital da economia da digital: [Jaron Lanier e *Data Dignity*](https://www.youtube.com/watch?v=Np5ri-KktNs)
     * *Cambridge Analytica*, [caso paradigmático](https://www.showmetech.com.br/big-data-trump/)
   * Publicidade e a formação do desejo. Marcuse e Don Draper (*Mad Men*). Adestramento e autonomia
@@ -401,6 +402,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-03-13 13:24:09.564057
+Última atualização: 2021-03-13 19:30:37.296745
 
 ### [⤴ Topo](#inicio)
