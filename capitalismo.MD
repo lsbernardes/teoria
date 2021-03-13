@@ -62,7 +62,7 @@ Os incontornáveis obstáculos teóricos e práticos ao crescimento econômico e
 	* Foucault sobre a genealogia das normas de desenvolvimento sexual (do moral ao clínico e jurídico). Entender as ideias de **progresso**, desenvolvimento e normalidade a partir do paradigma sexual. Contra o progresso: linealidade, circularidade (arquétipo), não linearidade (determinação do sentido: uso da linguagem como determinador do sentido; a poesia, quando a linguagem deliberadamente vai de férias). O sentido da história em Kant, Santo Agostinho, Paul Veyne (arbitrariedade, história e psicologia)
 	* [Zizek sobre o capitalismo cultural](https://www.youtube.com/watch?v=hpAMbpQ8J7g). Capitalismo cultural e ciência: ((humanos || cidadãos) >= cientistas)? A estabilidade da forma de vida individual (seus prazeres e delícias) pode prevalecer sobre a necessidade de desestabilizar instituições? É verdadeiramente possível criticar a ciência? Kuhn e Feyerabend: inimigos da ciência
 * André Gorz e a novidade (teórica) da ecologia. Ecologia como campo transdisciplinar. Mesmo pensadores robustos e capazes de compreender tradições e pensamentos incomunicados, como Rorty ou Habermas, tem uma enorme carência a respeito da ecologia. Nesse sentido, a ecologia nomeia a preocupação central e inevitável de nos pensar a partir do nosso pertencimento a uma rede de vida da qual dependemos e que, além disso, nos define. Preocupação que se impõe à teoria (biologia, economia, sociologia) e à prática (ética e política)
-  * Justicação após a pragmática. O declínio da verdade redentora (sic) e o primado do sentido. Realismo e não realismo, as consequências éticas da irrelevância dos debates sobre justificação (evidência e coersão: uma ponte para os *expert systems* e o uso da IA). O mesmo destino do debate realismo/não-realismo é o da discussão entre egoísmo e altruísmo (competição e cooperação) em biologia evolucionária
+  * Justificação após a pragmática. O declínio da verdade redentora (sic) e o primado do sentido. Realismo e não realismo, as consequências éticas da irrelevância dos debates sobre justificação (evidência e coersão: uma ponte para os *expert systems* e o uso da IA). O mesmo destino do debate realismo/não-realismo é o da discussão entre egoísmo e altruísmo (competição e cooperação) em biologia evolucionária
 
  <a name="recursos"></a>
 
@@ -401,6 +401,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-01-21 17:56:00.439452
+Última atualização: 2021-03-13 13:24:09.564057
 
 ### [⤴ Topo](#inicio)
