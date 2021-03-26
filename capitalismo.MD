@@ -66,7 +66,7 @@ Os incontornáveis obstáculos teóricos e práticos ao crescimento econômico e
 	* O marketing como grande aliado na construção de uma justificativo para manutenção do capitalismo, limpando a consciência de indivíduos que atomizados (não pertencentes à rede ecologia, a Gaia)
 	
 
-![marketing_green_greta](https://brausen.com.br/wp-content/uploads/2021/03/marketing_green_greta.jpg)s
+![marketing_green_greta](https://brausen.com.br/wp-content/uploads/2021/03/marketing_green_greta.jpg)
 * André Gorz e a novidade (teórica) da ecologia. Ecologia como campo transdisciplinar. Mesmo pensadores robustos e capazes de compreender tradições e pensamentos incomunicados, como Rorty ou Habermas, tem uma enorme carência a respeito da ecologia. Nesse sentido, a ecologia nomeia a preocupação central e inevitável de nos pensar a partir do nosso pertencimento a uma rede de vida da qual dependemos e que, além disso, nos define. Preocupação que se impõe à teoria (biologia, economia, sociologia) e à prática (ética e política)
   
   * Justificação após a pragmática. O declínio da verdade redentora (sic) e o primado do sentido. Realismo e não realismo, as consequências éticas da irrelevância dos debates sobre justificação (evidência e coersão: uma ponte para os *expert systems* e o uso da IA). O mesmo destino do debate realismo/não-realismo é o da discussão entre egoísmo e altruísmo (competição e cooperação) em biologia evolucionária
@@ -410,6 +410,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-03-26 11:58:08.079678
+Última atualização: 2021-03-26 11:59:06.803528
 
 ### [⤴ Topo](#inicio)
