@@ -63,7 +63,7 @@ Os incontornáveis obstáculos teóricos e práticos ao crescimento econômico e
 	
 	* [Zizek sobre o capitalismo cultural](https://www.youtube.com/watch?v=hpAMbpQ8J7g). Capitalismo cultural e ciência: ((humanos || cidadãos) >= cientistas)? A estabilidade da forma de vida individual (seus prazeres e delícias) pode prevalecer sobre a necessidade de desestabilizar instituições? É verdadeiramente possível criticar a ciência? Kuhn e Feyerabend: inimigos da ciência
 	
-	* O marketing como grande aliado na construção de uma justificativo para manutenção do capitalismo, limpando a consciência de indivíduos que atomizados (não pertencentes à rede ecologia, a Gaia)
+	* O marketing como grande aliado na construção de uma justificativa para manutenção do capitalismo, limpando a consciência de indivíduos que atomizados que não se sentem pertencentes à rede ecologia, a Gaia
 	
 	  ![marketing_green_greta](https://brausen.com.br/wp-content/uploads/2021/03/marketing_green_greta2.jpg)
 	
@@ -410,6 +410,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-03-26 12:04:56.211945
+Última atualização: 2021-03-26 12:05:46.836693
 
 ### [⤴ Topo](#inicio)
