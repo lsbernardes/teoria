@@ -60,8 +60,14 @@ Os incontornáveis obstáculos teóricos e práticos ao crescimento econômico e
 * Decrescer e descomplexificar: [vivendo como um animal num planeta finito](https://www.youtube.com/watch?v=uGAbh-E_c5s)
 * Construindo a inimputabilidade do capitalismo: decompondo causas até descaracterizá-lo como causa. "Era só uma peça ruim, o sistema ainda é bom. Vamos substitui-la e deixar tudo como está!" A **sustentabilidade** como última forma do capitalismo. Um exemplo desse pensamento: o capitalismo pode ser conservado se encontrarmos uma matriz energética renovável e tão eficiente como a matriz fóssil. Podemos seguir crescendo, podemos seguir *progredindo*.
 	* Foucault sobre a genealogia das normas de desenvolvimento sexual (do moral ao clínico e jurídico). Entender as ideias de **progresso**, desenvolvimento e normalidade a partir do paradigma sexual. Contra o progresso: linealidade, circularidade (arquétipo), não linearidade (determinação do sentido: uso da linguagem como determinador do sentido; a poesia, quando a linguagem deliberadamente vai de férias). O sentido da história em Kant, Santo Agostinho, Paul Veyne (arbitrariedade, história e psicologia)
+	
 	* [Zizek sobre o capitalismo cultural](https://www.youtube.com/watch?v=hpAMbpQ8J7g). Capitalismo cultural e ciência: ((humanos || cidadãos) >= cientistas)? A estabilidade da forma de vida individual (seus prazeres e delícias) pode prevalecer sobre a necessidade de desestabilizar instituições? É verdadeiramente possível criticar a ciência? Kuhn e Feyerabend: inimigos da ciência
+	
+	* O marketing como grande aliado na construção de uma justificativo para manutenção do capitalismo, limpando a consciência de indivíduos que atomizados (não pertencentes à rede ecologia, a Gaia)
+	
+![marketing_green_greta](/home/ksoze/Desktop/marketing_green_greta.jpg)s
 * André Gorz e a novidade (teórica) da ecologia. Ecologia como campo transdisciplinar. Mesmo pensadores robustos e capazes de compreender tradições e pensamentos incomunicados, como Rorty ou Habermas, tem uma enorme carência a respeito da ecologia. Nesse sentido, a ecologia nomeia a preocupação central e inevitável de nos pensar a partir do nosso pertencimento a uma rede de vida da qual dependemos e que, além disso, nos define. Preocupação que se impõe à teoria (biologia, economia, sociologia) e à prática (ética e política)
+  
   * Justificação após a pragmática. O declínio da verdade redentora (sic) e o primado do sentido. Realismo e não realismo, as consequências éticas da irrelevância dos debates sobre justificação (evidência e coersão: uma ponte para os *expert systems* e o uso da IA). O mesmo destino do debate realismo/não-realismo é o da discussão entre egoísmo e altruísmo (competição e cooperação) em biologia evolucionária
 
  <a name="recursos"></a>
@@ -102,6 +108,7 @@ O efeito da presença humana. O que significa a ecologia? A influência mútua, 
 * A presença de plástico. O conforto do plástico. O plástico e o ritmo da sociedade: o tempo da sociedade seria outro se não houvesse plástico. O plástico nos acelera, ou melhor, permite o aceleramento
     * A culinária e a terapia do tempo
 * Derretimento do gelo polar: [liberação de uma quantidade ingente de gás carbonico aprisionada no *permafrost*](https://www.nationalgeographic.com/science/2020/02/arctic-thawing-ground-releasing-shocking-amount-dangerous-gases/)
+* Financiando um mundo impossível: [grandes bancos dando suporte financeiro às indústrias poluentes mesmo depois do acordo de Paris](https://www.theguardian.com/environment/2021/mar/24/big-banks-trillion-dollar-finance-for-fossil-fuels-shocking-says-report)
 
 ![Poorlydrawnlines](https://brausen.com.br/wp-content/uploads/2021/01/poorlydrawnlines_9d4b0759843ed_DOIS.jpg) 
 
@@ -402,6 +409,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-03-13 19:30:37.296745
+Última atualização: 2021-03-26 11:56:13.181841
 
 ### [⤴ Topo](#inicio)
