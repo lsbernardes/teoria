@@ -113,6 +113,13 @@ O efeito da presença humana. O que significa a ecologia? A influência mútua, 
 
 ![Poorlydrawnlines](https://brausen.com.br/wp-content/uploads/2021/01/poorlydrawnlines_9d4b0759843ed_DOIS.jpg) 
 
+### Enxugando gelo
+
+Ao longo deste mapa há muitas informações sobre paleativos apresentados como *soluções* para questões climáticas, no entanto, convém separar uma seção somente para reunir o otimismo conveniente de quem, não querendo ver, insiste acreditar que há soluções técnicas que nos dispensam de construir uma cultura e uma forma de vida diferentes
+
+- [Alimentando o gado com algas marinhas para reduzir a poluição por metano](https://www.washingtonpost.com/climate-solutions/2020/11/27/climate-solutions-seaweed-methane/)
+- [Enzimas que comem plástico para descontaminar os oceanos](https://www.theguardian.com/environment/2018/apr/16/scientists-accidentally-create-mutant-enzyme-that-eats-plastic-bottles)? É maldade de minha parte, nem todas as informações são apresentadas como panaceias, mas ainda assim convém lembrar do ânimo geral dos que lutam firmemente para nos manter no sistema
+
 <a name="torneira"></a> 
 
 ## Torneiras e rios
@@ -410,6 +417,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-03-26 12:05:46.836693
+Última atualização: 2021-03-27 22:14:52.009200
 
 ### [⤴ Topo](#inicio)
