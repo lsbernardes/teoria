@@ -4,7 +4,7 @@
 ========
 
 `A ciência nunca alvejará o capitalismo!` 
-Por que financiar pesquisas sobre uma possível alternativa ao capitalismo? Existem pesquisas importantes envolvendo esse tema? Onde elas estão? Digo, em que centros de pesquisa, em que universidades? Em que departamentos? **Não há pesquisas envolvendo alternativas ao capitalismo, simples assim**! Será então é seguro dizer que o capitalismo é o maior *dogma* das sociedades humanas (como o dogma d[a democracia de que fala Ortega y Gasset](https://brausen.com.br/2017/05/racionalistas-sem-razoes-a-cultura-sem-vitalidade-de-ortega-y-gasset/))?
+Por que financiar pesquisas sobre uma possível alternativa ao capitalismo? Existem pesquisas importantes envolvendo esse tema? Onde elas estão? Digo, em que centros de pesquisa, em que universidades? Em que departamentos? **Não há pesquisas envolvendo alternativas ao capitalismo, simples assim**! Será então que é seguro dizer que o capitalismo é o maior *dogma* das sociedades humanas (como o dogma d[a democracia de que fala Ortega y Gasset](https://brausen.com.br/2017/05/racionalistas-sem-razoes-a-cultura-sem-vitalidade-de-ortega-y-gasset/))?
 
 Há inegavelmente uma infinidade de críticas ao capitalismo, mas elas não são mais que expressões da pluralidade do pensamento acadêmico e não indicativos de que a sociedade científica está mobilizada e considera o capitalismo uma questão urgente. Enquanto oferece um rico panorama das causas dos nossos problemas, a ciência espera respostas das instituições competentes, mas ela jamais julgará o capitalismo como responsável ou **causa** primordial desses problemas. A ciência hoje está formada por especialistas e para estas pessoas julgar responsabilidades éticas e políticas faz parte do seu âmbito de competência (técnica). A ciência não cortará seu próprio galho, nem que a razão, a lógica e qualquer outra Deusa do olimpo intelectual lhe peça de joelhos.
 
@@ -223,7 +223,7 @@ O que nós queremos? Como o capitalismo forma não apenas o nosso desejo, mas qu
 > [Facebook e as *Dopamine Farms*](https://slate.com/technology/2014/06/facebook-unethical-experiment-it-made-news-feeds-happier-or-sadder-to-manipulate-peoples-emotions.html)
 
 * Algoritmos e técnicas de manipulação, adicção e *triggers hormonais*. [Jaron Lanier](https://www.youtube.com/watch?v=kc_Jq42Og7Q) e [Martin Hilbert](https://www.bbc.com/portuguese/salasocial-54678733
-) sobre *Dopamine farms* e técnicas de manipulação inerentes à **economia da atenção**. O papel da negatividade (violência, segregação, medo, etc) na constituição do *engajamento* das redes sociais e plataformas, engajamento necessário para afinar as métricas dos algoritmos — o positivo não tem o mesmo efeito de nos fazer reagir. O engajamento é o capital da economia da digital: [Jaron Lanier e *Data Dignity*](https://www.youtube.com/watch?v=Np5ri-KktNs)
+  ) sobre *Dopamine farms* e técnicas de manipulação inerentes à **economia da atenção**. O papel da negatividade (violência, segregação, medo, etc) na constituição do *engajamento* das redes sociais e plataformas, engajamento necessário para afinar as métricas dos algoritmos — o positivo não tem o mesmo efeito de nos fazer reagir. O engajamento é o capital da economia da digital: [Jaron Lanier e *Data Dignity*](https://www.youtube.com/watch?v=Np5ri-KktNs)
     * *Cambridge Analytica*, [caso paradigmático](https://www.showmetech.com.br/big-data-trump/)
   * Publicidade e a formação do desejo. Marcuse e Don Draper (*Mad Men*). Adestramento e autonomia
 * *Century of Self*, documentário da BBC sobre como o indíviduo passou ao primeiro plano ao longo do século XX, em prejuízo das lutas coletivas
@@ -417,6 +417,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-03-27 22:14:52.009200
+Última atualização: 2021-05-03 22:59:21.875192
 
 ### [⤴ Topo](#inicio)
