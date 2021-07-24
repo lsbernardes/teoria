@@ -109,6 +109,7 @@ O efeito da presença humana. O que significa a ecologia? A influência mútua, 
 * A presença de plástico. O conforto do plástico. O plástico e o ritmo da sociedade: o tempo da sociedade seria outro se não houvesse plástico. O plástico nos acelera, ou melhor, permite o aceleramento
     * A culinária e a terapia do tempo
 * Derretimento do gelo polar: [liberação de uma quantidade ingente de gás carbonico aprisionada no *permafrost*](https://www.nationalgeographic.com/science/2020/02/arctic-thawing-ground-releasing-shocking-amount-dangerous-gases/)
+* Passamos a um novo estágio: [a Amazônia deixou de absorver o carbono emitido pelos seres humanos e tornou-se emissora de carbono](https://www.nytimes.com/2021/07/14/climate/amazon-rainforest-carbon.html)
 * Financiando um mundo impossível: [grandes bancos dando suporte financeiro às indústrias poluentes mesmo depois do acordo de Paris](https://www.theguardian.com/environment/2021/mar/24/big-banks-trillion-dollar-finance-for-fossil-fuels-shocking-says-report)
 
 ![Poorlydrawnlines](https://brausen.com.br/wp-content/uploads/2021/01/poorlydrawnlines_9d4b0759843ed_DOIS.jpg) 
@@ -417,6 +418,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2021-05-03 22:59:21.875192
+Última atualização: 2021-07-24 14:30:35.198598
 
 ### [⤴ Topo](#inicio)
