@@ -418,6 +418,6 @@ Este esquema é essencialmente provisório, pois seu propósito é reunir ideias
 Leonardo Bernardes
 https://brausen.com.br
 
-Última atualização: 2022-01-22 12:43:50.643814
+Última atualização: 2022-01-22 12:47:54.863131
 
 ### [⤴ Topo](#inicio)
